@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="[Castle] Avalanche" nameDescription="castle avalanche" race="undead" experience="650000000" speed="995">
+	<health now="1000000" max="1000000"/>
+	<look type="261" corpse="7349"/>
+	<targetchange interval="2000" chance="5"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag staticattack="78"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-20000" max="-25000"/>
+		<attack name="physical" interval="2000" chance="11" length="5" spread="0" min="-21000" max="-24000">
+			<attribute key="areaEffect" value="energyarea"/>
+		</attack>
+		<attack name="speed" interval="1000" chance="10" radius="3" duration="10000" speedchange="-400">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="ice" interval="1000" chance="9" radius="1" target="1" range="5" min="0" max="-40">
+			<attribute key="shootEffect" value="smallice"/>
+		</attack>
+	</attacks>
+	<defenses armor="26" defense="27">
+	</defenses>
+	<immunities>
+		<immunity name="invisible"/>
+	</immunities>
+	<elements>
+	<element firePercent="30"/>
+	<element energyPercent="-10"/>
+	</elements>
+	    <loot>
+    </loot>
+</monster>

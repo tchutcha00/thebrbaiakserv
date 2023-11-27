@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Dark Clown" nameDescription="a dark clown" race="blood" experience="80000" speed="1000" manacost="0">
+	<health now="8000" max="8000"/>
+	<look type="273" head="12" body="12" legs="12" feet="12" addons="3" corpse="5527"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" min="-100" max="-700"/>
+		<attack name="physical" interval="800" chance="100" range="7" min="-3500" max="-4000">
+			<attribute key="shootEffect" value="arrow"/>
+		</attack>
+		<attack name="lifedrain" interval="1000" chance="1" length="8" spread="0" min="-100" max="-100">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+	</attacks>
+	<defenses armor="30" defense="20">
+		<defense name="healing" interval="1000" chance="10" min="100" max="200">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element icePercent="1"/>
+		<element physicalPercent="1"/>
+		<element firePercent="1"/>
+		<element deathPercent="1"/>
+		<element holyPercent="1"/>
+		<element energyPercent="1"/>
+		<element earthPercent="1"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+	</voices>
+	<loot>
+		    <item id="2160" countmax="40" chance1="100000" chancemax="0"/>
+	<item id="2160" chance="35452" countmax="20" />
+	 <item id="2480" chance="1500"/>
+    <item id="2530" chance="2857"/>
+    <item id="1987" chance="100000">
+	 </item>
+	</loot>
+</monster>

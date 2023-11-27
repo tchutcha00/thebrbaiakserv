@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Online Seller" script="data/npc/scripts/Online Seller.lua" walkinterval="0" floorchange="0" direction="1">
+    <health now="100" max="100"/>
+    <look type="133" head="0" body="85" legs="85" feet="0" addons="3"/>
+	<parameters>
+	<parameter key="coinId" value="10558" />
+	<parameter key="message_greet" value="Olá, |PLAYERNAME|! Eu vendo alguns itens por Online Token. Os itens {Soul War Boots} e {Soul War Shield} duram apenas 6 horas, eles são 2x mais forte que os donate. Diga {trade}." />
+	</parameters>
+</npc>
+

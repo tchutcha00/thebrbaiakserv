@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Genio" nameDescription="a genio" race="blood" experience="65000000" speed="1000" manacost="0">
+	<health now="1500000" max="1500000"/>
+	<look type="51" corpse="6016"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1500" skill="5" attack="22000"/>
+		<attack name="fire" interval="1000" chance="50" range="7" min="-22000" max="-22100">
+			<attribute key="shootEffect" value="fire"/>
+		</attack>
+		<attack name="energycondition" interval="2000" chance="34" range="7" min="-22000" max="-22100">
+			<attribute key="shootEffect" value="energy"/>
+		</attack>
+		<attack name="lifedrain" interval="3000" chance="25" range="7" min="-55" max="-105">
+			<attribute key="shootEffect" value="suddendeath"/>
+		</attack>
+		<attack name="drunk" interval="1000" chance="15" range="7">
+			<attribute key="shootEffect" value="energy"/>
+			<attribute key="areaEffect" value="energyarea"/>
+		</attack>
+	</attacks>
+	<defenses armor="18" defense="10"/>
+	<elements>
+		<element firePercent="80"/>
+		<element energyPercent="50"/>
+		<element physicalPercent="30"/>
+		<element deathPercent="20"/>
+		<element icePercent="-10"/>
+		<element holyPercent="-10"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>>
+	<voices interval="5000" chance="10">
+		<voice sentence="I grant you a deathwish!"/>
+		<voice sentence="Muhahahaha!"/>
+		<voice sentence="I wish you a merry trip to hell!"/>
+		<voice sentence="Good wishes are for fairytales"/>
+	</voices>
+	<loot>
+		<item id="2656" chance="3000"/><!-- blue robe -->
+		<item id="2160" countmax="5" chance="3000"/><!-- crystal coin -->
+	</loot>
+</monster>

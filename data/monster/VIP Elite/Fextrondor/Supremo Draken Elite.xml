@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Supremo Draken Elite" nameDescription="a supremo draken elite" race="blood" experience="100000000" speed="9000" manacost="0">
+<health now="1200000" max="1200000"/>
+<look type="362" corpse="12570"/>
+<targetchange interval="5000" chance="10"/>
+<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" skill="1" attack="2500"/>
+		<attack name="fire" interval="1100" chance="25" length="4" spread="3" max="-4000">
+			<attribute key="shootEffect" value="explosion"/>
+			<attribute key="areaEffect" value="explosion"/>
+		</attack>
+		<attack name="fire" interval="1300" chance="25" range="7" target="1" min="-2400" max="-2800">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="earth" interval="1100" chance="10" radius="3">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+	</attacks>
+	<defenses armor="16" defense="19">
+		<defense name="healing" interval="2000" chance="15" min="510" max="600">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="15"/>
+		<element holyPercent="30"/>
+		<element deathPercent="30"/>
+		<element energyPercent="40"/>
+		<element icePercent="25"/>
+	</elements>
+	<immunities>
+		<immunity fire="1"/>
+		<immunity earth="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="For ze emperor!"/>
+	</voices>
+	<loot>
+	<item id="2160" countmin="1" countmax="10" chance="5500"/>
+	</loot>
+</monster>

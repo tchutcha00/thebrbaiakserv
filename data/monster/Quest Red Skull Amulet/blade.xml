@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- By Cosa Nostra -->
+<monster name="Blade" nameDescription="a blade" race="blood" experience="28000000" speed="10000" manacost="0">
+<health now="1700000" max="1700000"/>
+<look type="152" head="114" body="114" legs="114" feet="114" addons="3" corpse="6080"/>
+<targetchange interval="2000" chance="20"/>
+<strategy attack="100" defense="0"/>
+<strategy attack="100" defense="0"/>
+<flags>
+   <flag summonable="0"/>
+   <flag attackable="1"/>
+   <flag hostile="1"/>
+   <flag illusionable="0"/>
+   <flag convinceable="0"/>
+   <flag pushable="0"/>
+   <flag canpushitems="1"/>
+   <flag canpushcreatures="1"/>
+   <flag targetdistance="1"/>
+   <flag staticattack="90"/>
+   <flag runonhealth="0"/>
+   <flag skull="black"/>
+</flags>
+<attacks>
+   <attack name="explosion" interval="1000" chance="14" range="3" radius="2" target="1" min="-12000" max="-13000">
+      <attribute key="shootEffect" value="explosion"/>
+      <attribute key="areaEffect" value="explosionarea"/>
+   </attack>
+   <attack name="explosion" interval="1000" chance="10" length="0" spread="0" min="-13000" max="-14000">
+        <attribute key="areaEffect" value="explosion"/>
+      </attack>
+   <attack name="lifedrain" interval="2000" range="4" radius="2" target="1" min="-15000" max="-16000">
+      <attribute key="areaEffect" value="redshimmer"/>
+   </attack>
+</attacks>
+   <defenses armor="25" defense="30">
+   <defense name="healing" interval="1000" chance="25" min="12000" max="30000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+   </defense>
+   <defense name="outfit" interval="1500" chance="34" monster="Vampire" duration="2000"/>
+   <defense name="outfit" interval="1500" chance="30" monster="bat" duration="6000"/>
+</defenses>
+<elements>
+   <element earthPercent="100"/>
+   <element icePercent="100"/>
+   <element firePercent="-16"/>
+   <element energyPercent="80"/>
+   <element physicalPercent="22"/>
+   <element deathPercent="100"/>
+   <element holyPercent="-16"/>
+</elements>
+<immunities>
+   <immunity death="1"/>
+   <immunity lifedrain="1"/>
+   <immunity paralyze="1"/>
+   <immunity outfit="1"/>
+   <immunity drunk="1"/>
+   <immunity invisible="1"/>
+</immunities>
+<voices interval="1000" chance="25">
+   <voice sentence="JURO VENGAR AMI MADRE!" yell="1"/>
+   <voice sentence="Acabre Uds!" yell="1"/>
+   <voice sentence="Muerte A Los Vampiros!" yell="1"/>
+</voices>
+<loot>
+   <item id="2195" chance="80000"/><!-- Boots Of Haste -->
+   <item id="11301" chance="70000"/><!--  Zaoan Sword -->
+</loot>
+</monster>

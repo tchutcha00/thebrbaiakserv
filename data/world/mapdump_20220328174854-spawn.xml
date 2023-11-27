@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+  <spawn centerx="121" centery="69" centerz="7" radius="1">
+    <monster name="[TASK] Grizzly Adams" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="127" centery="76" centerz="7" radius="1">
+    <monster name="[UTILITARIOS] Event Seller" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="104" centery="77" centerz="7" radius="1">
+    <monster name="HYPER RESET" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="101" centery="85" centerz="7" radius="1">
+    <monster name="Online Seller" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+</spawns>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Armando" tp="1" nameDescription="a Jarocha" race="blood" experience="85" speed="2700" manacost="0">
+	<health now="55000000 " max="55000000 "/>
+	<look type="140" head="79" body="91" legs="128" feet="93" addons="1" corpse="6080"/>
+    <targetchange interval="60000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="0"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag staticattack="70"/>
+      <flag lightlevel="0"/>
+      <flag lightcolor="0"/>
+      <flag targetdistance="1"/>
+      <flag runonhealth="0"/>
+    </flags>
+    <attacks>
+      <attack name="melee" interval="2000" min="-30" max="-80"/>
+        <attack name="holy" interval="3000" chance="100" range="7" min="-190000" max="-150000">
+        <attribute key="shootEffect" value="smallholy"/>
+	  <attribute key="areaEffect" value="holydamage"/>
+          </attack>
+        <attack name="Physical" interval="4000" chance="100" range="7" min="-190000" max="-195000">
+	  <attribute key="areaEffect" value="holydamage"/>
+        </attack>
+     <attack name="ice" interval="2000" chance="100" range="7" min="-130000" max="-150000">
+	  <attribute key="areaEffect" value="iceattack"/>
+     <attribute key="shootEffect" value="ice"/>
+        </attack>
+    </attacks>
+    <defenses armor="3000" defense="3000">
+    </defenses>
+	<elements>
+	  <element icePercent="50"/>
+	  <element holyPercent="20"/>
+	  <element energyPercent="20"/>
+	  <element physicalPercent="4"/>
+	  <element earthPercent="-13"/>
+	  <element deathPercent="-7"/>
+	</elements>
+  	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+<voices interval="2000" chance="5">
+      <voice sentence="Me hise la jarocha"/>
+       <voice sentence="Hola soy Paulina PERO ME DECIAN ARMANDO"/>
+       </voices>
+
+    <loot>
+      <item id="2148" countmax="30" chance1="33333" chancemax="30"/>
+      <item id="2403" chance="10000"/>
+      <item id="2460" chance="10000"/>
+      <item id="2050" chance="10000"/>
+      <item id="2168" chance="333"/>
+      <item id="7462" chance="900"/>
+      <item id="7449" chance="100"/>
+    </loot>
+</monster>

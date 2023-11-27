@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Fusion Defiler" nameDescription="a fusion defiler" race="venom" experience="10000" speed="2000" manacost="0">
+	<health now="90000000" max="90000000"/>
+	<look type="238" corpse="6532"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag ignorespawnboost="1"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="800" min="-1100000" max="-1200000"/>
+		<attack name="speed" interval="800" chance="12" radius="6" target="0" speedchange="-400" duration="10000">
+			<attribute key="areaEffect" value="poison"/>
+		</attack>
+		<attack name="physical" interval="800" chance="17" range="7" min="-1100000" max="-1200000">
+			<attribute key="shootEffect" value="poison"/>
+		</attack>
+		</attacks>
+	<defenses armor="15" defense="15">
+		<defense name="healing" interval="1000" chance="50" min="3400" max="6100">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element earthPercent="100"/>
+		<element energyPercent="50"/>
+		<element icePercent="40"/>
+		<element firePercent="-20"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="Blubb"/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

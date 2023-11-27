@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Revolution Frost Dragon" nameDescription="a revolution frost dragon" race="undead" experience="2300" speed="9999" manacost="0">
+	<health now="40000000" max="40000000"/>
+	<look type="248" corpse="7091"/>
+	<targetchange interval="5000" chance="6"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="70"/>
+		<flag runonhealth="250"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" skill="1" attack="156000"/>
+		<attack name="physical" interval="1200" chance="28" range="7" radius="4" target="1" min="-154000" max="-158000">
+			<attribute key="shootEffect" value="energy"/>
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="physical" interval="1200" chance="22" length="7" spread="3" min="-145000" max="-154000">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="melee" interval="1530" chance="35" range="7" radius="3" target="0" min="-0" max="-70">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="speed" interval="4000" chance="25" range="7" target="1" speedchange="-600" duration="50000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="ice" interval="1300" chance="35" range="4" radius="4" target="0" min="-132000" max="-14300">
+			<attribute key="areaEffect" value="icetornado"/>
+		</attack>
+	</attacks>
+	<defenses armor="22" defense="35">
+		<defense name="healing" interval="1000" chance="25" min="80" max="120">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element firePercent="100"/>
+		<element icePercent="100"/>
+		<element earthPercent="100"/>
+		<element physicalPercent="15"/>
+	</elements>
+	<immunities>
+		<immunity lifedrain="1"/>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="YOU WILL FREEZE!" yell="1"/>
+		<voice sentence="ZCHHHHH!" yell="1"/>
+		<voice sentence="I am so cool" yell="1"/>
+		<voice sentence="Chill out!." yell="1"/>
+	</voices>
+	<loot>
+    <item id="2159" count="4" chance="1400"/>
+    <item id="9020" countmax="1" chance="100"/>	
+	</loot>
+</monster>

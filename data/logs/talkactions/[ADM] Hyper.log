@@ -1,0 +1,45 @@
+[9/10/2022 15:48:57] /dailychange
+[9/10/2022 15:49:9] /closeserver
+[9/10/2022 15:49:11] /ghost
+[9/10/2022 15:55:48] /dailychange
+[9/10/2022 15:55:58] /ghost
+[9/10/2022 15:56:5] /openserver
+[9/10/2022 15:57:19] /reload creaturescripts
+[9/10/2022 15:59:7] /openserver
+[9/10/2022 23:55:35] /ghost
+[9/10/2022 23:59:48] !givecombo1
+[9/10/2022 23:59:50] /ghost
+[9/10/2022 23:59:53] /r all
+[10/10/2022 12:41:38] /ghost
+[10/10/2022 13:18:13] /i bag
+[10/10/2022 13:18:15] !givecombo1
+[10/10/2022 13:22:3] /addpoints Lex Mutor, 600
+[10/10/2022 13:22:34] /addskill [ADM] Hyper, level, 100
+[10/10/2022 13:29:38] /goto boomer
+[10/10/2022 13:30:56] /addpoints Pallydin, 300
+[10/10/2022 13:33:9] /addpoints Pally Malditao, 80
+[10/10/2022 13:44:20] /ghost
+[10/10/2022 14:9:20] /addpoints King Of Mage, 150
+[10/10/2022 14:9:22] /addpoints King Of Mage, 120
+[10/10/2022 14:9:52] /addpoints Shimaricat Retorn, 300
+[10/10/2022 14:10:13] /goto Pally malditao
+[10/10/2022 14:10:15] /goto Pally maldito
+[10/10/2022 14:12:57] /i stone
+[10/10/2022 14:13:4] /t creew
+[10/10/2022 14:13:4] /t
+[10/10/2022 14:13:56] /goto creew
+[10/10/2022 14:14:29] /c creew
+[10/10/2022 14:16:9] /goto creew
+[10/10/2022 14:16:12] /r 
+[10/10/2022 14:48:28] /ghost
+[10/10/2022 14:48:36] /up 3
+[10/10/2022 14:48:44] /i desert king mount
+[10/10/2022 14:49:23] /newtype 366
+[10/10/2022 14:49:24] /newtype 367
+[10/10/2022 14:49:25] /newtype 368
+[10/10/2022 14:49:39] /newtype 266
+[10/10/2022 14:49:40] /t
+[10/10/2022 15:8:51] /removepoints Lux Mutor, 600
+[10/10/2022 15:9:1] /removepoints Lex Mutor, 600
+[10/10/2022 15:9:18] /spy
+[10/10/2022 15:9:40] /addpoints Obrabo, 600

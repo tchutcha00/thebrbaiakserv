@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="[SuperVIP] Kapre" nameDescription="Kapre" race="blood" experience="920000000" speed="1200" manacost="490">
+  <health now="3500000" max="3500000"/>
+  <look type="93" head="20" body="30" legs="40" feet="50" corpse="6068"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="1"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="400" skill="846" attack="1037"/>
+  </attacks>
+  <defenses armor="13" defense="21"/>
+    <elements>
+    <element energyPercent="20"/>
+	<element icePercent="20"/>
+	<element firePercent="-10"/>
+	<element earthPercent="-10"/>
+	<element deathPercent="-5"/>
+  </elements>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="0"/>
+    <immunity fire="0"/>
+    <immunity poison="0"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="0"/>
+    <immunity outfit="0"/>
+    <immunity drunk="0"/>
+    <immunity invisible="0"/>
+  </immunities>
+  <voices interval="5000" chance="10">
+    <voice sentence="CRAAAHHH!"/>
+    <voice sentence="Gruuuh Gruuuh."/>
+    <voice sentence="Carrah Carrah!"/>
+  </voices>
+  <loot>
+    <item id="3976" countmax="10" chance1="50000" chancemax="0"/>
+    <item id="1987" chance="100000">
+      <inside>
+        <item id="2671" countmax="3" chance1="33333" chancemax="0"/>
+      </inside>
+    </item>
+  </loot>
+</monster>

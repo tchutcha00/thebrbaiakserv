@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Rift Invader" nameDescription="a rift invader" race="undead" experience="5" speed="320" manacost="0">
+	<health now="55000000" max="55000000"/>
+	<look type="290" corpse="12851"/>
+	<targetchange interval="20000" chance="15"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag staticattack="85"/>
+		<flag lightlevel="0"/>
+		<flag lightcolor="0"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="1"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" skill="1" attack="100000"/>
+		<attack name="energy" interval="1000" chance="8" target="0" radius="4" min="-105000" max="-110000">
+			<attribute key="shootEffect" value="energy"/>
+			<attribute key="areaEffect" value="purpleenergy"/>
+		</attack>
+		<attack name="energy" interval="1000" chance="12" range="3" target="1" min="-105000" max="-110000">
+			<attribute key="areaEffect" value="purpleenergy"/>
+		</attack>
+		<attack name="physical" interval="1000" chance="12" radius="3" target="0" min="-105000" max="-110000">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+	</attacks>
+	<defenses armor="45" defense="45">
+		<defense name="healing" interval="4000" chance="15" min="800" max="1450">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="10"/>
+	</elements>
+	<immunities>
+		<immunity energy="1"/>
+		<immunity invisible="1"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+	</immunities>
+</monster>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+
+    <!-- Natal 2019 -->
+	<!-- <globalevent name="Natal 2019" time="18:00" event="script" value="natal2019.lua"/> 
+	<globalevent name="Natal2 2019" time="22:00" event="script" value="natal2019.lua"/> -->
+	<globalevent name="clean" interval="3600000" event="script" value="clean.lua"/>
+	<globalevent name="record" type="record" event="script" value="record.lua"/>
+	<globalevent name="caveStart" type="startup" event="script" value="cave_exclusiva/cave_start.lua"/>
+    <!-- <globalevent name="GlobalSave" time="22:14" event="script" value="GlobalSave.lua"/> -->
+	<globalevent name="shop" interval="5000" script="shop.lua"/>
+	<globalevent name="shopdnt" interval="5000333" script="shopdnt.lua"/>
+	<globalevent name="save" interval="3000000" event="script" value="save.lua"/>
+	<globalevent name="daily" interval="1300000" script="Daily Monster/daily_monster.lua"/>
+	
+	<globalevent name="legendaryTransform" interval="2000" event="script" value="legendary_transform.lua" />
+    <!-- <globalevent name="doubleexp" interval="2500" event="script" value="Double EXP.lua"/> -->
+	<!-- <globalevent name="removedor" interval="3000" event="script" value="removeMC.lua"/> -->
+
+    <!-- Online Bônus -->
+    <globalevent name="updateOnlineBonusStatus" interval="60000" event="script" value="online_bonus_update.lua"/>
+
+    <!-- Gaz'Haragoth -->
+	<globalevent name="Gaz'Haragoth" time="19:30" event="script" value="Boss/saturdaytp.lua"/>
+
+    <!-- Start Up -->
+	<globalevent name="init" type="startup" event="script" value="init.lua"/>
+	<!--<globalevent name="start" type="startup" event="script" value="start.lua"/>-->
+    <globalevent name="checkhouses" type="startup" event="script" value="inactiveHouses.lua"/>
+    <globalevent name="checkplayers" type="startup" event="script" value="inactivePlayers.lua"/>
+	<globalevent name="starteffect" type="startup" event="script" value="test.lua"/>
+		
+	<!-- Cast System -->
+	<globalevent name="cast" interval="10000" event="script" value="Cast System/cast.lua"/>
+	
+	<!-- Loteria -->
+	<globalevent name="loteria" interval="14400000" event="script" value="vipLottery.lua"/>
+
+	<!-- Invasion Temple -->
+	<globalevent name="Invasion" interval="7200000" event="script" value="invasao.lua"/>
+	
+	<!-- Castle 48H -->
+	<globalevent name="checkCastle48h" interval="1000" event="script" value="Castle 48H/castle_48h_check.lua" />
+	<globalevent name="castle48Start" time="20:53:00" event="script" value="Castle 48H/castle_48h.lua" />
+	<globalevent name="castle48Clear" time="21:00:00" event="script" value="Castle 48H/castle_48h_clear.lua" />
+	
+	<!-- Evento CTF -->
+	<globalevent name="CTF" interval="60000" event="script" value="Capture The Flag/ctf.lua"/>
+    <globalevent name="CTFSecurity" interval="5000" event="script" value="Capture The Flag/ctfsecurity.lua"/>
+	
+	<!-- Mensagens -->
+    <globalevent name="MensagensProgramadas" interval="29000" event="script" value="Mensagens/MensagensProgramadas.lua"/>
+    <globalevent name="broadcast" interval="600000" event="script" value="Mensagens/broadcast.lua"/>
+	<globalevent name="auto" interval="900000" event="script" value="Mensagens/auto.lua"/>
+	
+	<!-- Cave Exclusiva -->
+    <!-- <globalevent name="caveOwners" interval="1000" event="script" value="killuaCaveOwners2.0.lua"/> -->
+	
+	<!-- Efeitos Templo -->
+	<globalevent name="magia" interval="1500" event="script" value="Efeitos/tps.lua"/>
+	
+	<!--Real Team Battle-->
+	<!--  <globalevent name="Real Team Battle" time="19:00:00" event="script" value="events/realTeamBattle.lua"/>
+	<globalevent name="Real Team Battle2" time="18:44:00" event="script" value="events/realTeamBattle.lua"/> -->
+	
+	<!-- Zombie Event -->
+	<!-- <globalevent name="Zombie" interval="60000" event="script" value="Zombie Event/zombie.lua"/> -->
+</globalevents>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="[UTILITARIOS] Event Seller" script="data/npc/scripts/Event Seller.lua" walkinterval="2000" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="132" head="39" body="94" legs="114" feet="78" addons="3"/>
+      <parameters>
+    	<parameter key="coinId" value="6527" />
+        <parameter key="module_keywords" value="1" />
+    </parameters>
+</npc>

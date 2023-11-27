@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="[Donate] Jimmy Swamp" nameDescription="a jimmy swamp" race="venom" experience="950000000" speed="2000" manacost="0">
+  <health now="2000000" max="2000000"/>
+   <look type="344" corpse="11279"/>
+   <targetchange interval="5000" chance="8"/>
+  <strategy attack="90" defense="10"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+	<attacks>
+		<attack name="melee" interval="1300" min="-22500" max="-23500"/>
+		<attack name="melee" interval="2000" chance="40" range="5" radius="6" target="0" min="-21000" max="-13000">
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="melee" interval="2000" chance="34" range="5" radius="1" target="1" min="-23000" max="-24000">
+			<attribute key="shootEffect" value="whirlwindsword"/>
+			<attribute key="areaEffect" value="redspark"/>
+		</attack>
+		<attack name="energy" interval="2000" chance="30" length="5" spread="0" min="-25000" max="-26000">
+			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+	</attacks>
+	<defenses armor="55" defense="65">
+		<defense name="healing" interval="6000" chance="100" min="300" max="500">
+			 
+		</defense>
+		<defense name="speed" interval="4000" chance="80" speedchange="440" duration="6000">
+			 
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="0"/>
+		<element energyPercent="0"/>
+		<element earthPercent="0"/>
+		<element icePercent="0"/>
+		<element holyPercent="-15"/>
+		<element deathPercent="0"/>
+	</elements>
+	<immunities>
+		<immunity lifedrain="1"/>
+		<immunity paralyze="0"/>
+		<immunity invisible="1"/>
+	</immunities>
+  <voices interval="1000" chance="10">
+    <voice sentence="Vivo no pantano!"/>
+    <voice sentence="HUHUHAHAHAHAHAHA..."/>
+    <voice sentence="Nao fique no meu habitat!"/>
+  </voices>
+  <loot>
+  <item id="2160" countmin="1" countmax="10" chance="5500"/>
+  </loot>
+</monster>

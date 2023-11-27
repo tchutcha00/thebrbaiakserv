@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="The Pit Lord" nameDescription="a the pit lord" race="blood" experience="2500" speed="9999" manacost="0">
+	<health now="9800000" max="9800000"/>
+	<look type="55" corpse="5999"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" skill="1" attack="91000"/>
+		<attack name="physical" interval="1200" chance="15" range="7" min="-93000" max="-94000">
+			<attribute key="shootEffect" value="largerock"/>
+		</attack>
+	</attacks>
+	<defenses armor="40" defense="45">
+		<defense name="speed" interval="1000" chance="7" speedchange="290" duration="4000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element earthPercent="80"/>
+		<element holyPercent="30"/>
+		<element firePercent="30"/>
+		<element energyPercent="10"/>
+		<element physicalPercent="10"/>
+		<element icePercent="-10"/>
+		<element deathPercent="-5"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<loot>
+	<item id="2157" count="3" chance="2500"/>
+	<item id="9020" countmax="1" chance="100"/>
+    <item id="1987" chance="1">	
+	</item>
+ </loot>
+<script> <event name="The Pit Lord"/> </script> 
+</monster>

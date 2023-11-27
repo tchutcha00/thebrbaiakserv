@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Frozen Dragon" nameDescription="a frozen dragon" race="undead" experience="7450" speed="20000" manacost="0">
+	<health now="5900000000" max="5900000000"/>
+	<look type="248" corpse="7091"/>
+	<targetchange interval="2000" chance="5"/>
+	<strategy attack="70" defense="10"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="80"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="600" skill="1" attack="4150000"/>
+		<attack name="ice" interval="800" chance="35" length="8" spread="3" min="-4150000" max="-4450000">
+			<attribute key="areaEffect" value="icetornado"/>
+		</attack>
+		<attack name="ice" interval="900" chance="35" range="5" min="-4150000" max="-4450000">
+			<attribute key="shootEffect" value="ice"/>
+		</attack>
+		<attack name="ice" interval="850" chance="35" target="1" radius="4" min="-4150000" max="-4450000">
+			<attribute key="areaEffect" value="icearea"/>
+			<attribute key="shootEffect" value="smallice"/>
+		</attack>
+	</attacks>
+	<defenses armor="25" defense="38">
+	</defenses>
+	<elements>
+	<element physicalPercent="5"/>
+	</elements>
+	<immunities>
+		<immunity fire="1"/>
+		<immunity earth="1"/>
+		<immunity ice="1"/>
+		<immunity lifedrain="0"/>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="50">
+		<voice sentence="Rooawwrr" yell="0"/>
+		<voice sentence="Fchu?" yell="0"/>
+	</voices>
+<script> <event name="teleportVitor"/> </script> 
+</monster>

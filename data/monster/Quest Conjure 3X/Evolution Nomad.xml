@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Evolution Nomad" nameDescription="a evolution nomad" race="blood" experience="0" speed="3000" manacost="420">
+	<health now="300000000" max="300000000"/>
+	<look type="146" head="114" body="20" legs="22" feet="2" corpse="6080"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="18"/>
+		<flag ignorespawnboost="1"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="600" skill="5" attack="4150000"/>
+	</attacks>
+	<defenses armor="10" defense="13"/>
+	<elements>
+		<element firePercent="20"/>
+		<element holyPercent="10"/>
+		<element physicalPercent="-12"/>
+		<element icePercent="-10"/>
+		<element deathPercent="-5"/>
+	</elements>
+		<immunities>
+		<immunity invisible="1"/>
+	</immunities>
+</monster>

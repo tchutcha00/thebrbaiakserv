@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <monster name="Bicho" nameDescription="a bicho" race="blood" experience="20000" speed="3000" manacost="0">
+    <health now="1500000" max="1500000"/>
+    <look type="350" head="114" body="83" legs="114" feet="114" addons="3" corpse="6080"/>
+    <targetchange interval="60000" chance="0"/>
+    <strategy attack="100" defense="0"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="0"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag staticattack="50"/>
+      <flag lightlevel="0"/>
+      <flag lightcolor="0"/>
+      <flag targetdistance="0"/>
+      <flag runonhealth="0"/>
+    </flags>
+    <attacks>
+  <attack name="melee" interval="1500" min="-15000" max="-16000"/>
+  <attack name="explosion" interval="2000" chance="14" range="3" radius="2" target="1" min="-14000" max="-16000">
+      <attribute key="shootEffect" value="fire"/>
+      <attribute key="areaEffect" value="fire"/>
+   </attack>
+   <attack name="fire" interval="2000" chance="20" range="7" min="-16000" max="-16500">
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+   <attack name="physical" interval="1400" chance="25" range="7" min="-16000" max="-16500">
+		<attribute key="shootEffect" value="energyball"/>
+		<attribute key="areaEffect" value="yellowenergy"/>
+    </attack>
+      <attack name="great fireball" interval="2000" chance="50" min="-17000" max="-18000"/>
+      <attribute key="areaEffect" value="fire"/>
+    </attacks>
+<defenses armor="300" defense="200">
+   <defense name="healing" interval="600" chance="5" min="12000" max="15000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+   </defense>
+</defenses>
+    <immunities>
+      <immunity physical="0"/>
+      <immunity holy="0"/>
+      <immunity energy="0"/>
+      <immunity fire="0"/>
+      <immunity poison="0"/>
+      <immunity lifedrain="0"/>
+      <immunity paralyze="1"/>
+      <immunity outfit="0"/>
+      <immunity drunk="1"/>
+      <immunity invisible="1"/>
+    </immunities>
+    <summons max="8">
+      <summon name="infernal" interval="600" chance="5"/>
+    </summons>
+    <voices interval="2000" chance="5">
+      <voice sentence=":s"/>
+       </voices>
+    <loot>
+  </loot>
+</monster>

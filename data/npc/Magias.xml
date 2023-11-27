@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="[NPC] Magias" script="data/npc/scripts/Magia 30R.lua" walkinterval="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="134" head="78" body="88" legs="0" feet="88" addons="3"/>
+		<parameters>
+			<parameter key="message_greet" value="Olá, |PLAYERNAME|! Possuímos 4 Magias para cada vocação {Target Druid}, {Target Sorc}, {Target Paladin} e {Target Knight} qual deles você deseja escolher?"/>
+		</parameters>
+</npc>

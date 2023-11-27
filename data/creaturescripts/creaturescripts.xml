@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creaturescripts>
+
+    <!-- Max 4 MC -->
+		<!-- <event type="login" name="MCBlock" script="mc_block.lua"/> -->
+
+	<!-- Cave Exclusiva -->
+	<event type="login" name="caveExclusivaLogin" event="script" value="cave_exclusiva/cave_creaturescript.lua"/>
+	<event type="death" name="caveExclusivaDeath" event="script" value="cave_exclusiva/cave_creaturescript.lua"/>
+	
+	<!-- Muted -->
+	<event type="login" name="himself_login" event="script" value="Himself/himself.lua"/>
+	<event type="think" name="himself" event="script" value="Himself/himself.lua"/>
+
+	<!-- Drop Boss Claptomaniaco -->
+	<!-- <event type="kill" name="Claptomaniaco" event="script" value="Boss Clapto/Claptomaniaco.lua"/> -->
+	
+		<!-- Reset System -->
+	<event type="login" name="RSLogin" script="reset_system.lua"/>
+	
+	<!-- System Daily Monster -->
+	<event type="login" name="SystemDailyMonster" event="script" value="Daily Monster/daily_monster.lua"/>
+
+	<!-- points -->
+	<event type="tradeaccept" name="Points_Trade" event="script" value="tradepoint.lua"/>
+	
+	<!-- Player Login -->
+	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
+	<event type="login" name="light" event="script" value="light.lua"/>
+
+	<!-- KD Counter -->
+	<event type="death" name="DeathCounter" event="script" value="kdcounter.lua" />
+	<event type="kill" name="KillCounter" event="script" value="kdcounter.lua" />
+
+    <!-- Online Bônus -->
+    <event type="think" name="OnlineBonus" event="script" value="online_bonus.lua"/>
+	<event type="login" name="OnlineBonusLogin" event="script" value="online_bonus.lua"/>
+
+	<!-- BOSS LAST HIT -->
+	<event type="death" name="lastHit" event="script" value="bosskill.lua"/>
+
+    <!-- Checar Premium Account -->
+	<event type="login" name="Check vip" event="script" value="checkVip.lua"/>
+	<event type="login" name="VIP" event="script" value="VIP.lua"/>
+
+    <!-- Top Fraggers -->
+    <event type="kill" name="TopFrags" event="script" value="topfrags.lua" />
+    <event type="login" name="RTopFrags" event="script" value="topfrags.lua" />
+	
+	<!-- Cast System -->
+	<event type="logout" name="cast-logout" event="script" value="Cast System/cast.lua"/>
+	
+	<!-- Castle 24H -->
+	<event type="login" name="Castle48hLogin" event="script" value="Castle 48H/castle_48h.lua"/>
+	<event type="preparedeath" name="Castle48hDeath" event="script" value="Castle 48H/castle_48h.lua"/>
+	<event type="think" name="Castle48hThink" event="script" value="Castle 48H/castle_48h.lua"/>
+	
+	<!-- Ao deslogar perde efeito da potion -->
+	<event type="login" name="expPotionClean" event="script" value="exp_potion.lua"/>
+
+	<!-- Reward Chest -->
+	<event type="login" name="RewardChestLogin" event="script" value="Reward System/rewardchest_pontos.lua"/>
+    <event type="statschange" name="RewardChestStats" event="script" value="Reward System/rewardchest_pontos.lua"/>
+    <event type="death" name="RewardChestDeath" event="script" value="Reward System/rewardchest_boss.lua"/>
+    <event type="statschange" name="RewardChestMonster" event="script" value="Reward System/rewardchest_boss.lua"/>
+	
+	<!--Real Team Battle-->
+	<!-- <event type="login" name="realTeamBattleLogin" event="script" value="events/realTeamBattle.lua"/> -->
+	<!-- <event type="combat" name="realTeamBattleCombat" event="script" value="events/realTeamBattle.lua"/> -->
+	<!-- <event type="target" name="realTeamBattleTarget" event="script" value="events/realTeamBattle.lua"/> -->
+	<!-- <event type="prepareDeath" name="realTeamBattleDeath" event="script" value="events/realTeamBattle.lua"/> -->
+	
+	<!-- Zombie Event -->
+	<event type="logout" name="ZombieLogout" event="script" value="Zombie Event/zombie.lua"/>
+	<event type="think" name="ZombieThink" event="script" value="Zombie Event/zombie.lua"/>
+	<event type="combat" name="ZombieCombat" event="script" value="Zombie Event/zombie.lua"/>
+	
+    <!-- Evento Boss -->
+	<event type="think" name="GazharagothHeal" script="gaz'haragoth.lua" />
+	
+	<!-- AntiMagebomb -->
+	<event type="login" name="AntiAccBomb" script="antimagebomb.lua"/>
+	 
+	<!-- System De Task -->
+	<event type="kill" name="DailyTask" event="script" value="Task System/Daily Task.lua"/>
+    <event type="kill" name="SystemTask" event="script" value="Task System/Task System.lua"/> 
+	
+	<!-- Ao Atacar PK pega Pz Locked -->
+	<event type="attack" name="AttackPK" script="AttackPk.lua"/>
+	
+	<!-- Evento CTF -->
+	<event type="preparedeath" name="CTFDeath" event="script" value="Capture The Flag/ctf.lua"/>
+	<event type="combat" name="CTFCombat" event="script" value="Capture The Flag/ctf.lua"/>
+	<event type="login" name="CTFLogin" event="script" value="Capture The Flag/ctf.lua"/>
+	<event type="logout" name="CTFLogout" event="script" value="Capture The Flag/ctf.lua"/>
+	<event type="think" name="CTFThink" event="script" value="Capture The Flag/ctf.lua"/>
+	
+	<!-- Sistema De Morte -->
+	<event type="death" name="DeathSystem" event="script" value="DeathSystem.lua"/>
+	
+	<!-- FragLook -->
+	<event type="look" name="showKD" event="script" value="KillsandDeath.lua"/>
+	
+	<!-- Dodge e Critical -->
+	<event type="statschange" name="CombatDodge" event="script" value="DodgeCritical/dodgecombat.lua"/>
+	<event type="statschange" name="critical" event="script" value="DodgeCritical/critical.lua"/>
+	
+	<!-- Bless -->
+	<event type="login" name="blesscheck" event="script" value="Bless/blesscheck.lua"/>
+	<event type="login" name="blesscheck1" event="script" value="Bless/blesscheck1.lua"/>
+	<event type="think" name="avisoBless" event="script" value="Bless/avisoBless.lua"/>
+	
+	<!-- Teleport De Bosses -->
+	<event type="death" name="teleport2" script="Teleport De Bosses/bosslegendary.lua"/>
+	<event type="death" name="teleportquest" script="Teleport De Bosses/bossquest.lua"/>
+	<event type="death" name="teleportVitor" event="script" value="Teleport De Bosses/teleportMonsterVitor.lua"/>
+	<event type="death" name="Evento Alpha Tower" script="Teleport De Bosses/Alpha Tower.lua"/>
+	
+	<!-- Server Events -->
+	<event type="channeljoin" name="GuildEvents" event="script" value="guild.lua"/>
+	<event type="mailreceive" name="Mail" event="script" value="mail.lua"/>
+	<event type="reportbug" name="ReportBug" script="reportbug.lua"/>
+	<event type="advance" name="AdvanceSave" event="script" value="advancesave.lua"/>
+	<event type="think" name="Idle" event="script" value="idle.lua"/>
+	<event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>
+	<event type="login" name="FirstItems" event="script" value="firstitems.lua"/>
+	<event type="combat" name="PartyDamage" event="script" value="partydamage.lua"/>
+	<event type="throw" name="Lever" event="script" value="alavanca.lua"/>
+	<event type="target" name="TargetNpc" event="script" value="target_npc.lua"/>
+	<event type="push" name="pushPzHenrique" event="script" value="pushPzHenrique.lua"/>
+	<event type="look" name="legendaryLeverLook" event="script" value="legendary_lever_onlook.lua"/>
+</creaturescripts>

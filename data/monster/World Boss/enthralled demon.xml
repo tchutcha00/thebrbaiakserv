@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Enthralled Demon" nameDescription="a enthralled demon" race="fire" experience="10" speed="290" manacost="0">
+	<health now="55000000" max="55000000"/>
+	<look type="35" corpse="0"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="40"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1100" skill="1" attack="105000"/>
+		<attack name="manadrain" interval="5000" chance="13" range="7" min="-60" max="-140"/>
+		<attack name="fire" interval="1200" chance="14" range="7" radius="7" target="1" min="-105000" max="-110000">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="energy" interval="1000" chance="30" length="8" spread="0" min="-105000" max="-110000">
+			<attribute key="areaEffect" value="energy"/>
+		</attack>
+		<attack name="lifedrain" interval="3000" chance="25" range="7" min="-320" max="-600">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+	</attacks>
+	<defenses armor="50" defense="50">
+		<defense name="healing" interval="10000" chance="15" min="1800" max="4500">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="speed" interval="50000" chance="15" speedchange="300" duration="20000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="25"/>
+		<element deathPercent="20"/>
+		<element energyPercent="50"/>
+		<element earthpercent="40"/>
+		<element icePercent="-12"/>
+		<element holyPercent="-12"/>
+	</elements>
+	<immunities>
+		<immunity fire="1"/>
+		<immunity down="1"/>
+		<immunity lifedrain="1"/>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+</monster>

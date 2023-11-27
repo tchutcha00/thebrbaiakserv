@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="[Donate] Lord Nightmare" nameDescription="a lord nightmare" race="venom" experience="950000000" speed="2000" manacost="0">
+<health now="2000000" max="2000000"/>
+<look type="245" corpse="6340"/>
+<targetchange interval="5000" chance="8"/>
+<strategy attack="80" defense="20"/>
+
+<flags>
+	<flag summonable="0"/>
+	<flag attackable="1"/>
+	<flag hostile="1"/>
+	<flag illusionable="0"/>
+	<flag convinceable="0"/>
+	<flag pushable="0"/>
+	<flag canpushitems="1"/>
+	<flag canpushcreatures="1"/>
+	<flag targetdistance="1"/>
+	<flag staticattack="85"/>
+	<flag runonhealth="0"/>
+</flags>
+  <attacks>
+    <attack name="melee" interval="1500" skill="100" attack="115"/>
+    <attack name="physical" interval="1000" chance="20" range="5" min="-16500" max="-17500">
+      <attribute key="areaEffect" value="redspark"/>
+	  </attack>
+<attack name="death" interval="500" chance="10" radius="8" min="-15000" max="-17000">
+			<attribute key="areaEffect" value="mortarea" />
+    </attack>
+         <attack name="earth" interval="1000" chance="100" length="8" spread="3" min="-15000" max="-16000">
+      <attribute key="areaEffect" value="smallplants"/>
+    </attack>
+  </attacks>
+	<defenses armor="55" defense="65">
+		<defense name="healing" interval="3000" chance="100" min="300" max="400">
+			 
+		</defense>
+		<defense name="speed" interval="4000" chance="80" speedchange="440" duration="6000">
+			 
+		</defense>
+	</defenses>
+
+<elements>
+    <element icePercent="-10"/>
+    <element energyPercent="35"/>
+    <element deathPercent="-12"/>
+</elements>
+
+<immunities>
+	<immunity fire="0"/>
+	<immunity invisible="1"/>
+</immunities>
+<voices interval="5000" chance="10">
+	    <voice sentence="Close your eyes... I want to show you something!"/>
+    <voice sentence="I will haunt you forever!"/>
+    <voice sentence="I will make you scream!"/>
+</voices>
+
+<loot>
+	<item id="2160" countmin="1" countmax="10" chance="5500"/>
+	<item id="2514" chance="1900"/> --mastermind shield
+	<item id="1987" chance="8000">
+		<inside>
+			<item id="2470" chance="1350"/> --Golden Legs
+		</inside>
+	</item>
+</loot>
+</monster>
+

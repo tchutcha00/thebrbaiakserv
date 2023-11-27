@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<monster name="Calabazin" nameDescription="a calabaza" race="undead" experience="35000" speed="3000" manacost="0"> 
+<health now="30000000" max="30000000"/> 
+<look typeex="2097" corpse="2097"/> 
+<targetchange interval="60000" chance="0"/> 
+<strategy attack="100" defense="0"/> 
+<flags> 
+<flag summonable="0"/> 
+<flag attackable="1"/> 
+<flag hostile="1"/> 
+<flag illusionable="0"/> 
+<flag convinceable="0"/> 
+<flag pushable="0"/> 
+<flag canpushitems="0"/> 
+<flag canpushcreatures="1"/> 
+<flag targetdistance="1"/> 
+<flag runonhealth="100"/> 
+<flag ignorespawnboost="1"/>
+</flags> 
+<attacks>
+<attack name="physical" interval="2000" chance="17" range="7" min="-100040" max="-140040">
+		<attribute key="shootEffect" value="throwingstar"/>
+    </attack>
+<attack name="physical" interval="1500" chance="25" range="7" radius="4" target="1" min="-150040" max="-170040">
+      <attribute key="shootEffect" value="energy"/>
+      <attribute key="areaEffect" value="blackspark"/>
+    </attack>
+ <attack name="melee" interval="700" skill="300" attack="10000"/> 
+<attack name="poison" interval="1500" chance="100" range="7" min="-150040" max="-210040"> 
+<attribute key="shootEffect" value="snowball"/>
+<attribute key="areaEffect" value="redspark"/> 
+</attack> 
+</attacks> 
+<defenses armor="300" defense="200"/> 
+<immunities> 
+<immunity physical="0"/> 
+<immunity energy="0"/> 
+<immunity fire="0"/> 
+<immunity poison="1"/> 
+<immunity lifedrain="1"/> 
+<immunity paralyze="1"/> 
+<immunity outfit="1"/> 
+<immunity drunk="1"/> 
+<immunity invisible="1"/> 
+</immunities> 
+</monster> 

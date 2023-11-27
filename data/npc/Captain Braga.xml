@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Braga" script="huntfree.lua" walkinterval="1500" floorchange="0">
+<health now="100" max="100"/>
+<look type="151" head="112" body="11" legs="90" feet="115" addons="3" corpse="2212"/>
+	<parameters>
+	<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Quer ir pra onde? {travel}."/>
+		<parameter key="shop_buyable" value="Pick,4874,1" />
+	</parameters>
+</npc>

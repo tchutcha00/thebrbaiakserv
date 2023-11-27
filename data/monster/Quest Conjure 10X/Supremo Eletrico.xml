@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Supremo Eletrico" nameDescription="supremo eletrico" race="undead" experience="55000000" speed="9999" manacost="0">
+	<health now="850000000" max="850000000" />
+	<look type="290" corpse="6068" />
+	<targetchange interval="5000" chance="10" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="0" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag canpushcreatures="1" />
+		<flag targetdistance="1" />
+		<flag staticattack="90" />
+		<flag runonhealth="0" />
+		<flag ignorespawnboost="1"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="900" skill="1" attack="7150000"/>
+		<attack name="energy" interval="800" chance="40" radius="8" min="-5150000" max="-7250000">
+			<attribute key="areaEffect" value="energy" />
+		</attack>
+	</attacks>
+	<defenses armor="38" defense="35">
+		<defense name="healing" interval="1000" chance="12" min="100" max="235">
+			<attribute key="areaEffect" value="blueshimmer" />
+		</defense>
+		<defense name="invisible" interval="3000" chance="25" duration="6000">
+			<attribute key="areaEffect" value="blueshimmer" />
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="20" />
+		<element holyPercent="-15" />
+		<element firePercent="-10" />
+	</elements>
+	<immunities>
+		<immunity lifedrain="1" />
+		<immunity invisible="1" />
+	</immunities>
+	<voices interval="2000" chance="7">
+		<voice sentence="I challenge you!" />
+	</voices>
+</monster>

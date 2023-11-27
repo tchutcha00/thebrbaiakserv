@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Strange Slime" nameDescription="a strange slime" race="venom" experience="160" speed="9999" manacost="0">
+	<health now="35000000" max="35000000"/>
+	<look type="19" corpse="1496"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag ignorespawnboost="1"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" skill="5" attack="243000"/>
+		<attack name="earth" interval="1200" chance="35" radius="4" min="-242000" max="-246500">
+			<attribute key="areaEffect" value="greenspark"/>
+		</attack>
+		<attack name="earth" interval="1100" chance="40" length="5" spread="0" min="-241000" max="-242000">
+			<attribute key="areaEffect" value="poison"/>
+		</attack>
+	</attacks>
+	<defenses armor="3" defense="10"/>
+	<elements>
+		<element earthPercent="100"/>
+		<element icePercent="20"/>
+		<element firePercent="-10"/>
+		<element energyPercent="-10"/>
+	</elements>
+</monster>

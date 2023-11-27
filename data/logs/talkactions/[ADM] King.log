@@ -1,0 +1,3732 @@
+[24/8/2022 22:16:37] /ghost
+[24/8/2022 22:23:34] /i 6542
+[24/8/2022 22:23:40] /i 6543
+[24/8/2022 22:23:41] /i 6544
+[24/8/2022 22:23:42] /i 6545
+[24/8/2022 22:24:6] /i [+1000%] exp potion
+[24/8/2022 22:24:42] /newtype 31
+[24/8/2022 22:25:6] /newtype 142
+[24/8/2022 22:25:15] /newtype 124
+[24/8/2022 22:25:21] /newtype 121
+[24/8/2022 22:25:53] /newtype 126
+[24/8/2022 22:26:4] /newtype 126, vip hunter
+[24/8/2022 22:26:12] /newtype 332
+[24/8/2022 22:27:1] /i 8300
+[24/8/2022 22:29:2] /dailychange
+[24/8/2022 22:29:9] /dailychange
+[24/8/2022 22:29:17] /spy
+[24/8/2022 22:30:5] /i 8330
+[24/8/2022 22:30:7] /i 8300
+[24/8/2022 22:30:17] /i 3139
+[24/8/2022 22:30:56] /i mana rune
+[24/8/2022 22:31:11] /i mana potion
+[24/8/2022 22:31:15] /i great spirit potion
+[24/8/2022 22:32:16] /ghost
+[24/8/2022 22:32:18] /goto pintudinho
+[24/8/2022 22:32:25] /t
+[24/8/2022 22:34:37] /goto billy jack
+[24/8/2022 22:34:41] /t
+[24/8/2022 22:34:44] /ghost
+[24/8/2022 22:36:32] /t
+[24/8/2022 22:37:9] /i gold ingot
+[24/8/2022 22:37:25] /s trainers
+[24/8/2022 22:37:31] /r
+[24/8/2022 22:37:35] /r
+[24/8/2022 22:37:39] /r
+[24/8/2022 22:38:11] /goto billy jack
+[24/8/2022 22:40:19] /i addon doll
+[24/8/2022 22:40:59] /bc blue [Cast System]: Ativem o Cast para ganhar + exp durante o UP.
+[24/8/2022 22:41:20] /bc blue [Castelo 24h]: O castelo recebeu correção no exp dos monstros, aproveitem agora mesmo para dominar ele.
+[24/8/2022 22:41:22] /bc blue [Cast System]: Ativem o Cast para ganhar + exp durante o UP.
+[24/8/2022 22:41:23] /bc blue [Castelo 24h]: O castelo recebeu correção no exp dos monstros, aproveitem agora mesmo para dominar ele.
+[24/8/2022 22:41:24] /bc blue [Cast System]: Ativem o Cast para ganhar + exp durante o UP.
+[24/8/2022 22:41:25] /bc blue [Castelo 24h]: O castelo recebeu correção no exp dos monstros, aproveitem agora mesmo para dominar ele.
+[24/8/2022 22:43:51] /reload creaturescripts
+[24/8/2022 22:46:16] /goto samuel
+[24/8/2022 22:46:19] /t
+[24/8/2022 22:56:10] /up 3
+[24/8/2022 22:56:38] /i [+600%] exp food
+[24/8/2022 22:56:40] /i [+600%] exp egg
+[24/8/2022 22:56:45] /i [+700]
+[24/8/2022 22:56:53] /i [+700%] exp egg
+[24/8/2022 22:56:55] /i [+700%] exp food
+[24/8/2022 22:57:6] /i [+800%] exp food
+[24/8/2022 22:57:11] /i 8300
+[24/8/2022 22:57:12] /i 8300
+[24/8/2022 22:57:14] /i 8300
+[24/8/2022 22:57:14] /i 8300
+[24/8/2022 22:58:0] /r all
+[24/8/2022 22:58:0] /r all
+[24/8/2022 22:58:1] /r all
+[24/8/2022 22:58:2] /r all
+[24/8/2022 22:58:3] /r all
+[24/8/2022 22:58:5] /ghost
+[24/8/2022 22:58:7] /goto shimaricat
+[24/8/2022 22:58:38] /spy
+[24/8/2022 22:59:8] /t
+[24/8/2022 22:59:9] /up 3
+[24/8/2022 22:59:11] /c shimaricat
+[24/8/2022 22:59:18] /i king backpack
+[24/8/2022 22:59:25] /i king mage amulet
+[24/8/2022 22:59:59] /i backpack
+[24/8/2022 23:0:20] /i gold ingot
+[24/8/2022 23:0:20] /i gold ingot
+[24/8/2022 23:0:20] /i gold ingot
+[24/8/2022 23:0:20] /i gold ingot
+[24/8/2022 23:0:21] /i gold ingot
+[24/8/2022 23:0:21] /i gold ingot
+[24/8/2022 23:0:21] /i gold ingot
+[24/8/2022 23:0:21] /i gold ingot
+[24/8/2022 23:0:22] /i gold ingot
+[24/8/2022 23:0:22] /i gold ingot
+[24/8/2022 23:0:45] /t shimaricat
+[24/8/2022 23:0:46] /t
+[24/8/2022 23:3:28] /i king mage hat
+[24/8/2022 23:6:17] /spy
+[24/8/2022 23:26:20] /goto nubank
+[24/8/2022 23:26:21] /ghost
+[24/8/2022 23:26:26] /c nubank
+[24/8/2022 23:26:37] /i bag
+[24/8/2022 23:26:51] /i 6542
+[24/8/2022 23:26:52] /i 6543
+[24/8/2022 23:26:53] /i 6545
+[24/8/2022 23:26:54] /i 6546
+[24/8/2022 23:27:1] /i 6544
+[24/8/2022 23:27:22] /i 2324
+[24/8/2022 23:27:35] /i [+600%] exp food
+[24/8/2022 23:27:37] /i [+600%] exp egg
+[24/8/2022 23:27:40] /i [+700%] exp egg
+[24/8/2022 23:27:45] /i [+700%] exp food
+[24/8/2022 23:28:0] /i bag
+[24/8/2022 23:28:9] /i 8300
+[24/8/2022 23:28:10] /i 8300
+[24/8/2022 23:28:27] /i [+800%] exp food
+[24/8/2022 23:28:33] /i 3954
+[24/8/2022 23:28:39] /i gold ingot
+[24/8/2022 23:28:40] /i gold ingot
+[24/8/2022 23:28:40] /i gold ingot
+[24/8/2022 23:28:41] /i gold ingot
+[24/8/2022 23:29:27] /ghost
+[24/8/2022 23:29:57] /goto caixa
+[24/8/2022 23:29:58] /t
+[24/8/2022 23:30:0] /goto nubank
+[24/8/2022 23:30:47] /c nubank
+[24/8/2022 23:39:19] /goto edited
+[24/8/2022 23:39:21] /goto edited
+[24/8/2022 23:41:16] /ghost
+[24/8/2022 23:41:26] /i 6542
+[24/8/2022 23:42:13] /i addon doll
+[24/8/2022 23:42:21] /i 3954
+[24/8/2022 23:42:29] /i gold ingot
+[24/8/2022 23:42:30] /i gold ingot
+[24/8/2022 23:42:47] /i gold ingot
+[24/8/2022 23:42:48] /i gold ingot
+[24/8/2022 23:43:2] /ghost
+[24/8/2022 23:43:4] /t
+[24/8/2022 23:52:57] /ghost
+[25/8/2022 0:4:57] /goto gmrm
+[25/8/2022 0:5:42] /t
+[25/8/2022 0:8:41] /i boss token
+[25/8/2022 0:10:36] /info real stylexx
+[25/8/2022 0:12:26] /goto real stylexx
+[25/8/2022 0:12:54] /ghost
+[25/8/2022 0:13:12] /t
+[25/8/2022 0:13:14] /ghost
+[25/8/2022 0:14:26] /ghost
+[25/8/2022 0:14:31] /goto real stylexx
+[25/8/2022 0:14:47] /ghost
+[25/8/2022 0:15:6] /ghost
+[25/8/2022 0:16:18] /t
+[25/8/2022 0:16:33] /ghost
+[25/8/2022 0:18:12] /addskill Arthur Mdc, level, 5000
+[25/8/2022 0:18:13] /addskill Arthur Mdc, level, 5000
+[25/8/2022 0:19:15] /i addon doll
+[25/8/2022 0:19:38] /c Chefe Pusher
+[25/8/2022 0:19:43] /c Chefe Pusher
+[25/8/2022 0:19:57] /addskill Chefe Pusher, 1000
+[25/8/2022 0:20:3] /addskill Chefe Pusher, level, 1000
+[25/8/2022 0:20:26] /i 8300
+[25/8/2022 0:20:26] /i 8300
+[25/8/2022 0:25:42] /i bag
+[25/8/2022 0:26:57] /i 8300
+[25/8/2022 0:27:4] /goto Yashiro insano
+[25/8/2022 0:27:6] /goto Yashiro insano
+[25/8/2022 0:27:15] /i addon doll
+[25/8/2022 0:27:40] /goto real stylexx
+[25/8/2022 0:29:28] /reload talkactions
+[25/8/2022 0:32:25] /ghost
+[25/8/2022 0:40:49] /goto morgahar
+[25/8/2022 0:41:8] /t
+[25/8/2022 0:44:18] /goto edited
+[25/8/2022 0:46:13] /ghost
+[25/8/2022 0:46:25] /goto lesma
+[25/8/2022 0:47:8] /i addon doll
+[25/8/2022 0:47:9] /i 8300
+[25/8/2022 0:47:10] /i 8300
+[25/8/2022 0:47:17] /ghost
+[25/8/2022 0:47:26] /t
+[25/8/2022 1:29:56] /ghost
+[25/8/2022 1:30:17] /goto morgahar
+[25/8/2022 1:30:32] /goto [adm] queen
+[25/8/2022 1:32:33] /name roberto, Rickzin Matt Nobb'sz
+[25/8/2022 1:46:36] /a 2
+[25/8/2022 1:46:39] /goto morgahar
+[25/8/2022 1:46:40] /t
+[25/8/2022 1:48:33] /reload libs
+[25/8/2022 1:48:35] /reload actions
+[25/8/2022 1:49:44] /reload lib
+[25/8/2022 1:49:46] /reload libs
+[25/8/2022 1:57:53] /a 20
+[25/8/2022 1:58:7] /i bag
+[25/8/2022 1:58:38] /i 8300
+[25/8/2022 1:58:41] /goto kina tanker
+[25/8/2022 1:59:23] /t
+[25/8/2022 1:59:27] /goto luiz mdc
+[25/8/2022 2:0:6] /i 8300
+[25/8/2022 2:0:14] /i 8300
+[25/8/2022 2:0:17] /i 8300
+[25/8/2022 2:0:27] /i 8300
+[25/8/2022 2:1:40] /i 3954
+[25/8/2022 2:1:41] /i 3954
+[25/8/2022 2:2:10] /attr square 2
+[25/8/2022 2:2:13] /attr square 2
+[25/8/2022 2:2:21] /attr shield, 2
+[25/8/2022 2:2:37] /ghost
+[25/8/2022 2:2:43] /ghost
+[25/8/2022 2:12:40] /reload creaturescripts
+[25/8/2022 2:12:47] /r
+[25/8/2022 2:12:50] /r
+[25/8/2022 2:13:52] /reload creaturescripts
+[25/8/2022 2:15:30] /reload creaturescripts
+[25/8/2022 2:16:1] /reload creaturescripts
+[25/8/2022 2:16:40] /reload creaturescripts
+[25/8/2022 2:17:0] /r
+[25/8/2022 2:18:52] /reload talkactions
+[25/8/2022 2:20:2] /reload talkactions
+[25/8/2022 2:20:48] /reload talkactions
+[25/8/2022 2:23:52] /reload talkactions
+[25/8/2022 2:31:17] /bc blue [Server Save]: O servidor será reiniciado para correção de bugs e outros problemas ás 02:40. 
+[25/8/2022 2:33:20] /bc blue [Server Save]: O servidor será reiniciado para correção de bugs e outros problemas ás 02:40. 
+[25/8/2022 2:34:30] /bc blue [Server Save]: O servidor será reiniciado para correção de bugs e outros problemas ás 02:40. 
+[25/8/2022 2:34:44] /bc blue [Server Save]: O servidor será reiniciado para correção de bugs e outros problemas ás 02:40. 
+[25/8/2022 2:34:45] /bc blue [Server Save]: O servidor será reiniciado para correção de bugs e outros problemas ás 02:40. 
+[25/8/2022 2:34:46] /bc blue [Server Save]: O servidor será reiniciado para correção de bugs e outros problemas ás 02:40. 
+[25/8/2022 2:36:25] /goto flash pally
+[25/8/2022 2:40:20] /t
+[25/8/2022 2:40:36] /c shimaricat
+[25/8/2022 2:41:6] /c shimaricat
+[25/8/2022 2:41:43] /storage 
+[25/8/2022 2:41:47] /storage Shimaricat
+[25/8/2022 2:41:53] /save
+[25/8/2022 2:41:56] /shutdown
+[25/8/2022 2:43:11] /openserver
+[25/8/2022 2:50:27] /spy
+[25/8/2022 2:50:42] /spy
+[25/8/2022 2:51:7] /spy
+[25/8/2022 2:53:18] /goto morgahar
+[25/8/2022 2:54:0] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos.
+[25/8/2022 2:54:1] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos.
+[25/8/2022 2:54:8] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:9] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:10] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:10] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:10] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:11] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:11] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:12] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:12] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:13] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:13] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:14] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:14] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:15] /bc blue [ServerSave]: Último ServerSave de hoje, vou reiniciar para arrumar um pequeno problema que passou batido, o servidor volta em segundos. (Assim que voltar dou combo exp).
+[25/8/2022 2:54:28] /save
+[25/8/2022 2:54:35] /shutdown
+[25/8/2022 2:55:10] /openserver
+[25/8/2022 2:56:1] !givecombo1
+[25/8/2022 2:57:27] /m possessed tree
+[25/8/2022 2:58:30] /spy
+[25/8/2022 3:0:36] /m possessed tree
+[25/8/2022 3:1:12] /t
+[25/8/2022 3:1:15] /goto kina tanker
+[25/8/2022 3:1:24] /i bag
+[25/8/2022 3:1:30] /i king axe
+[25/8/2022 3:1:53] /tempitem 8926, 3000
+[25/8/2022 3:1:59] /tempitem 8926, 30000
+[25/8/2022 3:2:2] /tempitem 8926, 300000
+[25/8/2022 3:2:12] /tempitem 8926, 500000
+[25/8/2022 3:2:31] /t
+[25/8/2022 3:2:34] /goto flash pally
+[25/8/2022 3:2:49] /c flash pally
+[25/8/2022 3:2:59] /i bag
+[25/8/2022 3:3:1] /t
+[25/8/2022 3:3:2] /a 10
+[25/8/2022 3:3:4] /a 10
+[25/8/2022 3:3:7] /c flash pally
+[25/8/2022 3:3:13] /c flash pally
+[25/8/2022 3:4:29] /i 8300
+[25/8/2022 3:4:30] /i 8300
+[25/8/2022 3:4:45] /i 3954
+[25/8/2022 3:5:40] /i 8300
+[25/8/2022 3:5:43] /i bag
+[25/8/2022 3:5:51] /i 8300
+[25/8/2022 3:5:52] /i 8300
+[25/8/2022 3:5:52] /i 8300
+[25/8/2022 3:5:55] /t
+[25/8/2022 3:6:33] /c shimaricat
+[25/8/2022 3:6:55] /c shimaricat
+[25/8/2022 3:11:57] /i bag
+[25/8/2022 3:12:11] /i mana potion
+[25/8/2022 3:12:44] /attr mana -9999999
+[25/8/2022 3:16:47] /i king sd
+[25/8/2022 3:16:56] /t
+[25/8/2022 3:17:20] /i fusion sd
+[25/8/2022 3:17:28] /tempitem 2263, 10000
+[25/8/2022 3:17:33] /tempitem 2263, 100000
+[25/8/2022 3:17:52] /r all
+[25/8/2022 3:17:55] /r all
+[25/8/2022 3:17:57] /tempitem 2263, 1000000
+[25/8/2022 3:18:7] /tempitem 2263, 1000000
+[25/8/2022 3:18:12] /tempitem 2263, 100000
+[25/8/2022 3:18:15] /r all
+[25/8/2022 3:18:17] /goto shimaricat
+[25/8/2022 3:18:32] /tempitem 2263, 100000
+[25/8/2022 3:19:32] /ghost
+[25/8/2022 3:20:22] /t
+[25/8/2022 3:20:32] /goto flash pally
+[25/8/2022 12:15:53] /openserver
+[25/8/2022 12:21:34] /ghost
+[25/8/2022 12:22:19] /save
+[25/8/2022 12:24:21] /ghost
+[25/8/2022 12:30:27] /save
+[25/8/2022 12:30:43] /info kikadin
+[25/8/2022 12:30:47] /goto kikadin
+[25/8/2022 12:30:57] /spy
+[25/8/2022 12:39:30] !givecombo1
+[25/8/2022 12:48:29] /save
+[25/8/2022 12:49:9] /spy
+[25/8/2022 12:49:15] /kick Motocorno Retired
+[25/8/2022 12:49:43] /spy Motocorno Retired
+[25/8/2022 12:49:46] /info Motocorno Retired
+[25/8/2022 12:49:55] /goto Rickzinn Matt Nobb'sz
+[25/8/2022 12:50:54] /t
+[25/8/2022 12:50:57] /up 3
+[25/8/2022 12:50:58] /c Rickzinn Matt Nobb'sz
+[25/8/2022 12:51:45] /goto rickzinn~
+[25/8/2022 12:51:46] /goto rickzinn~
+[25/8/2022 12:51:48] /t
+[25/8/2022 12:52:48] /goto Rickzinn Matt Nobb'sz
+[25/8/2022 12:53:0] /goto Rickzinn~
+[25/8/2022 12:53:1] /goto Rickzinn~
+[25/8/2022 12:53:12] /goto Rickzin Matt Nobb'sz
+[25/8/2022 12:53:32] /goto rickzin~
+[25/8/2022 12:53:35] /up 3
+[25/8/2022 12:53:43] /c Rickzin Matt Nobb'sz
+[25/8/2022 12:54:50] /name Rickzin Matt Nobb'sz, Rickzin Matt Nobb
+[25/8/2022 12:54:58] /name Rickzin Matt Nobb'sz, Rickzin Matt Nobb sz
+[25/8/2022 12:55:18] /name Rickzin Matt Nobb'sz, Rickzin
+[25/8/2022 13:0:28] /i bag
+[25/8/2022 13:0:34] /i 8300
+[25/8/2022 13:0:37] /i 8300
+[25/8/2022 13:0:37] /i 8300
+[25/8/2022 13:0:38] /i 8300
+[25/8/2022 13:0:38] /i 8300
+[25/8/2022 13:0:39] /i 8300
+[25/8/2022 13:0:40] /i 8300
+[25/8/2022 13:0:40] /i 8300
+[25/8/2022 13:1:1] /t /t Rickzinhow
+[25/8/2022 13:1:11] /t Rickzinhow
+[25/8/2022 13:1:16] /t Rickzinhoow
+[25/8/2022 13:1:17] /t
+[25/8/2022 13:1:32] /c Rickzinhow
+[25/8/2022 13:2:7] /c Rickzinhow
+[25/8/2022 13:2:14] /goto Rickzinhow
+[25/8/2022 13:2:42] /c Rickzinhow
+[25/8/2022 13:3:37] /save
+[25/8/2022 13:31:20] /spy
+[25/8/2022 13:31:47] /goto flawless
+[25/8/2022 13:31:50] /ghost
+[25/8/2022 13:31:58] /spy
+[25/8/2022 13:32:36] /ghost
+[25/8/2022 13:32:38] /t
+[25/8/2022 13:33:2] /spy
+[25/8/2022 13:33:10] /goto filandes
+[25/8/2022 13:33:20] /goto rip netto
+[25/8/2022 13:33:24] /spy rip netto
+[25/8/2022 13:33:42] /spy
+[25/8/2022 13:33:45] /spy
+[25/8/2022 13:33:53] /spy
+[25/8/2022 13:34:9] /spy
+[25/8/2022 13:34:18] /t
+[25/8/2022 13:34:23] /spy
+[25/8/2022 13:34:32] /spy
+[25/8/2022 13:36:1] /save
+[25/8/2022 13:36:31] /ghost
+[25/8/2022 13:38:49] /ghost
+[25/8/2022 13:38:52] /goto Anonymous
+[25/8/2022 13:39:8] /i backpack
+[25/8/2022 13:40:4] /i real ring
+[25/8/2022 13:40:6] /i fusion sd
+[25/8/2022 13:40:17] /i 6542
+[25/8/2022 13:40:18] /i 6543
+[25/8/2022 13:40:19] /i 6544
+[25/8/2022 13:40:20] /i 6545
+[25/8/2022 13:40:25] /i 6541
+[25/8/2022 13:40:36] /i [+800] exp potion
+[25/8/2022 13:40:39] /i [+800] exp food
+[25/8/2022 13:40:47] /i [+800%] exp food
+[25/8/2022 13:41:34] /i king backpack
+[25/8/2022 13:42:1] /a 10
+[25/8/2022 13:42:2] /a 10
+[25/8/2022 13:42:3] /a 10
+[25/8/2022 13:42:7] /c anonymous
+[25/8/2022 13:42:39] /spy
+[25/8/2022 13:43:7] /goto 
+[25/8/2022 13:43:10] /goto Anonymous
+[25/8/2022 13:43:12] /i mana rune
+[25/8/2022 13:44:48] /goto Kika
+[25/8/2022 13:44:51] /goto deux
+[25/8/2022 13:49:1] /goto Rickzinhoow
+[25/8/2022 13:49:18] /goto Rickzinhoow
+[25/8/2022 13:49:19] /goto Rickzinhoow
+[25/8/2022 13:49:26] /goto Rickzinhoow
+[25/8/2022 14:10:12] /goto audax
+[25/8/2022 14:10:16] /t
+[25/8/2022 14:12:34] /goto audax
+[25/8/2022 14:12:39] /c audax
+[25/8/2022 14:12:43] /c audax
+[25/8/2022 14:13:15] /i addon doll
+[25/8/2022 14:13:22] /i 3954
+[25/8/2022 14:13:59] /ghost
+[25/8/2022 14:14:17] /i 8300
+[25/8/2022 14:14:17] /i 8300
+[25/8/2022 14:14:32] /i addon doll
+[25/8/2022 14:15:22] /t gmrm
+[25/8/2022 14:15:23] /t
+[25/8/2022 14:15:48] /i gold ingot
+[25/8/2022 14:16:24] /i 2328
+[25/8/2022 14:17:53] /c audax
+[25/8/2022 14:19:34] /c audax
+[25/8/2022 14:20:35] /addskill Audax, level, 2000
+[25/8/2022 14:21:25] /ghost
+[25/8/2022 14:22:0] /goto dragi
+[25/8/2022 14:24:29] /addpoints Pally Maldito, 80
+[25/8/2022 14:25:55] /i backpack
+[25/8/2022 14:26:6] /i gold ingot
+[25/8/2022 14:26:6] /i gold ingot
+[25/8/2022 14:26:6] /i gold ingot
+[25/8/2022 14:26:6] /i gold ingot
+[25/8/2022 14:26:7] /i gold ingot
+[25/8/2022 14:26:7] /i gold ingot
+[25/8/2022 14:26:7] /i gold ingot
+[25/8/2022 14:26:8] /i gold ingot
+[25/8/2022 14:26:8] /i gold ingot
+[25/8/2022 14:26:8] /i gold ingot
+[25/8/2022 14:26:21] /goto Pally Maldito
+[25/8/2022 14:26:31] /c pally maldto
+[25/8/2022 14:26:34] /c pally maldito
+[25/8/2022 14:26:36] /c pally maldito
+[25/8/2022 14:27:18] /t
+[25/8/2022 14:28:4] /goto Purgao Star
+[25/8/2022 14:28:25] /t
+[25/8/2022 17:25:48] /spy
+[25/8/2022 17:34:37] /goto pheonix
+[25/8/2022 17:34:42] /goto Phoenix
+[25/8/2022 17:34:51] /goto soldado
+[25/8/2022 17:35:26] /info Hocharky
+[25/8/2022 17:35:29] /goto Hocharky
+[25/8/2022 17:35:35] /c Hocharky
+[25/8/2022 17:35:39] /c Hocharky
+[25/8/2022 17:35:40] /c Hocharky
+[25/8/2022 17:35:42] /c Hocharky
+[25/8/2022 17:35:45] /ghost
+[25/8/2022 17:35:47] /c Hocharky
+[25/8/2022 17:36:18] /addskill Hocharky, level, 1000
+[25/8/2022 17:36:41] /i 8300
+[25/8/2022 17:36:43] /i addon doll
+[25/8/2022 17:36:59] /ghost
+[25/8/2022 17:37:43] /goto noob
+[25/8/2022 17:37:46] /goto morningstar
+[25/8/2022 17:37:54] /goto boomer
+[25/8/2022 17:37:56] /t
+[25/8/2022 17:39:53] /save
+[25/8/2022 17:40:41] /goto morningstar
+[25/8/2022 17:41:21] /t
+[25/8/2022 17:43:8] /goto kina tanker
+[25/8/2022 17:43:15] /t
+[25/8/2022 17:49:39] /spy
+[25/8/2022 17:49:44] /spy
+[25/8/2022 17:49:52] /spy
+[25/8/2022 17:56:52] /spy
+[25/8/2022 17:58:9] /i addon doll
+[25/8/2022 17:58:11] /i 3954
+[25/8/2022 17:59:19] /goto noob
+[25/8/2022 18:0:26] /c thommy shelby
+[25/8/2022 18:33:0] /goto diego zonalest
+[25/8/2022 18:34:6] /i addon doll
+[25/8/2022 18:34:8] /i 3954
+[25/8/2022 18:36:49] !givecombo1
+[25/8/2022 18:40:2] /goto ek maldito
+[25/8/2022 18:40:42] /up 3
+[25/8/2022 18:40:43] /c chuletao
+[25/8/2022 18:40:49] /c chuletao
+[25/8/2022 18:40:50] /t
+[25/8/2022 18:41:0] /goto Chuletao
+[25/8/2022 19:32:15] /goto Mercury
+[25/8/2022 19:32:25] /i 6541
+[25/8/2022 19:32:26] /i 6542
+[25/8/2022 19:32:27] /i 6543
+[25/8/2022 19:32:28] /i 6545
+[25/8/2022 19:32:29] /i 6546
+[25/8/2022 19:32:41] /i 6544
+[25/8/2022 19:32:42] /i 2324
+[25/8/2022 19:32:51] /goto puff
+[25/8/2022 19:32:55] /goto puuf
+[25/8/2022 19:33:32] /i 8300
+[25/8/2022 19:33:32] /i 8300
+[25/8/2022 19:33:48] /i addon doll
+[25/8/2022 19:33:56] /t
+[25/8/2022 19:34:0] /spy
+[25/8/2022 19:34:19] /goto mercury
+[25/8/2022 19:34:35] /t
+[25/8/2022 19:34:35] /up 3
+[25/8/2022 19:34:38] /c mercury
+[25/8/2022 19:35:5] /i addon dol
+[25/8/2022 19:35:9] /i addon doll
+[25/8/2022 19:35:19] /t mercury
+[25/8/2022 19:35:19] /t
+[25/8/2022 21:57:59] /spy Flawless Dono do ot
+[25/8/2022 21:58:5] /ghost
+[25/8/2022 21:59:16] /ghost
+[25/8/2022 22:1:13] /goto pintudinho
+[25/8/2022 22:1:18] /t
+[25/8/2022 22:2:40] /goto gringo paladin
+[25/8/2022 22:2:52] /goto pally maldito
+[25/8/2022 22:3:7] /r
+[25/8/2022 22:3:17] /t
+[25/8/2022 22:3:21] /ghost
+[25/8/2022 22:23:9] /c Linha Chilena
+[25/8/2022 22:23:39] /i 8300
+[25/8/2022 22:23:40] /i 8300
+[25/8/2022 22:23:46] /i 3954
+[25/8/2022 22:23:47] /i addon doll
+[25/8/2022 22:25:17] /ghost
+[25/8/2022 22:25:20] /goto Mickale
+[25/8/2022 22:25:36] /ghost
+[25/8/2022 22:25:40] /c Mickale
+[25/8/2022 22:26:6] /i addon doll
+[25/8/2022 22:26:9] /i 8300
+[25/8/2022 22:26:9] /i 8300
+[25/8/2022 22:26:20] /t mickale
+[25/8/2022 22:27:21] /ghost
+[25/8/2022 22:27:23] /goto Macdeatth
+[25/8/2022 22:27:25] /t
+[25/8/2022 22:27:33] /ghost
+[25/8/2022 22:27:59] /addskill Roleta azul, level, 1000
+[25/8/2022 22:28:27] /i 2328
+[25/8/2022 22:28:41] /i 8300
+[25/8/2022 22:28:42] /i 8300
+[25/8/2022 22:28:50] /i 3954
+[25/8/2022 22:30:59] /goto Macdeatth
+[25/8/2022 22:31:3] /t
+[25/8/2022 22:31:6] /up 3
+[25/8/2022 22:31:7] /c Macdeatth
+[25/8/2022 22:31:51] /i 8300
+[25/8/2022 22:31:52] /i 8300
+[25/8/2022 22:32:23] /t shimaricat
+[25/8/2022 22:32:32] /t Macdeatth
+[25/8/2022 22:33:59] /save
+[25/8/2022 22:37:39] /goto Xandao Strong Blood
+[25/8/2022 23:22:16] !givecombo1
+[25/8/2022 23:22:21] /goto Colt
+[25/8/2022 23:22:32] /goto pally maldito
+[25/8/2022 23:22:39] /t
+[25/8/2022 23:23:0] /goto Dreyko
+[25/8/2022 23:23:1] /t
+[25/8/2022 23:23:19] /up
+[25/8/2022 23:31:8] /ghost
+[25/8/2022 23:31:8] /t
+[25/8/2022 23:31:23] /goto Colt
+[25/8/2022 23:31:34] /goto Wasabi
+[25/8/2022 23:31:38] /info Wasabi
+[25/8/2022 23:31:44] /info azreal
+[25/8/2022 23:31:47] /info ripcurl
+[25/8/2022 23:31:50] /spy
+[25/8/2022 23:32:3] /addskill ripcurl, level, 1000
+[25/8/2022 23:53:37] /goto pintudinho
+[25/8/2022 23:53:43] /t
+[25/8/2022 23:56:51] /goto Ekzin Bolado
+[25/8/2022 23:57:18] /i addon doll
+[26/8/2022 0:5:17] /town
+[26/8/2022 0:7:51] /goto 200, 101, 7
+[26/8/2022 0:8:19] /m alpha tower
+[26/8/2022 0:8:23] /r
+[26/8/2022 0:8:24] /m alpha tower
+[26/8/2022 0:8:38] /s trainers
+[26/8/2022 0:8:47] /r
+[26/8/2022 0:8:54] /attr health -99999999999
+[26/8/2022 0:9:0] /m alpha tower
+[26/8/2022 0:9:4] /attr health -99999999999
+[26/8/2022 0:9:5] /attr health -99999999999
+[26/8/2022 0:9:24] /r
+[26/8/2022 0:9:31] /m alpha tower
+[26/8/2022 0:9:34] /r
+[26/8/2022 0:9:34] /t
+[26/8/2022 0:10:10] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:23] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:25] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:26] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:26] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:27] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:27] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:28] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:28] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:29] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:29] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:37] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:41] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:41] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:42] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:42] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:43] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:10:43] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:7] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:8] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:8] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:9] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:9] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:10] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:10] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:11] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:22] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:23] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:23] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:29] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:29] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:30] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:30] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:31] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:11:31] /bc blue [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:40] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:41] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:41] /bc green [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:44] /bc red [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:52] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:53] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:58] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:58] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:58] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:59] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:59] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:59] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:59] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:12:59] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:0] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:0] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:0] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:0] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:0] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:0] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:1] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:1] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:1] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:14] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:15] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:15] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:16] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:16] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:16] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:16] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:17] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:17] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:42] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:49] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:49] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:50] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:50] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:56] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:56] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:57] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:57] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:58] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:58] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:13:58] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:4] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:5] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:5] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:5] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:6] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:6] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:6] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:6] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:7] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:7] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:7] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:8] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:19] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:19] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:20] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:20] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:20] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:20] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:21] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:21] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:21] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:21] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:29] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:30] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:30] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:30] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:31] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:31] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:31] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:31] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:32] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:32] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:38] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:38] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:39] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:39] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:39] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:39] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:40] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:40] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:14:41] /bc [Alpha Tower]: ás 00:15 nascerá uma torre no templo, contendo recompensas para o que der mais dano, preparem-se.
+[26/8/2022 0:15:9] /m alpha tower
+[26/8/2022 0:15:52] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:53] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:53] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:53] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:53] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:54] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:54] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:54] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:54] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:55] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:55] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:55] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:55] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:56] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:56] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:56] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:56] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:15:57] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:0] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:0] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:1] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:1] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:1] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:1] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:2] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:2] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:2] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:41] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:42] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:42] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:42] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:43] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:43] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:44] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:44] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:44] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:44] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:16:47] /ghost
+[26/8/2022 0:17:7] /mode 1
+[26/8/2022 0:17:9] /mode 2
+[26/8/2022 0:17:11] /mode 3
+[26/8/2022 0:17:13] /mode 4
+[26/8/2022 0:17:15] /mode 4
+[26/8/2022 0:17:16] /mode 5
+[26/8/2022 0:17:17] /mode 0
+[26/8/2022 0:17:18] /mode 1
+[26/8/2022 0:17:20] /mode 2
+[26/8/2022 0:17:35] /mode 1
+[26/8/2022 0:18:16] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:16] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:17] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:17] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:17] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:17] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:17] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:18] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:18] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:43] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:44] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:44] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:44] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:44] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:45] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:45] /bc [Alpha Tower]: NASCEU NO TEMPLO, CORRAM PARA PEGAR RECOMPENSAS EXCLUSIVAS DO MONSTRO.
+[26/8/2022 0:18:57] /mode 2
+[26/8/2022 0:19:35] /ghost
+[26/8/2022 0:19:52] /goto ekzin bolado
+[26/8/2022 0:19:58] /t
+[26/8/2022 0:21:33] /spy
+[26/8/2022 0:21:46] /spy
+[26/8/2022 0:21:51] /spy
+[26/8/2022 0:21:56] /spy
+[26/8/2022 0:27:22] /t
+[26/8/2022 0:27:26] /t
+[26/8/2022 0:29:7] !potioninfo
+[26/8/2022 0:29:41] !potioninfo
+[26/8/2022 0:30:41] /t
+[26/8/2022 0:30:45] /goto adm trinitty
+[26/8/2022 0:31:18] /goto gringo paladin
+[26/8/2022 0:31:23] /t
+[26/8/2022 0:31:27] /goto adm trinitty
+[26/8/2022 0:31:30] /goto xandao~
+[26/8/2022 0:32:8] /i 8300
+[26/8/2022 0:32:9] /i 8300
+[26/8/2022 0:32:27] /goto adm trinitty
+[26/8/2022 0:33:2] /s triple medusa
+[26/8/2022 0:33:24] /r
+[26/8/2022 0:33:30] /s claptomaniaco
+[26/8/2022 0:33:57] /r
+[26/8/2022 0:34:23] /ghost
+[26/8/2022 0:35:12] /s triple medusa
+[26/8/2022 0:35:12] /s triple medusa
+[26/8/2022 0:35:13] /s triple medusa
+[26/8/2022 0:37:21] /r
+[26/8/2022 0:37:23] /r
+[26/8/2022 0:37:27] /r
+[26/8/2022 0:37:44] /m mug
+[26/8/2022 0:37:45] /m bug
+[26/8/2022 0:37:47] /m bug
+[26/8/2022 0:37:47] /m bug
+[26/8/2022 0:37:48] /m bug
+[26/8/2022 0:37:50] /m bug exp
+[26/8/2022 0:39:3] /kick pally maldito
+[26/8/2022 0:39:38] /ghost
+[26/8/2022 0:40:12] /t
+[26/8/2022 0:40:16] /ghost
+[26/8/2022 0:41:20] /ghost
+[26/8/2022 0:41:22] /goto boomer
+[26/8/2022 0:41:32] /spy
+[26/8/2022 0:41:44] /spy
+[26/8/2022 0:42:14] /ghost
+[26/8/2022 0:43:8] /spy
+[26/8/2022 0:44:6] /t
+[26/8/2022 0:45:7] /goto ekzin bolado
+[26/8/2022 0:45:10] /up 3
+[26/8/2022 0:45:14] /t
+[26/8/2022 0:45:32] /i backpack
+[26/8/2022 0:45:38] /i gold ingot
+[26/8/2022 0:45:38] /i gold ingot
+[26/8/2022 0:45:39] /i gold ingot
+[26/8/2022 0:45:39] /i gold ingot
+[26/8/2022 0:45:39] /i gold ingot
+[26/8/2022 0:45:39] /i gold ingot
+[26/8/2022 0:45:39] /i gold ingot
+[26/8/2022 0:45:39] /i gold ingot
+[26/8/2022 0:45:57] /i 8300
+[26/8/2022 0:45:58] /i 8300
+[26/8/2022 0:46:4] /c ekzin bolado
+[26/8/2022 0:46:9] /i gold ingot
+[26/8/2022 0:46:9] /i gold ingot
+[26/8/2022 0:47:13] /t
+[26/8/2022 0:49:59] /goto adm trinitty
+[26/8/2022 0:50:25] /goto Tyler
+[26/8/2022 0:59:34] /ghost
+[26/8/2022 1:2:37] /t
+[26/8/2022 1:17:14] /ghost
+[26/8/2022 1:27:45] /t
+[26/8/2022 1:39:36] /reload talkactions
+[26/8/2022 1:54:38] /goto Poweroff
+[26/8/2022 1:55:14] /goto Pally tew
+[26/8/2022 1:55:29] /goto /goto Pally tew
+[26/8/2022 1:55:33] /goto powerfull
+[26/8/2022 1:55:37] /goto poweroff
+[26/8/2022 1:55:44] /i 6541
+[26/8/2022 1:55:45] /i 6542
+[26/8/2022 1:55:46] /i 6543
+[26/8/2022 1:55:47] /i 6544
+[26/8/2022 1:55:48] /i 6545
+[26/8/2022 1:55:50] /i 6546
+[26/8/2022 1:55:58] /i 2328
+[26/8/2022 1:56:3] /i 12599
+[26/8/2022 1:56:5] /i 8300
+[26/8/2022 1:56:6] /i 8300
+[26/8/2022 1:56:6] /i 8300
+[26/8/2022 1:56:34] /i 3954
+[26/8/2022 1:56:39] /t
+[26/8/2022 1:56:53] /goto pally tew
+[26/8/2022 1:58:1] /t
+[26/8/2022 1:58:10] /save
+[26/8/2022 1:58:20] /goto pally tew
+[26/8/2022 1:58:53] /i 8300
+[26/8/2022 1:58:53] /i 8300
+[26/8/2022 1:58:54] /i 8300
+[26/8/2022 1:59:0] /i 3954
+[26/8/2022 1:59:3] /t
+[26/8/2022 2:1:52] /c jutinha
+[26/8/2022 2:3:49] /i bag
+[26/8/2022 2:4:18] /i 8300
+[26/8/2022 2:6:23] /c jutinha
+[26/8/2022 2:6:48] /goto pies na baby
+[26/8/2022 2:6:56] /t
+[26/8/2022 2:7:30] /goto Pies Na Baby
+[26/8/2022 2:7:50] /ghost
+[26/8/2022 2:7:52] /goto Pies Na Baby
+[26/8/2022 2:7:53] /goto Pies Na Baby
+[26/8/2022 2:8:51] /goto Pies Na Baby
+[26/8/2022 2:11:12] /t
+[26/8/2022 2:12:8] /i real staff
+[26/8/2022 2:12:8] /t
+[26/8/2022 2:12:9] /up 3
+[26/8/2022 2:12:12] /m trainers
+[26/8/2022 2:12:21] /i starlix staff
+[26/8/2022 2:12:31] /r
+[26/8/2022 2:12:31] /t
+[26/8/2022 2:12:47] /giveitem Shi young, 7410, 1
+[26/8/2022 2:13:4] /giveitem [ADM] King, 7410, 1
+[26/8/2022 2:18:38] /bc blue [ServerSave]: O servidor será reiniciado para correções, salvar dados, alterações em scripts e outras coisas, o servidor volta em minutos. (Após o SS todos recebem um combo).
+[26/8/2022 2:19:23] /bc blue [ServerSave]: O servidor será reiniciado para correções, salvar dados, alterações em scripts e outras coisas, o servidor volta em minutos. (Após o SS todos recebem um combo).
+[26/8/2022 2:19:47] /goto pies na baby
+[26/8/2022 2:19:49] /t
+[26/8/2022 2:19:58] /bc blue [ServerSave]: O servidor será reiniciado para correções, salvar dados, alterações em scripts e outras coisas, o servidor volta em minutos. (Após o SS todos recebem um combo). 5 segundos.
+[26/8/2022 2:20:3] /bc blue [ServerSave]: O servidor será reiniciado para correções, salvar dados, alterações em scripts e outras coisas, o servidor volta em minutos. (Após o SS todos recebem um combo). 4 segundos.
+[26/8/2022 2:20:7] /bc blue [ServerSave]: O servidor será reiniciado para correções, salvar dados, alterações em scripts e outras coisas, o servidor volta em minutos. (Após o SS todos recebem um combo). 3 segundos.
+[26/8/2022 2:20:12] /bc blue [ServerSave]: O servidor será reiniciado para correções, salvar dados, alterações em scripts e outras coisas, o servidor volta em minutos. (Após o SS todos recebem um combo). 2 segundos.
+[26/8/2022 2:20:16] /bc blue [ServerSave]: O servidor será reiniciado para correções, salvar dados, alterações em scripts e outras coisas, o servidor volta em minutos. (Após o SS todos recebem um combo). 1 segundos.
+[26/8/2022 2:20:21] /bc blue [ServerSave]: O servidor será reiniciado para correções, salvar dados, alterações em scripts e outras coisas, o servidor volta em minutos. (Após o SS todos recebem um combo). 0.
+[26/8/2022 2:20:22] /save
+[26/8/2022 2:20:25] /shutdown
+[26/8/2022 2:21:19] /openserver
+[26/8/2022 2:24:40] /c pintudinho
+[26/8/2022 2:25:27] /t
+[26/8/2022 2:26:32] /goto tyler
+[26/8/2022 2:26:34] /t
+[26/8/2022 2:26:37] !givecombo1
+[26/8/2022 2:31:0] /goto gringo paladin
+[26/8/2022 10:13:32] /addpoints comando voador, 40
+[26/8/2022 10:14:35] /ghost
+[26/8/2022 10:19:15] /addskill [adm] king, level, 5000
+[26/8/2022 10:19:22] /i gold ingot
+[26/8/2022 10:20:49] /spy
+[26/8/2022 10:22:43] /mc
+[26/8/2022 10:40:33] /save
+[26/8/2022 10:45:40] /reload actions
+[26/8/2022 10:48:31] /goto Purgao Star
+[26/8/2022 10:50:34] /ghost
+[26/8/2022 10:50:51] /goto purgao star
+[26/8/2022 10:50:53] /up 3
+[26/8/2022 10:50:55] /c purgao star
+[26/8/2022 10:50:58] /ghost
+[26/8/2022 10:51:2] /attr mana -999999999
+[26/8/2022 10:51:27] /attr mana -999999999
+[26/8/2022 10:51:37] /attr mana -999999999
+[26/8/2022 10:51:46] /attr mana -999999999
+[26/8/2022 10:53:3] /t purgao star
+[26/8/2022 10:53:5] /ghost
+[26/8/2022 10:54:20] /i hyper key
+[26/8/2022 10:54:34] /giveitem Alex Ms, 8978, 1
+[26/8/2022 10:54:35] /giveitem Alex Ms, 8978, 1
+[26/8/2022 10:54:50] /giveitem Alex Ms, 12599, 10
+[26/8/2022 10:54:51] /t
+[26/8/2022 10:55:15] /ghost
+[26/8/2022 14:43:11] /goto Dedo Calibrado
+[26/8/2022 14:44:12] !givecombo1
+[26/8/2022 14:48:58] /giveitem Luiz mdc, 7410, 1
+[26/8/2022 14:49:21] /giveitem Anonymous, 2263, 1
+[26/8/2022 14:49:52] /goto arthur mdc
+[26/8/2022 14:49:57] /goto artur mdc
+[26/8/2022 14:50:17] /giveitem Luiz mdc, 7410, 1
+[26/8/2022 14:52:48] /goto Bhaskar
+[26/8/2022 14:53:48] /i addon doll
+[26/8/2022 14:54:3] /t
+[26/8/2022 14:54:4] /t Bhaskar
+[26/8/2022 15:0:26] /c bhaskar
+[26/8/2022 15:8:22] /goto lord ed
+[26/8/2022 15:8:28] /goto lord eld
+[26/8/2022 15:8:29] /t
+[26/8/2022 15:9:3] /goto gmrm
+[26/8/2022 15:11:31] /i master backpack
+[26/8/2022 15:11:32] /i master backpack
+[26/8/2022 15:11:32] /i master backpack
+[26/8/2022 15:11:33] /i master backpack
+[26/8/2022 15:11:35] /i master backpack
+[26/8/2022 15:11:35] /i master backpack
+[26/8/2022 15:11:36] /i master backpack
+[26/8/2022 15:11:36] /i master backpack
+[26/8/2022 15:11:37] /i master backpack
+[26/8/2022 15:11:37] /i master backpack
+[26/8/2022 15:11:38] /i master backpack
+[26/8/2022 15:11:38] /i master backpack
+[26/8/2022 15:11:38] /i master backpack
+[26/8/2022 15:11:39] /i master backpack
+[26/8/2022 15:11:39] /i master backpack
+[26/8/2022 15:11:39] /i master backpack
+[26/8/2022 15:11:40] /i master backpack
+[26/8/2022 15:11:40] /i master backpack
+[26/8/2022 15:11:41] /i master backpack
+[26/8/2022 15:11:41] /i master backpack
+[26/8/2022 15:11:41] /i master backpack
+[26/8/2022 15:11:42] /i master backpack
+[26/8/2022 15:11:42] /i master backpack
+[26/8/2022 15:11:43] /i master backpack
+[26/8/2022 15:11:43] /i master backpack
+[26/8/2022 15:11:44] /i master backpack
+[26/8/2022 15:12:28] /c gmrm
+[26/8/2022 15:12:58] /t
+[26/8/2022 15:36:55] /newtype 65
+[26/8/2022 15:37:1] /newtype 75
+[26/8/2022 15:38:5] /i bag
+[26/8/2022 15:38:38] /i 8300
+[26/8/2022 15:38:44] /goto macross ed
+[26/8/2022 15:39:6] /addskill macross ed, level, 1000
+[26/8/2022 15:39:16] /t
+[26/8/2022 15:39:22] /c macross ed
+[26/8/2022 16:26:27] /i bag
+[26/8/2022 16:26:53] /i 8300
+[26/8/2022 16:27:45] /c kuringa~
+[26/8/2022 16:28:16] /attr health 
+[26/8/2022 16:28:22] /c kuringaloco
+[26/8/2022 16:28:27] /c kurin~
+[26/8/2022 16:29:10] /i gold ingot
+[26/8/2022 16:29:44] /i bag
+[26/8/2022 16:29:58] /i backpack
+[26/8/2022 16:34:28] /bc blue [WhatsApp]: Participem do nosso grupo do Whatsapp e fique por dentro de todas as novidades! Basta colocar esse link no google: https://chat.whatsapp.com/Kxg4CcBnZNrA29mJ6e1Bwn
+[26/8/2022 16:34:47] /goto luiz mdc
+[26/8/2022 16:34:50] /t
+[26/8/2022 16:36:20] /bc blue [WhatsApp]: Participem do nosso grupo do Whatsapp e fique por dentro de todas as novidades! Basta colocar esse link no google: https://chat.whatsapp.com/Kxg4CcBnZNrA29mJ6e1Bwn
+[26/8/2022 16:51:16] /goto zeldris
+[26/8/2022 16:51:18] /goto zeldris
+[26/8/2022 16:51:56] /i 8300
+[26/8/2022 16:52:3] /t
+[26/8/2022 16:52:48] /giveitem Shi young, 3954, 1
+[26/8/2022 16:53:48] /i addon doll
+[26/8/2022 16:53:51] /i 3954
+[26/8/2022 16:53:56] /i 8300
+[26/8/2022 18:10:4] /goto Buidoskl
+[26/8/2022 18:10:5] /ghost
+[26/8/2022 18:10:14] /mc
+[26/8/2022 18:11:21] /ghost
+[26/8/2022 18:12:54] /up 3
+[26/8/2022 18:12:56] /c buidoski
+[26/8/2022 18:13:8] /c Buidoskl
+[26/8/2022 18:13:32] /i 8300
+[26/8/2022 18:13:33] /i 8300
+[26/8/2022 18:13:40] /t Buidoskl
+[26/8/2022 18:13:41] /t
+[26/8/2022 18:13:52] /goto Son gohan
+[26/8/2022 18:14:22] /i 8300
+[26/8/2022 18:14:25] /i 8300
+[26/8/2022 18:14:51] /goto buidoski
+[26/8/2022 18:14:55] /goto Buidoskl
+[26/8/2022 18:15:8] /c Buidoskl
+[26/8/2022 18:15:30] /c Buidoskl
+[26/8/2022 18:20:30] /addskill Remix, level, 1000
+[26/8/2022 18:21:30] /i bag
+[26/8/2022 18:21:33] /i 6541
+[26/8/2022 18:21:34] /i 6542
+[26/8/2022 18:21:35] /i 6543
+[26/8/2022 18:21:35] /i 6544
+[26/8/2022 18:21:36] /i 6545
+[26/8/2022 18:21:45] /down
+[26/8/2022 18:21:47] /down
+[26/8/2022 18:21:48] /down
+[26/8/2022 18:22:4] /i 2328
+[26/8/2022 18:22:30] /i 8300
+[26/8/2022 18:22:31] /i 8300
+[26/8/2022 18:22:32] /i 8300
+[26/8/2022 18:23:52] /i gold ingot
+[26/8/2022 18:24:16] /giveitem [adm] king, 9971, 1
+[26/8/2022 18:24:24] /giveitem alex ms, 9971, 1000
+[26/8/2022 18:31:35] /c remix
+[26/8/2022 18:32:17] /goto shimaricat
+[26/8/2022 18:32:32] /ghost
+[26/8/2022 18:33:52] /spy
+[26/8/2022 18:34:29] /t
+[26/8/2022 18:34:34] /ghost
+[26/8/2022 18:35:20] /addskill rahl
+[26/8/2022 18:35:24] /addskill rahl, level, 1000
+[26/8/2022 18:36:23] /goto lord eld
+[26/8/2022 18:36:25] /t
+[26/8/2022 18:39:38] /addpoints lord eld, 120
+[26/8/2022 18:58:18] /addpoints King Of Mage, 120
+[26/8/2022 19:0:41] /ghost
+[26/8/2022 19:0:42] /spy
+[26/8/2022 19:0:55] /ghost
+[26/8/2022 19:2:33] /up 3
+[26/8/2022 19:2:36] /c king of mage
+[26/8/2022 19:3:3] /i king mage hat
+[26/8/2022 19:3:12] /i king mage armor
+[26/8/2022 19:3:15] /i king mage legs
+[26/8/2022 19:3:41] /t king of mage
+[26/8/2022 19:3:44] /t
+[26/8/2022 19:5:3] /goto labia
+[26/8/2022 19:6:28] /attr health -9999999999
+[26/8/2022 19:6:47] /a
+[26/8/2022 19:7:14] /up 3
+[26/8/2022 19:7:18] /i master backpack
+[26/8/2022 19:10:9] /ghost
+[26/8/2022 19:10:9] /t
+[26/8/2022 19:10:13] /goto vai amerda
+[26/8/2022 19:10:17] /goto labia
+[26/8/2022 19:10:21] /goto king rp
+[26/8/2022 19:10:25] /ghost
+[26/8/2022 19:10:43] /t
+[26/8/2022 19:10:44] /up 3
+[26/8/2022 19:11:5] /t
+[26/8/2022 19:11:9] /ghost
+[26/8/2022 19:11:17] /goto king rp
+[26/8/2022 19:11:22] /ghost
+[26/8/2022 19:12:47] /i 8300
+[26/8/2022 19:12:48] /i 8300
+[26/8/2022 19:13:9] /up 3
+[26/8/2022 19:13:18] /i master backpack
+[26/8/2022 19:13:30] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:35] /i 6542
+[26/8/2022 19:13:36] /i 6542
+[26/8/2022 19:13:36] /i 6542
+[26/8/2022 19:13:36] /i 6542
+[26/8/2022 19:13:36] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:37] /i 6542
+[26/8/2022 19:13:38] /i 6542
+[26/8/2022 19:13:38] /i 6542
+[26/8/2022 19:13:38] /i 6542
+[26/8/2022 19:13:38] /i 6542
+[26/8/2022 19:13:39] /i 6542
+[26/8/2022 19:13:39] /i 6542
+[26/8/2022 19:13:48] /i master backpack
+[26/8/2022 19:14:5] /i 6543
+[26/8/2022 19:14:7] /i 6543
+[26/8/2022 19:14:8] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:9] /i 6543
+[26/8/2022 19:14:10] /i 6543
+[26/8/2022 19:14:10] /i 6543
+[26/8/2022 19:14:10] /i 6543
+[26/8/2022 19:14:10] /i 6543
+[26/8/2022 19:14:10] /i 6543
+[26/8/2022 19:14:10] /i 6543
+[26/8/2022 19:14:11] /i 6543
+[26/8/2022 19:14:11] /i 6543
+[26/8/2022 19:14:11] /i 6543
+[26/8/2022 19:14:11] /i 6543
+[26/8/2022 19:14:11] /i 6543
+[26/8/2022 19:14:11] /i 6543
+[26/8/2022 19:14:11] /i 6543
+[26/8/2022 19:14:11] /i 6543
+[26/8/2022 19:14:12] /i 6543
+[26/8/2022 19:14:12] /i 6543
+[26/8/2022 19:14:12] /i 6543
+[26/8/2022 19:14:12] /i 6543
+[26/8/2022 19:14:12] /i 6543
+[26/8/2022 19:14:13] /i 6543
+[26/8/2022 19:14:13] /i 6543
+[26/8/2022 19:14:13] /i 6543
+[26/8/2022 19:14:22] /i master backpack
+[26/8/2022 19:14:31] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:32] /i 6544
+[26/8/2022 19:14:35] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:36] /i 6544
+[26/8/2022 19:14:37] /i 6544
+[26/8/2022 19:14:37] /i 6544
+[26/8/2022 19:14:37] /i 6544
+[26/8/2022 19:14:37] /i 6544
+[26/8/2022 19:14:38] /i 6544
+[26/8/2022 19:14:42] /i master backpack
+[26/8/2022 19:14:54] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:55] /i 6545
+[26/8/2022 19:14:56] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:57] /i 6545
+[26/8/2022 19:14:58] /i 6545
+[26/8/2022 19:15:22] /i 6545
+[26/8/2022 19:15:24] /i master backpack
+[26/8/2022 19:15:27] /i 6545
+[26/8/2022 19:15:29] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:30] /i 6545
+[26/8/2022 19:15:31] /i 6545
+[26/8/2022 19:15:31] /i 6545
+[26/8/2022 19:15:31] /i 6545
+[26/8/2022 19:15:31] /i 6545
+[26/8/2022 19:15:31] /i 6545
+[26/8/2022 19:15:32] /i 6545
+[26/8/2022 19:15:32] /i 6545
+[26/8/2022 19:15:32] /i 6545
+[26/8/2022 19:15:32] /i 6545
+[26/8/2022 19:15:32] /i 6545
+[26/8/2022 19:15:33] /i 6545
+[26/8/2022 19:15:38] /i master backpack
+[26/8/2022 19:15:41] /i 6541
+[26/8/2022 19:15:41] /i 6541
+[26/8/2022 19:15:41] /i 6541
+[26/8/2022 19:15:41] /i 6541
+[26/8/2022 19:15:42] /i 6541
+[26/8/2022 19:15:42] /i 6541
+[26/8/2022 19:15:42] /i 6541
+[26/8/2022 19:15:42] /i 6541
+[26/8/2022 19:15:42] /i 6541
+[26/8/2022 19:15:42] /i 6541
+[26/8/2022 19:15:42] /i 6541
+[26/8/2022 19:15:42] /i 6541
+[26/8/2022 19:15:42] /i 6541
+[26/8/2022 19:15:42] /i 6541
+[26/8/2022 19:15:43] /i 6541
+[26/8/2022 19:15:43] /i 6541
+[26/8/2022 19:15:43] /i 6541
+[26/8/2022 19:15:43] /i 6541
+[26/8/2022 19:15:43] /i 6541
+[26/8/2022 19:15:43] /i 6541
+[26/8/2022 19:15:43] /i 6541
+[26/8/2022 19:15:44] /i 6541
+[26/8/2022 19:15:44] /i 6541
+[26/8/2022 19:15:44] /i 6541
+[26/8/2022 19:15:44] /i 6541
+[26/8/2022 19:15:44] /i 6541
+[26/8/2022 19:15:45] /i 6541
+[26/8/2022 19:15:45] /i 6541
+[26/8/2022 19:15:45] /i 6541
+[26/8/2022 19:15:45] /i 6541
+[26/8/2022 19:15:45] /i 6541
+[26/8/2022 19:15:45] /i 6541
+[26/8/2022 19:15:46] /i 6541
+[26/8/2022 19:15:46] /i 6541
+[26/8/2022 19:15:46] /i 6541
+[26/8/2022 19:15:47] /i 6541
+[26/8/2022 19:15:55] /i master backpack
+[26/8/2022 19:16:2] /i 12599
+[26/8/2022 19:16:4] /i 12599
+[26/8/2022 19:16:4] /i 12599
+[26/8/2022 19:16:4] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:5] /i 12599
+[26/8/2022 19:16:6] /i 12599
+[26/8/2022 19:16:6] /i 12599
+[26/8/2022 19:16:6] /i 12599
+[26/8/2022 19:16:6] /i 12599
+[26/8/2022 19:16:6] /i 12599
+[26/8/2022 19:16:6] /i 12599
+[26/8/2022 19:16:7] /i 12599
+[26/8/2022 19:16:7] /i 12599
+[26/8/2022 19:16:7] /i 12599
+[26/8/2022 19:16:8] /i 12599
+[26/8/2022 19:16:8] /i 12599
+[26/8/2022 19:16:11] /i master backpack
+[26/8/2022 19:16:19] /i 8300
+[26/8/2022 19:16:19] /i 8300
+[26/8/2022 19:16:19] /i 8300
+[26/8/2022 19:16:19] /i 8300
+[26/8/2022 19:16:19] /i 8300
+[26/8/2022 19:16:19] /i 8300
+[26/8/2022 19:16:19] /i 8300
+[26/8/2022 19:16:19] /i 8300
+[26/8/2022 19:16:19] /i 8300
+[26/8/2022 19:16:21] /i 8300
+[26/8/2022 19:16:21] /i 8300
+[26/8/2022 19:16:21] /i 8300
+[26/8/2022 19:16:21] /i 8300
+[26/8/2022 19:16:22] /i 8300
+[26/8/2022 19:16:22] /i 8300
+[26/8/2022 19:16:22] /i 8300
+[26/8/2022 19:16:22] /i 8300
+[26/8/2022 19:16:22] /i 8300
+[26/8/2022 19:16:23] /i 8300
+[26/8/2022 19:16:23] /i 8300
+[26/8/2022 19:16:23] /i 8300
+[26/8/2022 19:16:23] /i 8300
+[26/8/2022 19:16:23] /i 8300
+[26/8/2022 19:16:23] /i 8300
+[26/8/2022 19:16:24] /i 8300
+[26/8/2022 19:16:24] /i 8300
+[26/8/2022 19:16:24] /i 8300
+[26/8/2022 19:16:24] /i 8300
+[26/8/2022 19:16:25] /i 8300
+[26/8/2022 19:16:25] /i 8300
+[26/8/2022 19:16:25] /i 8300
+[26/8/2022 19:16:25] /i 8300
+[26/8/2022 19:16:26] /i 8300
+[26/8/2022 19:16:26] /i 8300
+[26/8/2022 19:16:27] /i 8300
+[26/8/2022 19:16:27] /i master backpack
+[26/8/2022 19:16:28] /i 8300
+[26/8/2022 19:16:29] /i 8300
+[26/8/2022 19:16:29] /i 8300
+[26/8/2022 19:16:29] /i 8300
+[26/8/2022 19:16:29] /i 8300
+[26/8/2022 19:16:29] /i 8300
+[26/8/2022 19:16:29] /i 8300
+[26/8/2022 19:16:29] /i 8300
+[26/8/2022 19:16:30] /i 8300
+[26/8/2022 19:16:30] /i 8300
+[26/8/2022 19:16:30] /i 8300
+[26/8/2022 19:16:30] /i 8300
+[26/8/2022 19:16:30] /i 8300
+[26/8/2022 19:16:30] /i 8300
+[26/8/2022 19:16:31] /i 8300
+[26/8/2022 19:16:31] /i 8300
+[26/8/2022 19:16:31] /i 8300
+[26/8/2022 19:16:31] /i 8300
+[26/8/2022 19:16:31] /i 8300
+[26/8/2022 19:16:32] /i 8300
+[26/8/2022 19:16:32] /i 8300
+[26/8/2022 19:16:32] /i 8300
+[26/8/2022 19:16:32] /i 8300
+[26/8/2022 19:16:32] /i 8300
+[26/8/2022 19:16:32] /i 8300
+[26/8/2022 19:16:32] /i 8300
+[26/8/2022 19:16:33] /i 8300
+[26/8/2022 19:16:33] /i 8300
+[26/8/2022 19:16:33] /i 8300
+[26/8/2022 19:16:33] /i 8300
+[26/8/2022 19:16:34] /i 8300
+[26/8/2022 19:16:34] /i 8300
+[26/8/2022 19:16:34] /i 8300
+[26/8/2022 19:16:34] /i 8300
+[26/8/2022 19:16:35] /i 8300
+[26/8/2022 19:16:35] /i master backpack
+[26/8/2022 19:16:36] /i 8300
+[26/8/2022 19:16:36] /i 8300
+[26/8/2022 19:16:36] /i 8300
+[26/8/2022 19:16:37] /i 8300
+[26/8/2022 19:16:37] /i 8300
+[26/8/2022 19:16:37] /i 8300
+[26/8/2022 19:16:37] /i 8300
+[26/8/2022 19:16:38] /i 8300
+[26/8/2022 19:16:38] /i 8300
+[26/8/2022 19:16:38] /i 8300
+[26/8/2022 19:16:38] /i 8300
+[26/8/2022 19:16:38] /i 8300
+[26/8/2022 19:16:38] /i 8300
+[26/8/2022 19:16:38] /i 8300
+[26/8/2022 19:16:38] /i 8300
+[26/8/2022 19:16:38] /i 8300
+[26/8/2022 19:16:38] /i 8300
+[26/8/2022 19:16:39] /i 8300
+[26/8/2022 19:16:39] /i 8300
+[26/8/2022 19:16:39] /i 8300
+[26/8/2022 19:16:39] /i 8300
+[26/8/2022 19:16:39] /i 8300
+[26/8/2022 19:16:39] /i 8300
+[26/8/2022 19:16:40] /i 8300
+[26/8/2022 19:16:40] /i 8300
+[26/8/2022 19:16:40] /i 8300
+[26/8/2022 19:16:40] /i 8300
+[26/8/2022 19:16:40] /i 8300
+[26/8/2022 19:16:40] /i 8300
+[26/8/2022 19:16:41] /i 8300
+[26/8/2022 19:16:41] /i 8300
+[26/8/2022 19:16:42] /i 8300
+[26/8/2022 19:16:42] /i 8300
+[26/8/2022 19:16:42] /i 8300
+[26/8/2022 19:16:42] /i 8300
+[26/8/2022 19:16:45] /i master backpack
+[26/8/2022 19:16:45] /i 8300
+[26/8/2022 19:16:45] /i 8300
+[26/8/2022 19:16:46] /i 8300
+[26/8/2022 19:16:46] /i 8300
+[26/8/2022 19:16:46] /i 8300
+[26/8/2022 19:16:46] /i 8300
+[26/8/2022 19:16:47] /i 8300
+[26/8/2022 19:16:47] /i 8300
+[26/8/2022 19:16:47] /i 8300
+[26/8/2022 19:16:47] /i 8300
+[26/8/2022 19:16:48] /i 8300
+[26/8/2022 19:16:48] /i 8300
+[26/8/2022 19:16:48] /i 8300
+[26/8/2022 19:16:48] /i 8300
+[26/8/2022 19:16:48] /i 8300
+[26/8/2022 19:16:48] /i 8300
+[26/8/2022 19:16:48] /i 8300
+[26/8/2022 19:16:48] /i 8300
+[26/8/2022 19:16:48] /i 8300
+[26/8/2022 19:16:49] /i 8300
+[26/8/2022 19:16:49] /i 8300
+[26/8/2022 19:16:49] /i 8300
+[26/8/2022 19:16:49] /i 8300
+[26/8/2022 19:16:49] /i 8300
+[26/8/2022 19:16:49] /i 8300
+[26/8/2022 19:16:50] /i 8300
+[26/8/2022 19:16:50] /i 8300
+[26/8/2022 19:16:50] /i 8300
+[26/8/2022 19:16:50] /i 8300
+[26/8/2022 19:16:50] /i 8300
+[26/8/2022 19:16:50] /i 8300
+[26/8/2022 19:16:51] /i 8300
+[26/8/2022 19:16:51] /i 8300
+[26/8/2022 19:16:51] /i 8300
+[26/8/2022 19:16:52] /i 8300
+[26/8/2022 19:16:53] /i master backpack
+[26/8/2022 19:17:14] /i master backpack
+[26/8/2022 19:17:16] /i 8300
+[26/8/2022 19:18:12] /r
+[26/8/2022 19:18:26] /i red backpack
+[26/8/2022 19:18:39] /r
+[26/8/2022 19:18:39] /t
+[26/8/2022 19:20:6] /ghost
+[26/8/2022 19:27:31] /i great spirit potion
+[26/8/2022 19:36:11] /bc blue [EVENTO] O Teleport para o BOSS Gaz'Haragoth foi aberto no templo, fechara em 30 minutos!
+[26/8/2022 19:36:13] /bc blue [EVENTO] O Teleport para o BOSS Gaz'Haragoth foi aberto no templo, fechara em 30 minutos!
+[26/8/2022 19:36:13] /bc blue [EVENTO] O Teleport para o BOSS Gaz'Haragoth foi aberto no templo, fechara em 30 minutos!
+[26/8/2022 19:36:14] /bc blue [EVENTO] O Teleport para o BOSS Gaz'Haragoth foi aberto no templo, fechara em 30 minutos!
+[26/8/2022 19:37:35] /i 12588
+[26/8/2022 19:37:37] /i 12599
+[26/8/2022 19:37:49] /i 8300
+[26/8/2022 19:37:49] /i 8300
+[26/8/2022 19:37:58] /i real knifee
+[26/8/2022 19:38:0] /i real knife
+[26/8/2022 19:40:44] /goto morgahar
+[26/8/2022 19:41:13] /t
+[26/8/2022 19:41:47] /goto pintudinho
+[26/8/2022 19:42:11] /t
+[26/8/2022 19:42:13] /goto morgahar
+[26/8/2022 19:42:28] /goto purgao star
+[26/8/2022 19:42:36] /goto labia
+[26/8/2022 19:42:52] /ghost
+[26/8/2022 19:43:0] /attr mana -99999999
+[26/8/2022 19:43:15] /attr mana -99999999
+[26/8/2022 19:44:20] /attr mana -99999999
+[26/8/2022 19:45:52] /goto morgahar
+[26/8/2022 19:45:59] /c morgahar
+[26/8/2022 19:46:3] /c morgahar
+[26/8/2022 19:46:5] /c morgahar
+[26/8/2022 19:46:14] /attr mana -99999999
+[26/8/2022 19:46:54] /goto boomer
+[26/8/2022 19:46:58] /i great spirit potion
+[26/8/2022 19:47:11] /i great mana potion
+[26/8/2022 19:47:27] /reload actions
+[26/8/2022 19:47:45] /attr mana -999999999
+[26/8/2022 19:50:32] /reload actions
+[26/8/2022 19:51:30] /attr mana -99999999999
+[26/8/2022 19:51:44] /r
+[26/8/2022 19:52:47] /attr mana 9999999999999
+[26/8/2022 19:52:52] /t
+[26/8/2022 19:53:23] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:24] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:25] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:25] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:26] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:26] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:26] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:33] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:34] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:34] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:35] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:35] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:36] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:53:36] /bc blue [ManaRune]: A mana rune será desativada, favor usem a potion de mage.
+[26/8/2022 19:54:9] /reload spells
+[26/8/2022 19:54:24] /goto boomer
+[26/8/2022 19:54:40] /ghost
+[26/8/2022 19:55:34] /ghost
+[26/8/2022 19:56:2] /t
+[26/8/2022 19:56:10] /goto gringo paladin
+[26/8/2022 19:56:34] /attr mana -9999999999
+[26/8/2022 19:56:37] /attr mana -9999999999
+[26/8/2022 19:56:43] /attr mana -9999999999
+[26/8/2022 19:56:53] /attr mana -9999999999
+[26/8/2022 19:56:53] /attr mana -9999999999
+[26/8/2022 19:56:54] /attr mana -9999999999
+[26/8/2022 19:57:38] /reload spells
+[26/8/2022 19:58:31] /goto labia
+[26/8/2022 19:58:35] /goto boomer
+[26/8/2022 19:58:39] /c labia
+[26/8/2022 20:2:13] /t
+[26/8/2022 20:2:20] /goto morgahar
+[26/8/2022 20:2:24] /spy
+[26/8/2022 20:2:36] /goto gringo paladin
+[26/8/2022 20:4:35] /spy
+[26/8/2022 20:4:52] /spy
+[26/8/2022 20:5:40] /goto boomer
+[26/8/2022 20:5:49] /reload spells
+[26/8/2022 20:5:54] /reload actions
+[26/8/2022 20:6:0] /t
+[26/8/2022 20:6:9] /spy
+[26/8/2022 20:9:38] /reload spells
+[26/8/2022 20:9:52] /spy
+[26/8/2022 20:12:1] /goto Monkey The Trem
+[26/8/2022 20:12:15] /i 8300
+[26/8/2022 20:12:15] /i 8300
+[26/8/2022 20:12:16] /i 8300
+[26/8/2022 20:12:23] /t
+[26/8/2022 20:12:34] /goto Monkey The Trem
+[26/8/2022 20:12:35] /i 3954
+[26/8/2022 20:12:44] /t
+[26/8/2022 20:14:17] /reload spells
+[26/8/2022 20:15:2] /bc blue [ManaRune]: Usem a mana rune novamente, potion tá zoado tbm.
+[26/8/2022 20:15:5] /bc blue [ManaRune]: Usem a mana rune novamente, potion tá zoado tbm.
+[26/8/2022 20:15:5] /bc blue [ManaRune]: Usem a mana rune novamente, potion tá zoado tbm.
+[26/8/2022 20:15:45] /up 3
+[26/8/2022 20:15:47] /c gringo paladin
+[26/8/2022 20:15:48] /reload spells
+[26/8/2022 20:16:3] /attr mana -999999
+[26/8/2022 20:16:56] /t Gringo Paladin
+[26/8/2022 20:17:50] /reload spells
+[26/8/2022 20:17:55] /goto gringo paladin
+[26/8/2022 20:18:3] /t gringo paladin
+[26/8/2022 20:18:4] /t
+[26/8/2022 20:19:35] /reload spells
+[26/8/2022 20:21:25] /i 8300
+[26/8/2022 20:21:42] /s trainers
+[26/8/2022 20:26:13] /reload monsters
+[26/8/2022 20:27:40] /m possessed tree
+[26/8/2022 20:28:5] /m max morte
+[26/8/2022 20:28:22] /m max morte
+[26/8/2022 20:28:23] /m max morte
+[26/8/2022 20:28:38] /t gringo paladin
+[26/8/2022 20:28:38] /t
+[26/8/2022 20:28:52] /ghost
+[26/8/2022 20:37:10] /addpoints King of Mage, 150
+[26/8/2022 20:48:56] /openserver
+[26/8/2022 20:50:38] /addskill kazuto, level, 500
+[26/8/2022 20:50:41] !givecombo1
+[26/8/2022 20:50:42] !givecombo1
+[26/8/2022 20:50:44] !givecombo1
+[26/8/2022 20:52:9] /bc blue [Castles]: Agora os Castelos contém a mesma EXP do SuperUP, chame sua guild e vá dominar.
+[26/8/2022 20:52:34] /bc blue [Castles]: Agora os Castelos contém a mesma EXP do SuperUP, chame sua guild e vá dominar.
+[26/8/2022 20:52:34] /bc blue [Castles]: Agora os Castelos contém a mesma EXP do SuperUP, chame sua guild e vá dominar.
+[26/8/2022 20:52:35] /bc blue [Castles]: Agora os Castelos contém a mesma EXP do SuperUP, chame sua guild e vá dominar.
+[26/8/2022 20:52:36] /bc blue [Castles]: Agora os Castelos contém a mesma EXP do SuperUP, chame sua guild e vá dominar.
+[26/8/2022 20:52:43] /goto lord eld
+[26/8/2022 20:53:36] /save
+[26/8/2022 20:54:33] /bc blue alguém deu algum comando ou apertou algum bau antes de cair o ot? tipo no mesmo instante?
+[26/8/2022 20:54:47] /bc blue alguém deu algum comando ou apertou algum bau antes de cair o ot? tipo no mesmo instante?
+[26/8/2022 20:54:47] /bc blue alguém deu algum comando ou apertou algum bau antes de cair o ot? tipo no mesmo instante?
+[26/8/2022 20:54:48] /bc blue alguém deu algum comando ou apertou algum bau antes de cair o ot? tipo no mesmo instante?
+[26/8/2022 20:54:49] /bc blue alguém deu algum comando ou apertou algum bau antes de cair o ot? tipo no mesmo instante?
+[26/8/2022 20:57:1] /reload talkactions
+[26/8/2022 20:57:12] /spy
+[26/8/2022 20:57:43] /owner [adm] king
+[26/8/2022 20:57:44] /save
+[26/8/2022 20:57:59] /ghost
+[26/8/2022 20:58:6] /ghost
+[26/8/2022 20:58:6] /t
+[26/8/2022 21:1:55] /bc blue [Castles]: Lute pelos castelos, ambos agora tem os maiores exp do servidor!
+[26/8/2022 21:1:59] /bc blue [Castles]: Lute pelos castelos, ambos agora tem os maiores exp do servidor!
+[26/8/2022 21:2:0] /bc blue [Castles]: Lute pelos castelos, ambos agora tem os maiores exp do servidor!
+[26/8/2022 21:2:1] /bc blue [Castles]: Lute pelos castelos, ambos agora tem os maiores exp do servidor!
+[26/8/2022 21:2:1] /bc blue [Castles]: Lute pelos castelos, ambos agora tem os maiores exp do servidor!
+[26/8/2022 21:2:2] /bc blue [Castles]: Lute pelos castelos, ambos agora tem os maiores exp do servidor!
+[26/8/2022 21:2:2] /bc blue [Castles]: Lute pelos castelos, ambos agora tem os maiores exp do servidor!
+[27/8/2022 1:45:12] /ghost
+[27/8/2022 1:48:54] /spy
+[27/8/2022 1:49:42] /a 10
+[27/8/2022 1:49:42] /a 10
+[27/8/2022 1:49:43] /a 10
+[27/8/2022 1:52:46] /goto alex ms
+[27/8/2022 1:52:58] /c alex ms
+[27/8/2022 1:53:16] /c alex ms
+[27/8/2022 1:53:23] /c alex ms
+[27/8/2022 1:53:36] /t
+[27/8/2022 1:54:0] /c volpi~
+[27/8/2022 1:54:31] /i 8300
+[27/8/2022 1:54:32] /i 8300
+[27/8/2022 1:54:32] /i 8300
+[27/8/2022 1:58:0] /i hyper key
+[27/8/2022 1:59:20] /goto volpi entediado
+[27/8/2022 2:0:53] /goto buidoskl
+[27/8/2022 2:1:5] /i legendary shield
+[27/8/2022 2:1:16] /t
+[27/8/2022 2:1:31] /goto pally maldito
+[27/8/2022 2:1:41] /up
+[27/8/2022 2:2:58] /attr health -99999999
+[27/8/2022 2:3:1] /attr health -9999999999999
+[27/8/2022 2:3:15] /t
+[27/8/2022 2:9:34] /goto sidoka
+[27/8/2022 2:9:48] /t
+[27/8/2022 2:11:4] /reload talkactions
+[27/8/2022 2:11:37] !givecombo
+[27/8/2022 2:11:47] !givecombo
+[27/8/2022 2:12:28] !givecombo1
+[27/8/2022 2:13:24] /goto sidoka
+[27/8/2022 2:13:28] /t
+[27/8/2022 2:14:13] /i backpack
+[27/8/2022 2:16:15] /ghost
+[27/8/2022 3:31:35] /ghost
+[27/8/2022 3:38:46] /goto morgahar
+[27/8/2022 3:38:48] /goto pintudinho
+[27/8/2022 3:38:49] /t
+[27/8/2022 3:39:1] /goto gringo paladin
+[27/8/2022 3:39:4] /goto mage off dead
+[27/8/2022 3:39:6] /goto sidoka
+[27/8/2022 3:39:7] /t
+[27/8/2022 3:39:21] /goto purgao star
+[27/8/2022 3:39:23] /goto fuba war
+[27/8/2022 3:39:26] /goto ripcurl
+[27/8/2022 3:39:29] /goto malvadao
+[27/8/2022 3:39:33] /goto comando voador
+[27/8/2022 3:39:39] /goto shi youn
+[27/8/2022 3:39:41] /goto shi young
+[27/8/2022 3:39:49] /goto boomer
+[27/8/2022 3:39:52] /goto pallydin
+[27/8/2022 3:39:58] /goto jutinha
+[27/8/2022 3:40:2] /goto noob
+[27/8/2022 3:40:31] /reload spells
+[27/8/2022 3:41:6] /attr mana -999999999
+[27/8/2022 3:41:58] /attr mana -999999999
+[27/8/2022 3:42:1] /attr mana -999999999
+[27/8/2022 3:42:18] /attr mana -999999999
+[27/8/2022 3:42:54] /reload actions
+[27/8/2022 3:43:0] /reload spells
+[27/8/2022 3:43:11] /attr mana -9999999999
+[27/8/2022 3:43:17] /attr mana -9999999999
+[27/8/2022 3:43:17] /attr mana -9999999999
+[27/8/2022 3:43:41] /reload spells
+[27/8/2022 3:43:45] /attr mana -9999999999
+[27/8/2022 3:43:50] /attr mana -9999999999
+[27/8/2022 3:43:51] /attr mana -9999999999
+[27/8/2022 3:43:51] /attr mana -9999999999
+[27/8/2022 3:45:16] /reload spells
+[27/8/2022 3:45:21] /attr mana -999999999
+[27/8/2022 3:47:47] /reload spells
+[27/8/2022 3:47:56] /attr mana -9999999999
+[27/8/2022 3:49:16] /attr mana -99999999999
+[27/8/2022 3:51:16] /reload spells
+[27/8/2022 3:51:32] /attr mana -9999999
+[27/8/2022 3:53:10] /reload spells
+[27/8/2022 3:53:15] /attr mana -99999999999999
+[27/8/2022 3:54:2] /i king staff
+[27/8/2022 3:54:11] /t
+[27/8/2022 3:59:42] /goto jutinha
+[27/8/2022 3:59:51] /t
+[27/8/2022 4:0:14] /a 10
+[27/8/2022 4:0:16] /goto dark rodo
+[27/8/2022 4:0:55] /t
+[27/8/2022 4:1:8] /i mana rune
+[27/8/2022 4:1:33] /goto jutinha
+[27/8/2022 4:1:44] /reload spells
+[27/8/2022 4:2:3] /attr mana -999999999
+[27/8/2022 4:2:40] /m super supremo hellhound
+[27/8/2022 4:2:49] /m claptomaniaco
+[27/8/2022 4:3:16] /r
+[27/8/2022 4:3:55] /m claptomaniaco
+[27/8/2022 4:3:59] /m claptomaniaco
+[27/8/2022 4:4:1] /m claptomaniaco
+[27/8/2022 4:4:15] /attr mana -999999999
+[27/8/2022 4:4:20] /r
+[27/8/2022 4:4:49] /m claptomaniaco
+[27/8/2022 4:4:52] /m claptomaniaco
+[27/8/2022 4:5:6] /attr mana -9999999999
+[27/8/2022 4:6:23] /spy
+[27/8/2022 4:6:58] /spy
+[27/8/2022 4:7:15] /r
+[27/8/2022 4:7:31] /attr mana -999999999
+[27/8/2022 4:8:43] /attr mana -99999999
+[27/8/2022 4:8:43] /attr mana -99999999
+[27/8/2022 4:8:44] /attr mana -99999999
+[27/8/2022 4:8:45] /attr mana -99999999
+[27/8/2022 4:8:50] /m claptomaniaco
+[27/8/2022 4:8:54] /attr mana -99999999
+[27/8/2022 4:9:0] /spy
+[27/8/2022 4:9:25] /r
+[27/8/2022 4:10:12] /t
+[27/8/2022 4:10:53] /goto purgao star
+[27/8/2022 4:11:1] /attr mana -999999999
+[27/8/2022 4:12:24] /reload actions
+[27/8/2022 4:12:30] /spy
+[27/8/2022 4:13:10] /t
+[27/8/2022 4:17:41] !givecombo1
+[27/8/2022 4:18:9] /goto shimaricat
+[27/8/2022 4:18:14] /ghost
+[27/8/2022 4:18:16] /spy
+[27/8/2022 4:19:24] /spy
+[27/8/2022 4:19:58] /goto xandao~
+[27/8/2022 4:20:3] /spy
+[27/8/2022 4:20:26] /t
+[27/8/2022 4:48:21] /goto purgao star
+[27/8/2022 4:48:33] /t
+[27/8/2022 4:48:44] /c purgao star
+[27/8/2022 4:49:3] /goto 1531, 2638, 7
+[27/8/2022 4:49:5] /c purgao star
+[27/8/2022 4:49:12] /info purgao star
+[27/8/2022 4:49:23] /t
+[27/8/2022 4:52:27] /goto purgao star
+[27/8/2022 4:52:36] /t
+[27/8/2022 11:21:20] /up
+[27/8/2022 11:21:23] /goto sidoka
+[27/8/2022 11:21:35] /goto sidoka
+[27/8/2022 11:22:1] /up
+[27/8/2022 11:22:47] /c motocorno retired
+[27/8/2022 11:22:49] /spy
+[27/8/2022 11:23:3] /goto sidoka
+[27/8/2022 11:23:13] /up
+[27/8/2022 11:24:18] /goto sidoka
+[27/8/2022 11:24:30] /goto sidoka
+[27/8/2022 11:25:5] /spy
+[27/8/2022 11:25:16] /spy
+[27/8/2022 11:26:39] /spy
+[27/8/2022 11:27:42] /c sidoka
+[27/8/2022 11:28:19] /t
+[27/8/2022 11:29:6] /spy
+[27/8/2022 11:29:56] /down
+[27/8/2022 11:29:57] /down
+[27/8/2022 11:29:57] /down
+[27/8/2022 11:30:31] /up
+[27/8/2022 11:30:32] /up
+[27/8/2022 11:30:32] /up
+[27/8/2022 11:32:36] !givecombo1
+[27/8/2022 11:32:52] /goto sidoka
+[27/8/2022 11:33:0] /t
+[27/8/2022 11:34:5] /i real ring
+[27/8/2022 11:34:29] /goto sidoka
+[27/8/2022 11:34:31] /goto sidoka
+[27/8/2022 11:37:19] /spy
+[27/8/2022 11:37:45] /spy
+[27/8/2022 11:40:28] /goto sidoka
+[27/8/2022 11:40:41] /spy 
+[27/8/2022 11:41:18] /spy
+[27/8/2022 11:41:42] /i king ring
+[27/8/2022 11:42:17] /spy
+[27/8/2022 11:43:18] /spy
+[27/8/2022 11:51:40] /ghost
+[27/8/2022 11:51:55] /ghost
+[27/8/2022 11:52:55] /attr mana -99999999
+[27/8/2022 11:52:56] /attr mana -99999999
+[27/8/2022 11:52:57] /attr mana -99999999
+[27/8/2022 11:54:14] /attr mana -9999999999999
+[27/8/2022 11:55:10] /spy
+[27/8/2022 11:55:55] /spy
+[27/8/2022 11:56:37] /spy
+[27/8/2022 11:56:51] /spy
+[27/8/2022 11:57:13] /spy
+[27/8/2022 11:57:51] /attr mana -9999999999
+[27/8/2022 11:57:54] /spy
+[27/8/2022 11:58:31] /spy
+[27/8/2022 12:0:42] /attr mana -999999999
+[27/8/2022 12:1:15] /spy
+[27/8/2022 12:1:51] /spy
+[27/8/2022 12:2:1] /spy
+[27/8/2022 12:2:37] /attr mana 99999999999999
+[27/8/2022 12:2:46] /attr mana 99999999999999
+[27/8/2022 12:2:47] /attr mana 99999999999999
+[27/8/2022 12:9:8] /t sidoka
+[27/8/2022 12:9:9] /t
+[27/8/2022 12:11:11] /goto gringo paladin
+[27/8/2022 12:11:14] /save
+[27/8/2022 12:11:46] /attr mana -9999999
+[27/8/2022 12:12:15] /t
+[27/8/2022 12:12:18] /goto dacruz
+[27/8/2022 12:12:52] /c dolly
+[27/8/2022 12:13:37] /i addon doll
+[27/8/2022 12:13:43] /t 
+[27/8/2022 12:13:45] /goto gringo paladin
+[27/8/2022 12:13:47] /goto gringo paladin
+[27/8/2022 12:14:32] /attr mana -999999999
+[27/8/2022 12:14:45] /attr mana -999999999
+[27/8/2022 12:16:29] /reload creaturescripts
+[27/8/2022 12:16:58] /addpoints betania, 60
+[27/8/2022 12:20:38] /spy
+[27/8/2022 12:24:43] /attr mana 9999999999
+[27/8/2022 12:29:23] /t
+[27/8/2022 12:29:25] /goto killzona
+[27/8/2022 12:29:32] /addskill kilzona, level, 1000
+[27/8/2022 12:31:1] /reload spells
+[27/8/2022 12:31:22] /addskill kilzona, level, 1000
+[27/8/2022 12:31:30] /addskill Killzona, level, 500
+[27/8/2022 12:35:6] /goto gringo paladin
+[27/8/2022 12:35:32] /goto pallydin
+[27/8/2022 12:35:49] /spy
+[27/8/2022 12:36:40] /goto shimaricat
+[27/8/2022 12:36:50] /attr mana 999999999999
+[27/8/2022 12:36:58] /spy
+[27/8/2022 12:37:40] /i great mana potion
+[27/8/2022 12:37:57] /giveitem shimaricat, 7590, 1
+[27/8/2022 12:37:59] /spy
+[27/8/2022 12:38:47] /t
+[27/8/2022 12:38:51] /goto sidoka
+[27/8/2022 12:38:57] /t
+[27/8/2022 13:29:58] /goto jutinha
+[27/8/2022 13:30:57] /t
+[27/8/2022 13:31:12] /goto dacruz
+[27/8/2022 13:31:19] /spy
+[27/8/2022 13:31:27] /goto dacruz
+[27/8/2022 13:31:49] /ghost
+[27/8/2022 13:32:6] /t
+[27/8/2022 13:36:5] /goto dacruz
+[27/8/2022 13:36:13] /c dacruz
+[27/8/2022 13:37:8] /t dacruz
+[27/8/2022 13:37:8] /t
+[27/8/2022 13:37:48] /save
+[27/8/2022 13:37:57] !givecombo1
+[27/8/2022 13:39:39] /goto pally madito
+[27/8/2022 13:39:41] /goto pallydin
+[27/8/2022 13:39:44] /t
+[27/8/2022 13:49:9] /goto pally maldito
+[27/8/2022 13:51:29] /m supremo hellhound
+[27/8/2022 13:51:43] /m claptomaniaco
+[27/8/2022 13:52:32] /spy
+[27/8/2022 13:52:54] /r
+[27/8/2022 13:54:15] /t
+[27/8/2022 13:54:19] /goto trincamisto
+[27/8/2022 13:55:19] /c trincamisto
+[27/8/2022 13:55:38] /i 2328
+[27/8/2022 13:57:4] /up 3
+[27/8/2022 13:57:5] /c bodo
+[27/8/2022 13:57:28] /addskill bodo, level, 1000
+[27/8/2022 13:58:1] /i 3954
+[27/8/2022 13:58:7] /t bodo
+[27/8/2022 13:58:11] /goto kikolindo
+[27/8/2022 13:59:6] /goto gringo paladin
+[27/8/2022 13:59:20] /spy
+[27/8/2022 14:0:8] /t
+[27/8/2022 14:2:1] /goto trincamisto
+[27/8/2022 14:2:13] /ghost
+[27/8/2022 14:2:18] /save
+[27/8/2022 17:29:24] /goto Wirtualny~
+[27/8/2022 17:29:27] /up 3
+[27/8/2022 17:29:29] /c simas turbo
+[27/8/2022 17:31:1] /t simas turbo
+[27/8/2022 17:31:1] /t
+[27/8/2022 17:31:13] /goto jack
+[27/8/2022 17:31:16] /goto sola mento
+[27/8/2022 17:31:22] /t
+[27/8/2022 17:31:36] !givecombo1
+[27/8/2022 17:33:35] /t
+[27/8/2022 17:37:45] /attr mana -999999999
+[27/8/2022 17:38:12] /spy
+[27/8/2022 17:38:26] /spy
+[27/8/2022 17:43:15] /attr mana -9999999999
+[27/8/2022 17:44:17] /goto gringo paladin
+[27/8/2022 17:44:21] /t
+[27/8/2022 18:52:22] /goto tyler
+[27/8/2022 18:52:37] /t
+[27/8/2022 18:52:38] /ghost
+[27/8/2022 18:53:41] /reload spells
+[27/8/2022 18:55:12] /i blue backpack
+[27/8/2022 18:55:48] /i mana rune
+[27/8/2022 18:55:58] /i gold ingot
+[27/8/2022 18:56:11] /goto tyler
+[27/8/2022 18:56:18] /attr mana -999999
+[27/8/2022 18:57:1] /attr mana -999999999
+[27/8/2022 18:57:2] /attr mana -999999999
+[27/8/2022 18:57:5] /m claptomaniaco
+[27/8/2022 18:57:27] /r
+[27/8/2022 18:58:10] /save
+[27/8/2022 18:58:16] /reload spells
+[27/8/2022 18:58:32] /m claptomaniaco
+[27/8/2022 18:58:42] /r
+[27/8/2022 18:58:48] /r
+[27/8/2022 18:58:49] /r
+[27/8/2022 18:58:51] /r
+[27/8/2022 18:58:52] /r
+[27/8/2022 18:58:59] /r
+[27/8/2022 18:59:29] /t
+[27/8/2022 18:59:31] /up 3
+[27/8/2022 18:59:34] /c killzona
+[27/8/2022 18:59:57] /m kong
+[27/8/2022 19:0:19] /addskill killzona, level, 10000
+[27/8/2022 19:1:10] /t killzona
+[27/8/2022 19:2:0] /c killzona
+[27/8/2022 19:2:22] /i gold ingot
+[27/8/2022 19:3:28] /m kong
+[27/8/2022 19:3:28] /m kong
+[27/8/2022 19:3:54] /attr mana -9999999
+[27/8/2022 19:4:0] /attr mana -9999999
+[27/8/2022 19:4:7] /attr mana -9999999
+[27/8/2022 19:4:12] /attr mana -9999999
+[27/8/2022 19:4:42] /t
+[27/8/2022 19:4:50] /a 20
+[27/8/2022 19:4:52] /a 20
+[27/8/2022 19:4:53] /a 20
+[27/8/2022 19:4:57] /a 20
+[27/8/2022 19:5:0] /t
+[27/8/2022 19:5:12] /down
+[27/8/2022 19:5:29] /c killzona
+[27/8/2022 19:5:44] /m kong
+[27/8/2022 19:5:45] /m kong
+[27/8/2022 19:5:50] /attr mana -99999999
+[27/8/2022 19:6:3] /c killzona
+[27/8/2022 19:6:18] /t
+[27/8/2022 19:6:25] /up 3
+[27/8/2022 19:6:28] /c kayque~
+[27/8/2022 19:7:14] /i gold ingot
+[27/8/2022 19:7:18] /t Kayque Master
+[27/8/2022 19:7:20] /goto killzona
+[27/8/2022 19:8:35] /c gringo paladin
+[27/8/2022 19:9:9] /attr mana -99999999
+[27/8/2022 19:10:5] /reload spells
+[27/8/2022 19:10:17] /attr mana -9999999999
+[27/8/2022 19:10:26] /attr mana -9999999999
+[27/8/2022 19:11:21] /reload spells
+[27/8/2022 19:11:28] /attr mana -99999999
+[27/8/2022 19:14:37] /reload spells
+[27/8/2022 19:14:42] /attr mana -99999999
+[27/8/2022 19:15:49] /reload spells
+[27/8/2022 19:15:55] /attr mana -99999999999
+[27/8/2022 19:17:11] /reload spells
+[27/8/2022 19:17:23] /reload spells
+[27/8/2022 19:17:29] /attr mana -99999999
+[27/8/2022 19:18:16] /reload spells
+[27/8/2022 19:18:21] /attr mana -9999999
+[27/8/2022 19:21:28] /reload spells
+[27/8/2022 19:21:32] /attr mana -99999999
+[27/8/2022 19:22:7] /reload spells
+[27/8/2022 19:22:19] /attr mana -9999999
+[27/8/2022 19:22:34] /attr mana -99999999
+[27/8/2022 19:43:39] /reload spells
+[27/8/2022 19:48:33] /m kong
+[27/8/2022 19:49:8] /attr mana -999999999
+[27/8/2022 19:50:25] /m kong
+[27/8/2022 19:50:30] /attr mana -999999999
+[27/8/2022 19:51:18] /reload spells
+[27/8/2022 19:52:8] /attr mana -99999999999
+[27/8/2022 19:53:19] /reload spells
+[27/8/2022 19:53:28] /attr mana -99999999
+[27/8/2022 19:53:33] /m kong
+[27/8/2022 19:53:35] /attr mana -99999999
+[27/8/2022 20:22:12] /openserver
+[27/8/2022 20:23:6] /goto king rp
+[27/8/2022 20:23:8] /t
+[27/8/2022 20:24:14] /info
+[27/8/2022 20:24:17] /info tu mama
+[27/8/2022 20:24:54] /goto boomer minera
+[27/8/2022 20:24:55] /goto boomer minera
+[27/8/2022 20:24:56] /goto boomer minera
+[27/8/2022 20:24:56] /goto boomer minera
+[27/8/2022 20:24:57] /goto boomer minera
+[27/8/2022 20:24:59] /goto minerarr
+[27/8/2022 20:25:1] /goto boomer minera
+[27/8/2022 20:25:1] /goto boomer minera
+[27/8/2022 20:25:2] /goto boomer minera
+[27/8/2022 20:25:3] /goto boomer minera
+[27/8/2022 20:25:3] /goto boomer minera
+[27/8/2022 20:25:4] /goto boomer minera
+[27/8/2022 20:25:4] /goto boomer minera
+[27/8/2022 20:25:5] /goto boomer minera
+[27/8/2022 20:26:17] /r
+[27/8/2022 20:26:19] /r
+[27/8/2022 20:26:22] /r
+[27/8/2022 20:26:25] /r
+[27/8/2022 20:27:3] /mc
+[27/8/2022 20:27:50] /r
+[27/8/2022 20:27:53] /r
+[27/8/2022 20:27:54] /r
+[27/8/2022 20:27:54] /r
+[27/8/2022 20:27:55] /r
+[27/8/2022 20:27:56] /r
+[27/8/2022 20:27:56] /r
+[27/8/2022 20:27:57] /r
+[27/8/2022 20:27:57] /r
+[27/8/2022 20:27:58] /r
+[27/8/2022 20:27:58] /r
+[27/8/2022 20:27:59] /r
+[27/8/2022 20:27:59] /r
+[27/8/2022 20:28:0] /r
+[27/8/2022 20:28:0] /r
+[27/8/2022 20:28:1] /r
+[27/8/2022 20:28:1] /r
+[27/8/2022 20:28:2] /r
+[27/8/2022 20:28:2] /r
+[27/8/2022 20:28:22] /r all
+[27/8/2022 20:29:39] !givecombo1
+[27/8/2022 20:32:7] /attr mana -999999999999
+[27/8/2022 20:32:12] /attr health -999999999999
+[27/8/2022 20:32:17] /c purgao star
+[27/8/2022 20:32:40] /c tyler
+[27/8/2022 20:32:42] /c lord eld
+[27/8/2022 20:33:27] /t
+[27/8/2022 20:35:52] /c gringo paladin
+[27/8/2022 20:37:14] /c king rp
+[27/8/2022 20:37:18] /c macc~
+[27/8/2022 20:37:23] /c maccde~
+[27/8/2022 20:37:26] /t
+[27/8/2022 20:37:34] /goto king rp
+[27/8/2022 20:37:36] /c macdç 
+[27/8/2022 20:37:37] /c macd~
+[27/8/2022 20:37:43] /goto gringo maldito
+[27/8/2022 20:37:47] /goto gringo paladin
+[27/8/2022 20:37:54] /c mac~
+[27/8/2022 20:37:57] /c king rp
+[27/8/2022 20:38:6] /t
+[27/8/2022 20:38:7] /save
+[27/8/2022 20:42:41] /up 3
+[27/8/2022 20:42:44] /c tu mama
+[27/8/2022 20:43:25] /dailychange
+[27/8/2022 20:44:43] /t
+[27/8/2022 20:53:41] /ghost
+[28/8/2022 3:54:34] /spy
+[28/8/2022 3:54:45] /c shimaricat
+[28/8/2022 3:54:59] /attr stamina 1
+[28/8/2022 3:55:3] /attr stamina 10
+[28/8/2022 3:55:5] /spy
+[28/8/2022 3:55:18] /attr stamina 99999
+[28/8/2022 3:55:19] /spy
+[28/8/2022 3:55:41] /c shimaricat
+[28/8/2022 3:56:53] /spy
+[28/8/2022 3:56:58] /t
+[28/8/2022 3:57:1] /ghost
+[28/8/2022 3:59:10] /goto conduta
+[28/8/2022 4:0:32] /i 3954
+[28/8/2022 4:16:42] /clean
+[28/8/2022 4:16:50] /goto sou pobre
+[28/8/2022 4:16:52] /t
+[28/8/2022 4:20:10] /ghost
+[28/8/2022 4:20:22] !givecombo1
+[28/8/2022 4:20:35] /save
+[28/8/2022 14:39:5] /ghost
+[28/8/2022 14:41:45] /goto boomer
+[28/8/2022 14:41:48] /goto boomer forte
+[28/8/2022 14:41:49] /goto boomer forte
+[28/8/2022 14:41:49] /goto boomer forte
+[28/8/2022 14:41:50] /goto boomer forte
+[28/8/2022 14:41:50] /goto boomer forte
+[28/8/2022 14:41:51] /goto boomer forte
+[28/8/2022 14:41:51] /t
+[28/8/2022 14:44:4] /reload creaturescripts
+[28/8/2022 14:46:32] /reload creaturescripts
+[28/8/2022 14:47:9] /reload creaturescripts
+[28/8/2022 14:48:1] /reload creaturescripts
+[28/8/2022 14:48:18] /mc
+[28/8/2022 14:49:13] /spy 
+[28/8/2022 14:50:22] /reload creaturescripts
+[28/8/2022 14:58:5] /goto solamento
+[28/8/2022 14:58:7] /t
+[28/8/2022 15:0:27] /up 3
+[28/8/2022 15:0:30] /spy
+[28/8/2022 15:0:37] /c fogo de chao
+[28/8/2022 15:3:43] /t fogo de chao
+[28/8/2022 15:3:43] /t
+[28/8/2022 15:4:27] /goto vulgo felbim
+[28/8/2022 15:4:41] /i 3954
+[28/8/2022 15:4:42] /i 3954
+[28/8/2022 15:5:25] /i real knife
+[28/8/2022 15:5:33] /ghost
+[28/8/2022 17:58:6] /reload creaturescripts
+[28/8/2022 17:59:8] /spy
+[28/8/2022 17:59:21] /name ot do caiao, King o Melhor
+[28/8/2022 17:59:25] /kick ot do caiao
+[28/8/2022 20:18:23] /ghost
+[28/8/2022 20:18:25] /save
+[28/8/2022 20:20:26] /save
+[28/8/2022 20:21:12] /reload actions
+[28/8/2022 20:21:19] /reload spells
+[28/8/2022 20:22:53] /attr mana -9999999
+[28/8/2022 20:22:54] /attr mana -9999999
+[28/8/2022 20:23:0] /spy
+[28/8/2022 20:23:6] /spy
+[28/8/2022 20:23:14] /m claptomaniaco
+[28/8/2022 20:23:20] /attr mana -99999999999
+[28/8/2022 20:23:33] /r
+[28/8/2022 20:23:58] /m clatpmaniaco
+[28/8/2022 20:24:3] /m claptomaniaco
+[28/8/2022 20:24:13] /attr mana -99999999999
+[28/8/2022 20:24:31] /attr mana -9999999999
+[28/8/2022 20:24:42] /attr mana -9999999999
+[28/8/2022 20:25:20] /save
+[28/8/2022 20:25:23] /r
+[28/8/2022 20:25:30] /r
+[28/8/2022 20:25:30] /r
+[28/8/2022 20:25:31] /r
+[28/8/2022 20:25:32] /r
+[28/8/2022 20:25:32] /r
+[28/8/2022 20:25:33] /r
+[28/8/2022 20:25:33] /r
+[28/8/2022 20:25:33] /r
+[28/8/2022 20:25:34] /r
+[28/8/2022 20:25:34] /r
+[28/8/2022 20:25:35] /r
+[28/8/2022 20:25:36] /r
+[28/8/2022 20:25:36] /r
+[28/8/2022 20:25:37] /r
+[28/8/2022 20:25:37] /r
+[28/8/2022 20:25:38] /r
+[28/8/2022 20:25:38] /r
+[28/8/2022 20:25:38] /r
+[28/8/2022 20:25:39] /r
+[28/8/2022 20:25:40] /r
+[28/8/2022 20:25:41] /r
+[28/8/2022 20:25:42] /r
+[28/8/2022 20:25:43] /r
+[28/8/2022 20:25:44] /r
+[28/8/2022 20:25:44] /r
+[28/8/2022 20:25:45] /r
+[28/8/2022 20:25:47] /r
+[28/8/2022 20:25:47] /r
+[28/8/2022 20:25:48] /r
+[28/8/2022 20:25:48] /r
+[28/8/2022 20:25:49] /r
+[28/8/2022 20:25:49] /r
+[28/8/2022 20:25:49] /r
+[28/8/2022 20:25:50] /r
+[28/8/2022 20:25:50] /r
+[28/8/2022 20:25:50] /r
+[28/8/2022 20:25:51] /r
+[28/8/2022 20:25:52] /r
+[28/8/2022 20:25:52] /r
+[28/8/2022 20:25:53] /r
+[28/8/2022 20:25:53] /r
+[28/8/2022 20:25:53] /r
+[28/8/2022 20:25:55] /r
+[28/8/2022 20:25:55] /r
+[28/8/2022 20:25:56] /r
+[28/8/2022 20:25:56] /r
+[28/8/2022 20:25:57] /r
+[28/8/2022 20:25:57] /r
+[28/8/2022 20:26:30] /r
+[28/8/2022 20:26:32] /r
+[28/8/2022 20:26:42] /m gaz'gazharot
+[28/8/2022 20:26:59] /goto gaz'harazoth
+[28/8/2022 20:27:5] /m gaz'hazaroth
+[28/8/2022 20:27:16] /m gaz'harahoth
+[28/8/2022 20:27:29] /r
+[28/8/2022 20:27:30] /goto Gaz'Haragoth
+[28/8/2022 20:27:35] /goto Gaz'Haragoth
+[28/8/2022 20:27:36] /goto Gaz'Haragoth
+[28/8/2022 20:28:2] /newtp 10206, 9158, 10
+[28/8/2022 20:28:58] /ghost
+[28/8/2022 20:29:1] /save
+[28/8/2022 20:33:9] /ghost
+[28/8/2022 20:36:23] !givecombo1
+[28/8/2022 20:39:0] /m alpha tower
+[28/8/2022 20:39:16] /spy
+[28/8/2022 20:40:44] /spy
+[28/8/2022 20:40:57] /mode 2
+[28/8/2022 20:40:58] /mode 3
+[28/8/2022 20:41:0] /mode 1
+[28/8/2022 20:42:36] /mode 2
+[28/8/2022 20:42:39] /t
+[28/8/2022 20:42:43] /r
+[28/8/2022 20:44:12] /goto lord eld
+[28/8/2022 20:47:4] /cliport
+[28/8/2022 20:49:42] /spy
+[28/8/2022 20:53:29] /save
+[28/8/2022 20:55:43] /attr mana -9999999999999
+[28/8/2022 20:58:20] /ghost
+[28/8/2022 23:40:42] /reload actions
+[28/8/2022 23:41:22] /reload actions
+[28/8/2022 23:41:28] /attr mana -99999999999
+[28/8/2022 23:52:3] /goto morgahar
+[28/8/2022 23:52:5] /t
+[28/8/2022 23:52:9] /goto shimaricat
+[28/8/2022 23:52:10] /t
+[29/8/2022 0:51:36] /ghost
+[29/8/2022 0:57:39] /goto boomker
+[29/8/2022 0:57:42] /goto boomer
+[29/8/2022 0:57:43] /t
+[29/8/2022 0:57:47] /goto real stylexx
+[29/8/2022 0:57:49] /ghost
+[29/8/2022 0:58:52] /spy
+[29/8/2022 1:10:22] /goto lord eld
+[29/8/2022 1:10:27] /ghost
+[29/8/2022 1:10:32] /ghost
+[29/8/2022 1:12:17] /ghost
+[29/8/2022 1:12:18] /ghost
+[29/8/2022 1:12:20] /goto lord eld
+[29/8/2022 1:14:53] /ghost
+[29/8/2022 1:16:56] /reload actions
+[29/8/2022 1:17:12] /goto character
+[29/8/2022 1:17:16] /attr mana -9999999
+[29/8/2022 1:17:17] /attr mana -9999999
+[29/8/2022 1:19:1] /ghost
+[29/8/2022 1:19:4] /goto pally stylexx
+[29/8/2022 1:19:11] /goto real~
+[29/8/2022 1:20:50] /ghost
+[29/8/2022 1:22:13] /reload actions
+[29/8/2022 1:22:17] /goto character
+[29/8/2022 1:22:21] /attr mana -9999999999
+[29/8/2022 1:22:29] /t
+[29/8/2022 1:22:33] /ghost
+[29/8/2022 1:22:37] /goto real~
+[29/8/2022 1:25:1] /goto real~
+[29/8/2022 1:34:31] /goto real~
+[29/8/2022 1:35:44] /t
+[29/8/2022 1:42:4] /goto real stylexx
+[29/8/2022 1:50:4] /spy
+[29/8/2022 1:51:11] /spy
+[29/8/2022 1:52:51] /spy
+[29/8/2022 1:54:53] /spy
+[29/8/2022 1:56:48] /spy
+[29/8/2022 1:59:42] /goto real~
+[29/8/2022 1:59:46] /ghost
+[29/8/2022 2:0:55] /t
+[29/8/2022 2:0:59] /goto real stylexx
+[29/8/2022 2:1:48] /tempitem 7424, 20
+[29/8/2022 2:2:25] /goto gringo paladin
+[29/8/2022 2:2:54] /t
+[29/8/2022 2:2:57] /goto real stylexx
+[29/8/2022 2:4:58] !givecombo1
+[29/8/2022 2:5:12] /ghost
+[29/8/2022 10:9:13] /i 7424
+[29/8/2022 10:9:37] /i 7424
+[29/8/2022 10:10:10] /i 12702
+[29/8/2022 10:10:14] /i 12702
+[29/8/2022 10:10:49] /i 11393
+[29/8/2022 10:10:54] /i 11393
+[29/8/2022 10:11:35] /i 8978
+[29/8/2022 10:11:39] /i 8978
+[29/8/2022 10:11:42] /i 8978
+[29/8/2022 10:12:9] /i 11388
+[29/8/2022 10:12:11] /i 11388
+[29/8/2022 10:13:18] /addpoints Pally Tew 10000
+[29/8/2022 10:13:35] /addpoints 100000
+[29/8/2022 10:13:50] /addpoints ,Pally Tew 10000
+[29/8/2022 10:13:55] /addpoints ,Pally Tew 1000
+[29/8/2022 10:19:26] /i 12607
+[29/8/2022 10:49:8] /i 8424
+[29/8/2022 10:49:13] /r
+[29/8/2022 10:49:22] /i 10398
+[29/8/2022 10:49:36] /i 7424
+[29/8/2022 10:51:0] /i 10558
+[29/8/2022 10:51:2] /i 10558
+[29/8/2022 10:51:2] /i 10558
+[29/8/2022 10:51:3] /i 10558
+[29/8/2022 10:51:3] /i 10558
+[29/8/2022 10:51:4] /i 10558
+[29/8/2022 10:51:32] /i 11393
+[29/8/2022 10:51:38] /i 11388
+[29/8/2022 10:51:47] /t
+[29/8/2022 10:55:54] /i 9778
+[29/8/2022 10:56:1] /i 9776
+[29/8/2022 10:56:8] /i 9777
+[29/8/2022 10:56:13] /i 9775
+[29/8/2022 10:56:16] /i 9779
+[29/8/2022 10:56:23] /r
+[29/8/2022 10:56:25] /r
+[29/8/2022 10:56:37] /i 2523
+[29/8/2022 10:56:52] /a 4
+[29/8/2022 10:58:19] /t
+[29/8/2022 10:58:29] /up
+[29/8/2022 10:58:34] /down
+[29/8/2022 10:59:24] /i 9779
+[29/8/2022 10:59:28] /r
+[29/8/2022 10:59:34] /i 9780
+[29/8/2022 10:59:36] /t
+[29/8/2022 11:0:17] /t
+[29/8/2022 11:6:42] /t
+[29/8/2022 11:6:55] /i 8851
+[29/8/2022 11:7:21] /c Kevin Ed
+[29/8/2022 11:7:32] /t
+[29/8/2022 11:35:27] /i 8851
+[29/8/2022 11:35:46] /i 3973
+[29/8/2022 11:35:51] /i 3973
+[29/8/2022 11:36:2] /t
+[29/8/2022 11:55:43] /i 3973
+[29/8/2022 11:55:52] /i 12607
+[29/8/2022 11:55:53] /i 12607
+[29/8/2022 11:55:57] /i 12607
+[29/8/2022 11:56:0] /t
+[29/8/2022 12:9:43] /i 2328
+[29/8/2022 12:9:44] /i 2328
+[29/8/2022 12:9:46] /i 2328
+[29/8/2022 12:9:46] /i 2328
+[29/8/2022 12:9:51] /i 2328
+[29/8/2022 12:10:28] /i 2328
+[29/8/2022 12:10:29] /i 2328
+[29/8/2022 12:10:29] /i 2328
+[29/8/2022 12:10:30] /i 2328
+[29/8/2022 12:10:31] /i 2328
+[29/8/2022 12:10:31] /i 2328
+[29/8/2022 12:10:32] /i 2328
+[29/8/2022 12:10:32] /i 2328
+[29/8/2022 12:10:33] /i 2328
+[29/8/2022 12:10:33] /i 2328
+[29/8/2022 12:10:35] /i 2328
+[29/8/2022 12:10:36] /i 2328
+[29/8/2022 12:10:36] /i 2328
+[29/8/2022 12:10:37] /i 2328
+[29/8/2022 12:10:37] /i 2328
+[29/8/2022 12:10:48] /i 2000
+[29/8/2022 12:10:50] /i 2328
+[29/8/2022 12:10:50] /i 2328
+[29/8/2022 12:10:51] /i 2328
+[29/8/2022 12:10:51] /i 2328
+[29/8/2022 12:10:52] /i 2328
+[29/8/2022 12:10:52] /i 2328
+[29/8/2022 12:10:53] /i 2328
+[29/8/2022 12:10:54] /i 2328
+[29/8/2022 12:10:58] /i 2328
+[29/8/2022 12:10:59] /i 2328
+[29/8/2022 12:10:59] /i 2328
+[29/8/2022 12:11:0] /i 2328
+[29/8/2022 12:11:0] /i 2328
+[29/8/2022 12:11:1] /i 2328
+[29/8/2022 12:11:1] /i 2328
+[29/8/2022 12:11:2] /i 2328
+[29/8/2022 12:11:2] /i 2328
+[29/8/2022 12:11:3] /i 2328
+[29/8/2022 12:11:4] /i 2328
+[29/8/2022 12:11:4] /i 2328
+[29/8/2022 12:11:34] /i 2000
+[29/8/2022 12:11:40] /i 12372
+[29/8/2022 12:11:43] /i 12372
+[29/8/2022 12:11:44] /i 12372
+[29/8/2022 12:11:44] /i 12372
+[29/8/2022 12:11:47] /i 12372
+[29/8/2022 12:11:50] /i 12372
+[29/8/2022 12:11:50] /i 12372
+[29/8/2022 12:11:51] /i 12372
+[29/8/2022 12:11:51] /i 12372
+[29/8/2022 12:11:52] /i 12372
+[29/8/2022 12:11:53] /i 12372
+[29/8/2022 12:11:55] /i 12372
+[29/8/2022 12:12:4] /i 12601
+[29/8/2022 12:12:5] /i 12601
+[29/8/2022 12:12:6] /i 12601
+[29/8/2022 12:12:6] /i 12601
+[29/8/2022 12:12:7] /i 12601
+[29/8/2022 12:12:8] /i 12601
+[29/8/2022 12:12:9] /i 12601
+[29/8/2022 12:12:9] /i 12601
+[29/8/2022 12:12:10] /i 12601
+[29/8/2022 12:12:11] /i 12601
+[29/8/2022 12:12:12] /i 12601
+[29/8/2022 12:12:27] /i 2000
+[29/8/2022 12:12:30] /i 12601
+[29/8/2022 12:12:30] /i 12601
+[29/8/2022 12:12:31] /i 12601
+[29/8/2022 12:12:32] /i 12601
+[29/8/2022 12:12:32] /i 12601
+[29/8/2022 12:12:33] /i 12601
+[29/8/2022 12:12:33] /i 12601
+[29/8/2022 12:12:38] /t
+[29/8/2022 12:13:17] /t
+[29/8/2022 12:48:50] !givecombo1
+[29/8/2022 12:53:43] /s trainers
+[29/8/2022 12:53:48] /r
+[29/8/2022 12:53:49] /t
+[29/8/2022 13:13:25] /t
+[29/8/2022 13:29:39] /goto mendigo dos mares
+[29/8/2022 13:29:42] /t
+[29/8/2022 13:55:3] /spy
+[29/8/2022 13:55:39] /i stamina refil
+[29/8/2022 13:55:44] /i stamina potion
+[29/8/2022 13:56:27] /spy
+[29/8/2022 22:12:13] /ghost
+[29/8/2022 22:41:8] !givecombo1
+[29/8/2022 22:52:17] /spy
+[29/8/2022 23:48:25] /ghost
+[29/8/2022 23:48:29] /goto tyler
+[29/8/2022 23:48:34] /t
+[29/8/2022 23:48:38] /ghost
+[30/8/2022 0:0:25] /spy
+[30/8/2022 0:2:1] /goto poweroff
+[30/8/2022 0:2:14] /t
+[30/8/2022 0:2:22] /c poweroff
+[30/8/2022 0:2:26] /t
+[30/8/2022 0:2:31] /spy
+[30/8/2022 0:3:39] /goto poweroff
+[30/8/2022 0:39:16] /ghost
+[30/8/2022 0:50:36] /goto kuringaloko
+[30/8/2022 0:50:39] /goto kor~
+[30/8/2022 0:50:46] /goto gmrm
+[30/8/2022 0:51:54] /goto gmrm
+[30/8/2022 0:52:37] /up
+[30/8/2022 0:52:49] /c gmrm
+[30/8/2022 0:53:3] /c kuringa~
+[30/8/2022 0:53:26] /t
+[30/8/2022 14:29:58] /spy
+[30/8/2022 15:38:13] /goto gringo paladin
+[30/8/2022 16:7:12] /goto gmrm
+[30/8/2022 16:7:26] /addpoints Gmrm, 30
+[30/8/2022 16:8:42] /t
+[30/8/2022 16:23:48] /save
+[30/8/2022 16:24:6] /goto comando voador
+[30/8/2022 16:24:10] /goto gmrm
+[30/8/2022 16:24:25] /c kuringaloco
+[30/8/2022 16:25:10] /t
+[30/8/2022 18:21:57] /goto morpheus
+[30/8/2022 18:22:5] /goto feanor
+[30/8/2022 18:22:13] /goto freedom
+[30/8/2022 18:22:16] /goto fuba war
+[30/8/2022 18:22:19] /t
+[30/8/2022 18:22:24] /goto boomer
+[30/8/2022 18:22:25] /t
+[30/8/2022 19:39:50] /bc blue [ServerSave]: O servidor será reiniciado para alteração de distro e server save, volta em um minuto. (Após o restart será dado combo exp).
+[30/8/2022 19:39:55] /bc blue [ServerSave]: O servidor será reiniciado para alteração de distro e server save, volta em um minuto. (Após o restart será dado combo exp).
+[30/8/2022 19:39:57] /bc blue [ServerSave]: O servidor será reiniciado para alteração de distro e server save, volta em um minuto. (Após o restart será dado combo exp).
+[30/8/2022 19:39:58] /bc blue [ServerSave]: O servidor será reiniciado para alteração de distro e server save, volta em um minuto. (Após o restart será dado combo exp).
+[30/8/2022 19:39:59] /bc blue [ServerSave]: O servidor será reiniciado para alteração de distro e server save, volta em um minuto. (Após o restart será dado combo exp).
+[30/8/2022 19:40:0] /bc blue [ServerSave]: O servidor será reiniciado para alteração de distro e server save, volta em um minuto. (Após o restart será dado combo exp).
+[30/8/2022 19:40:27] /save
+[30/8/2022 19:40:31] /shutdown
+[30/8/2022 19:41:49] /openserver
+[30/8/2022 19:43:30] !givecombo1
+[30/8/2022 19:44:39] /ghost
+[30/8/2022 19:45:4] /ghost
+[30/8/2022 19:46:11] /goto mineradora sedutora
+[30/8/2022 19:46:12] /goto mineradora sedutora
+[30/8/2022 19:46:13] /goto mineradora sedutora
+[30/8/2022 19:46:22] /goto mineradora sedutora
+[30/8/2022 19:46:23] /goto mineradora sedutora
+[30/8/2022 19:46:27] /goto knight prox
+[30/8/2022 19:47:7] /attr mana 9999999999
+[30/8/2022 19:49:0] /r
+[30/8/2022 19:49:1] /r
+[30/8/2022 19:49:3] /r
+[30/8/2022 19:49:29] /t
+[30/8/2022 19:59:21] /spy
+[30/8/2022 20:15:49] /goto gringo paladin
+[30/8/2022 20:20:1] /goto alex ms
+[30/8/2022 20:20:31] /t
+[30/8/2022 20:20:38] /ghost
+[30/8/2022 20:20:41] /spy
+[30/8/2022 20:20:49] /info
+[30/8/2022 20:20:52] /info fuck you
+[30/8/2022 20:20:59] /ghost
+[30/8/2022 20:21:2] /goto fuck you
+[30/8/2022 20:21:3] /goto fuck you
+[30/8/2022 20:21:6] /goto fuck you
+[30/8/2022 20:21:8] /goto fuck you
+[30/8/2022 20:21:37] /mc
+[30/8/2022 20:22:8] /spy
+[30/8/2022 22:15:42] /openserver
+[30/8/2022 22:15:50] /ghost
+[30/8/2022 22:23:47] /bc blue [ADM] King: alguem usou alguma alavanca, caiu em algum sqm, item ou algo do tipo antes de cair?
+[30/8/2022 22:24:1] /bc blue [ADM] King: alguem usou alguma alavanca, caiu em algum sqm, item ou algo do tipo antes de cair?
+[30/8/2022 22:24:11] /ghost
+[30/8/2022 22:24:21] /goto feh lokoo
+[30/8/2022 22:24:29] /goto wasabi
+[30/8/2022 22:24:34] /goto leal
+[30/8/2022 22:24:39] /goto samuel
+[30/8/2022 22:24:42] /goto morgahar
+[30/8/2022 22:24:57] /spy
+[30/8/2022 22:26:33] /t
+[30/8/2022 22:26:34] /ghost
+[30/8/2022 22:37:14] /attr vida -99999999999
+[30/8/2022 22:37:20] /attr health -9999999999
+[30/8/2022 22:37:58] /attr health -9999999999
+[30/8/2022 22:45:28] /goto noob
+[30/8/2022 22:47:23] /goto real~
+[30/8/2022 22:47:27] /c noob
+[30/8/2022 22:47:53] /c gringo paladin
+[30/8/2022 22:48:1] /r
+[30/8/2022 22:48:2] /r
+[30/8/2022 22:48:50] /t
+[30/8/2022 23:5:0] /goto mineradora sedutora
+[30/8/2022 23:5:0] /goto mineradora sedutora
+[30/8/2022 23:5:9] /goto minerador gatao
+[30/8/2022 23:5:49] /t
+[30/8/2022 23:21:24] /goto gringo paladin
+[30/8/2022 23:21:26] /c noob
+[30/8/2022 23:21:27] /t
+[30/8/2022 23:27:58] !givecombo1
+[30/8/2022 23:40:24] /up 3
+[30/8/2022 23:40:27] /c saymon~
+[30/8/2022 23:41:41] /i 2328
+[30/8/2022 23:42:6] /i 3954
+[30/8/2022 23:42:10] /i 3954
+[30/8/2022 23:42:25] /t saymon pica monstruosa
+[30/8/2022 23:42:26] /t
+[30/8/2022 23:42:48] /goto noob
+[30/8/2022 23:42:50] /goto noob
+[30/8/2022 23:42:53] /goto noob
+[30/8/2022 23:42:55] /goto noob
+[30/8/2022 23:43:13] /goto noob
+[30/8/2022 23:43:16] /goto noob
+[30/8/2022 23:44:25] /ghost
+[31/8/2022 10:21:43] /i king backpack
+[31/8/2022 10:22:40] /i 2328
+[31/8/2022 10:22:48] /i real ring
+[31/8/2022 10:23:18] /spy
+[31/8/2022 10:23:27] /i king staff
+[31/8/2022 10:24:15] /spy
+[31/8/2022 10:26:23] /i helmet revolution
+[31/8/2022 10:26:26] /i revolution helmet
+[31/8/2022 10:26:42] /i revolution shield
+[31/8/2022 11:29:4] /i 7424
+[31/8/2022 11:29:54] /i 8851
+[31/8/2022 11:30:2] /i 8931
+[31/8/2022 11:30:53] /t
+[31/8/2022 12:18:26] /spy
+[31/8/2022 12:18:40] !givecombo1
+[31/8/2022 13:25:23] /goto whatsapp
+[31/8/2022 13:25:25] /t
+[31/8/2022 13:25:29] /ghost
+[31/8/2022 13:27:58] /i revolution mask
+[31/8/2022 13:28:11] /i revolution spellbook
+[31/8/2022 13:28:15] /t
+[31/8/2022 13:28:46] /goto volpi~
+[31/8/2022 13:28:48] /up 3
+[31/8/2022 13:28:51] /c volti entediado
+[31/8/2022 13:28:55] /c volpi~
+[31/8/2022 13:29:1] /m trainers
+[31/8/2022 13:29:10] /i king staff
+[31/8/2022 13:29:18] /tempitem 7735, 100
+[31/8/2022 13:30:41] /r
+[31/8/2022 13:30:47] /t volpi entediado
+[31/8/2022 13:30:51] /r
+[31/8/2022 13:30:52] /t
+[31/8/2022 13:31:30] /up 3
+[31/8/2022 13:31:33] /c volpi entediado
+[31/8/2022 13:31:35] /m trainers
+[31/8/2022 13:32:43] /m possessed tree
+[31/8/2022 13:35:27] /t volti entediado
+[31/8/2022 13:35:31] /t volpi~
+[31/8/2022 13:35:34] /r
+[31/8/2022 13:35:35] /t
+[31/8/2022 13:41:4] /goto volpi entediado
+[31/8/2022 13:41:17] /i king mage shoes
+[31/8/2022 13:41:19] /i king mage boots
+[31/8/2022 13:41:35] /t
+[31/8/2022 14:3:23] /openserver
+[31/8/2022 14:4:8] /bc blue sério q ngm sabe oq tá fazendo cair? vcs tão usando alguma alavanca, comando ou caindo em algum bruaco que tá fazendo fechar.
+[31/8/2022 14:4:24] /goto volpi entediado
+[31/8/2022 14:4:27] /spy
+[31/8/2022 14:4:35] /t
+[31/8/2022 14:4:37] /a 20
+[31/8/2022 14:4:40] /a 20
+[31/8/2022 14:4:48] /c volpi entediado
+[31/8/2022 14:4:57] /i king staff
+[31/8/2022 14:5:5] /i king mage boots
+[31/8/2022 14:5:22] /save
+[31/8/2022 14:5:26] /t
+[31/8/2022 14:6:17] !givecombo1
+[31/8/2022 14:6:44] /goto anonymous
+[31/8/2022 14:7:58] /a 2
+[31/8/2022 14:8:23] /c mage off dead
+[31/8/2022 14:8:48] /addskill mage off dead, level, 5000
+[31/8/2022 14:9:11] /t
+[31/8/2022 14:11:5] /bc blue [BugPoints]: Reporte bugs para o adminstrador e receba pontos em troca, caso seja o bug que está fazendo o servidor fechar, você receberá 50 pontos.
+[31/8/2022 14:11:26] /goto mage off dead
+[31/8/2022 14:11:35] /save
+[31/8/2022 14:12:23] /bc blue [BugPoints]: Reporte bugs para o adminstrador e receba pontos em troca, caso seja o bug que está fazendo o servidor fechar, você receberá 50 pontos.
+[31/8/2022 14:12:37] /t
+[31/8/2022 14:13:21] /bc blue [BugPoints]: Reporte bugs para o adminstrador e receba pontos em troca, caso seja o bug que está fazendo o servidor fechar, você receberá 50 pontos.
+[31/8/2022 14:13:31] /goto lord eld
+[31/8/2022 14:13:33] /goto lord eld
+[31/8/2022 14:13:40] /c lord led
+[31/8/2022 14:13:42] /c lord eld
+[31/8/2022 14:13:57] /i gold ingot
+[31/8/2022 14:15:6] /giveitem Lord eld, 9971, 1000
+[31/8/2022 14:17:10] /bc blue [BugPoints]: Reporte bugs para o adminstrador e receba pontos em troca, caso seja o bug que está fazendo o servidor fechar, você receberá 50 pontos.
+[31/8/2022 14:17:59] /addpoints Anonymous, 140
+[31/8/2022 14:18:7] /save
+[31/8/2022 14:18:12] /bc blue [BugPoints]: Reporte bugs para o adminstrador e receba pontos em troca, caso seja o bug que está fazendo o servidor fechar, você receberá 50 pontos.
+[6/9/2022 1:15:14] /r
+[6/9/2022 1:15:16] /openserver
+[6/9/2022 1:15:21] /r
+[6/9/2022 1:15:22] /r
+[6/9/2022 1:15:57] /i 8047
+[6/9/2022 1:16:7] /ghost
+[6/9/2022 1:17:46] /m trainers
+[6/9/2022 1:17:57] /i soulwar crossbow
+[6/9/2022 1:18:32] /i hyer crossbow
+[6/9/2022 1:18:56] /r
+[6/9/2022 1:19:9] /r
+[6/9/2022 1:19:10] /r
+[6/9/2022 1:19:23] /r
+[6/9/2022 1:19:29] /t
+[6/9/2022 1:20:11] /i backpack
+[6/9/2022 1:20:14] !givecombo1
+[6/9/2022 1:21:36] /up 3
+[6/9/2022 1:21:47] /i hyper sword
+[6/9/2022 1:21:57] /i hyper axe
+[6/9/2022 1:22:0] /i hyper club
+[6/9/2022 1:26:17] /i hyper staff
+[6/9/2022 1:27:18] /t
+[6/9/2022 1:27:21] /up 3
+[6/9/2022 1:27:23] /goto chandon
+[6/9/2022 1:27:25] /up 3
+[6/9/2022 1:27:26] /c chandon
+[6/9/2022 1:27:45] /i 6541
+[6/9/2022 1:27:46] /i 6542
+[6/9/2022 1:27:47] /i 6543
+[6/9/2022 1:27:48] /i 6544
+[6/9/2022 1:27:49] /i 6545
+[6/9/2022 1:27:50] /i 6546
+[6/9/2022 1:27:53] /i 2328
+[6/9/2022 1:27:56] /i 12599
+[6/9/2022 1:28:45] /i real staff
+[6/9/2022 1:29:8] /t chandon
+[6/9/2022 1:29:10] /t
+[6/9/2022 1:29:12] /goto gmrm
+[6/9/2022 1:29:16] /ghost
+[6/9/2022 1:31:21] /bc blue [Atualizações]: Soulwar - armas na roleta, melhores armas do servidor | Hyper - disponíveis no site por 30 pontos (quest em breve) | Área de novas ilhas adcionadas no > do templo. | Área de SoulWar bosses adcionado (ainda em construção).
+[6/9/2022 1:32:29] /bc blue [Atualizações]: Soulwar - armas na roleta, melhores armas do servidor | Hyper - disponíveis no site por 30 pontos (quest em breve) | Área de novas ilhas adcionadas no > do templo. | Área de SoulWar bosses adcionado (ainda em construção).
+[6/9/2022 1:36:36] /dailychange
+[6/9/2022 1:36:47] /i hyper key
+[6/9/2022 1:37:21] /i soulwar staff
+[6/9/2022 1:37:49] /i soulwar staff
+[6/9/2022 1:38:53] /i gold ingot
+[6/9/2022 1:38:53] /i gold ingot
+[6/9/2022 1:38:54] /i gold ingot
+[6/9/2022 1:39:13] /goto noob
+[6/9/2022 1:39:20] /m trainers
+[6/9/2022 1:39:22] /c noob
+[6/9/2022 1:40:17] /goto noob
+[6/9/2022 1:41:4] /t
+[6/9/2022 1:41:8] /c noob
+[6/9/2022 1:41:11] /c noob
+[6/9/2022 1:41:49] /r
+[6/9/2022 1:41:51] /goto shimaricat
+[6/9/2022 1:42:50] /i hyper staff
+[6/9/2022 1:45:17] /t
+[6/9/2022 1:45:59] /i 8300
+[6/9/2022 1:46:0] /i 8300
+[6/9/2022 1:46:0] /i 8300
+[6/9/2022 1:46:1] /i 8300
+[6/9/2022 1:46:1] /i 8300
+[6/9/2022 1:46:1] /i 8300
+[6/9/2022 1:46:19] /t
+[6/9/2022 1:46:29] /goto jutinha
+[6/9/2022 1:46:33] /c shimaricat
+[6/9/2022 1:46:45] /t
+[6/9/2022 1:47:1] /addpoints Duma, 10
+[6/9/2022 1:47:16] /goto billy jack
+[6/9/2022 1:47:23] /goto shimaricat
+[6/9/2022 1:47:29] /c billy jack
+[6/9/2022 1:47:33] /r
+[6/9/2022 1:47:44] /t billy jack
+[6/9/2022 1:47:52] /t
+[6/9/2022 1:48:50] /goto macdeatth
+[6/9/2022 1:49:6] /i 8300
+[6/9/2022 1:49:7] /i 8300
+[6/9/2022 1:49:7] /i 8300
+[6/9/2022 1:49:25] /t
+[6/9/2022 1:49:43] /ghost
+[6/9/2022 10:24:50] /spy
+[6/9/2022 10:25:4] /ghost
+[6/9/2022 10:25:5] /t
+[6/9/2022 10:25:49] /c minerar
+[6/9/2022 10:26:15] /i 12722
+[6/9/2022 10:26:23] /i hyper sword
+[6/9/2022 10:26:52] /i soulwar sword
+[6/9/2022 10:28:31] /reload actions
+[6/9/2022 10:29:12] /i hyper key
+[6/9/2022 14:32:59] /spy
+[6/9/2022 14:36:6] /c pally maldito
+[6/9/2022 14:47:54] /i hyper crossbow
+[6/9/2022 14:49:6] /addpoints byel rush, 50
+[6/9/2022 14:51:12] /i soulwar crossbow
+[6/9/2022 16:9:7] /goto byel rush
+[6/9/2022 16:16:45] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:16:51] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:16:57] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:16:59] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:16:59] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:17:0] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:17:1] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:17:2] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:17:2] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:17:3] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:17:4] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:17:4] /bc blue [ServerSave]: O servidor será reiniciado para correção de um problema na distro, nada visual, mas que possívelmente corriga o BAN-IP do OTlist, o servidor volta em 1 minuto.
+[6/9/2022 16:17:27] /save
+[6/9/2022 16:17:28] /shutdown
+[6/9/2022 16:18:9] /openserver
+[6/9/2022 16:18:15] /dailychange
+[6/9/2022 16:18:20] /dailychange
+[6/9/2022 16:28:3] /c [adm] ~
+[6/9/2022 16:28:5] /c [adm]~
+[6/9/2022 16:28:8] /c [adm] queen
+[6/9/2022 16:29:26] !givecombo1
+[6/9/2022 16:29:31] /c [adm] queen
+[6/9/2022 16:30:21] /newtype 302
+[6/9/2022 16:30:23] /newtype 75
+[6/9/2022 16:32:22] /i 8046
+[6/9/2022 16:33:25] /spy
+[6/9/2022 16:34:8] /r all
+[6/9/2022 19:10:12] /addpoints Simas Turbo, 80
+[6/9/2022 19:10:39] /clean
+[6/9/2022 20:6:33] !givecombo1
+[6/9/2022 21:49:25] /m trainers
+[6/9/2022 21:51:39] /t
+[6/9/2022 21:52:10] /t
+[6/9/2022 21:52:18] /goto comando voador
+[6/9/2022 21:52:21] /r
+[6/9/2022 21:52:36] /t
+[6/9/2022 21:53:2] /goto comando voador
+[6/9/2022 21:53:5] /m trainers
+[6/9/2022 21:54:26] /r
+[6/9/2022 21:54:38] /m trainers
+[6/9/2022 21:54:58] /r
+[6/9/2022 21:55:40] /t
+[6/9/2022 22:41:48] /z 29
+[6/9/2022 22:41:53] /z 29
+[6/9/2022 23:55:59] !givecombo1
+[6/9/2022 23:55:59] /ghost
+[7/9/2022 16:15:54] /ghost
+[7/9/2022 16:28:54] /bc blue [ADM King] qq tão falando ai?
+[7/9/2022 17:44:42] !givecombo1
+[7/9/2022 17:48:50] /goto cleo
+[7/9/2022 17:48:56] /goto billy
+[7/9/2022 17:48:57] /t
+[7/9/2022 17:48:59] /goto radt
+[7/9/2022 17:49:30] /i backpack
+[7/9/2022 17:56:43] /dailychange
+[7/9/2022 18:3:2] /up 3
+[7/9/2022 18:3:4] /c bixo papao
+[7/9/2022 18:3:7] /c chapeu seletor
+[7/9/2022 18:3:12] /c chapeu~
+[7/9/2022 18:3:18] /i 6541
+[7/9/2022 18:3:19] /i 6542
+[7/9/2022 18:3:20] /i 6543
+[7/9/2022 18:3:21] /i 6544
+[7/9/2022 18:3:21] /i 6545
+[7/9/2022 18:3:30] /i 2328
+[7/9/2022 18:3:37] /i 12599
+[7/9/2022 18:3:40] /i 8300
+[7/9/2022 18:3:40] /i 8300
+[7/9/2022 18:3:41] /i 8300
+[7/9/2022 18:3:41] /i 8300
+[7/9/2022 18:3:50] /i real staff
+[7/9/2022 18:3:51] /i real staff
+[7/9/2022 18:4:3] /addskill Chapeu Seletorr, level, 5000
+[7/9/2022 18:4:8] /i 3954
+[7/9/2022 18:4:18] /t chapeu~
+[7/9/2022 18:4:21] /i backpack
+[7/9/2022 18:4:25] /i 6541
+[7/9/2022 18:4:26] /i 6542
+[7/9/2022 18:4:26] /i 6543
+[7/9/2022 18:4:27] /i 6544
+[7/9/2022 18:4:28] /i 6545
+[7/9/2022 18:4:28] /i 6546
+[7/9/2022 18:4:31] /i 2328
+[7/9/2022 18:4:32] /i 12599
+[7/9/2022 18:4:35] /i 3954
+[7/9/2022 18:4:58] /addskill bixo papao, level, 5000
+[7/9/2022 18:5:5] /i backpack
+[7/9/2022 18:5:10] /t bixo papao
+[7/9/2022 18:5:11] /t
+[7/9/2022 18:10:46] /goto mage off dead
+[7/9/2022 18:11:11] /t
+[7/9/2022 18:16:37] /bc blue [Multi-Clientes]: O nosso servidor não tem BLOCK-MC, você pode abrir MC a vontade para minerar ou fazer loot!
+[7/9/2022 18:16:47] /goto chapeu~
+[7/9/2022 18:17:1] /t
+[7/9/2022 18:17:7] /goto theonius
+[7/9/2022 18:17:14] /goto the~
+[7/9/2022 18:17:23] /i 6541
+[7/9/2022 18:17:23] /i 6542
+[7/9/2022 18:17:24] /i 6543
+[7/9/2022 18:17:25] /i 6544
+[7/9/2022 18:17:25] /i 6545
+[7/9/2022 18:17:28] /i 2328
+[7/9/2022 18:17:31] /i 12599
+[7/9/2022 18:17:33] /i 8300
+[7/9/2022 18:17:33] /i 8300
+[7/9/2022 18:17:34] /i 8300
+[7/9/2022 18:17:34] /i 8300
+[7/9/2022 18:17:34] /i 8300
+[7/9/2022 18:17:37] /i 3954
+[7/9/2022 18:17:39] /goto honda
+[7/9/2022 18:17:55] /t
+[7/9/2022 18:19:20] /ghost
+[7/9/2022 18:19:29] /i backpack
+[7/9/2022 18:19:31] !givecombo1
+[7/9/2022 18:20:20] /i real staff
+[7/9/2022 18:20:35] /giveitem 7410, Mage Off Dead, 1
+[7/9/2022 18:20:47] /spy
+[7/9/2022 18:21:2] /giveitem Mage off dead, 7410, 1
+[7/9/2022 18:21:3] /spy
+[7/9/2022 19:10:14] /goto boltada violenta
+[7/9/2022 19:10:17] /goto twonai
+[7/9/2022 19:10:18] /t
+[7/9/2022 19:10:23] /goto chapeu seletorr
+[7/9/2022 19:10:27] /goto bixo papao
+[7/9/2022 19:10:29] /t
+[7/9/2022 19:10:36] /goto honda
+[7/9/2022 19:19:21] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:22] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:22] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:23] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:23] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:23] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:24] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:24] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:25] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:28] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:28] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:29] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:29] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:29] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:30] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:30] /bc blue [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:33] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:34] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:34] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:35] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:35] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:35] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:36] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:36] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:36] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:37] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:37] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:38] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:38] /bc green [ServerSave]: O servidor será reiniciado, e voltará em 2 minutos.
+[7/9/2022 19:19:41] /save
+[7/9/2022 19:19:44] /shutdown
+[7/9/2022 19:20:41] /openserver
+[7/9/2022 19:22:23] !givecombo1
+[7/9/2022 19:22:47] /goto comando voador
+[7/9/2022 19:23:1] /c comando voador
+[7/9/2022 19:24:28] /reload spells
+[7/9/2022 19:25:33] /reload spells
+[7/9/2022 19:25:55] /reload spells
+[7/9/2022 19:26:6] /ghost
+[7/9/2022 19:26:38] /ghost
+[7/9/2022 22:33:47] /ghost
+[7/9/2022 22:34:12] /a 2
+[7/9/2022 22:35:41] /goto jutinha
+[7/9/2022 22:41:35] /attr health -99999
+[7/9/2022 22:41:47] /attr health -32816854
+[7/9/2022 22:49:15] /t
+[7/9/2022 22:49:57] /spy
+[7/9/2022 22:50:7] /dailychange
+[7/9/2022 22:51:29] /t
+[7/9/2022 23:4:13] /newtype 12
+[7/9/2022 23:6:53] /i soulwar staff
+[7/9/2022 23:8:37] /t
+[7/9/2022 23:8:39] /up 3
+[7/9/2022 23:8:46] /c bolsonaro mito
+[7/9/2022 23:8:57] /newtype 12
+[7/9/2022 23:9:13] /newtype 12
+[7/9/2022 23:9:31] /i revolution armor
+[7/9/2022 23:9:33] /i revolution legsa
+[7/9/2022 23:9:34] /i revolution legs
+[7/9/2022 23:9:37] /i revolution helmet
+[7/9/2022 23:9:40] /i revolution boots
+[7/9/2022 23:9:43] /i revolution shiled
+[7/9/2022 23:9:46] /i revolution shield
+[7/9/2022 23:10:13] /t bolsonaro mito
+[7/9/2022 23:10:39] /up 3
+[7/9/2022 23:10:43] /up 3
+[7/9/2022 23:10:50] /up 3
+[7/9/2022 23:11:12] /attr health -999999999999
+[7/9/2022 23:11:25] /goto shimaricat 
+[7/9/2022 23:12:0] /spy
+[7/9/2022 23:13:52] /spy
+[7/9/2022 23:22:41] /t
+[7/9/2022 23:22:49] /goto shimaricat
+[7/9/2022 23:23:17] /newtype 12
+[7/9/2022 23:23:21] /a 2
+[7/9/2022 23:23:27] /a 2
+[7/9/2022 23:23:35] /m supremo cafetao
+[7/9/2022 23:23:35] /m supremo cafetao
+[7/9/2022 23:23:38] /r
+[7/9/2022 23:23:39] /r
+[7/9/2022 23:23:54] /spy
+[7/9/2022 23:25:12] /a 2
+[7/9/2022 23:27:58] /goto shimaricat
+[7/9/2022 23:28:8] /m trainers
+[7/9/2022 23:29:44] /r
+[7/9/2022 23:29:58] /m trainers
+[7/9/2022 23:34:12] /reload spells
+[7/9/2022 23:34:33] /ghost
+[7/9/2022 23:34:34] /goto shimaricat
+[7/9/2022 23:36:22] /t
+[7/9/2022 23:36:25] /ghost
+[7/9/2022 23:37:21] /up 3
+[7/9/2022 23:37:23] /c twonai
+[7/9/2022 23:37:29] /newtype 75
+[7/9/2022 23:37:34] /newtype 266
+[7/9/2022 23:37:41] /newtype 75
+[7/9/2022 23:37:44] /newtype 266
+[7/9/2022 23:37:48] /i real amulet
+[7/9/2022 23:38:0] /giveitem Bolsonaro Mito, 12694, 1
+[7/9/2022 23:38:40] /r
+[7/9/2022 23:38:54] /i 6541
+[7/9/2022 23:38:55] /i 6542
+[7/9/2022 23:38:56] /i 6543
+[7/9/2022 23:38:56] /i 6544
+[7/9/2022 23:38:57] /i 6545
+[7/9/2022 23:39:1] /i 12599
+[7/9/2022 23:39:3] /i 8300
+[7/9/2022 23:39:4] /i 8300
+[7/9/2022 23:39:8] /i 3954
+[7/9/2022 23:39:10] /i addon doll
+[7/9/2022 23:39:39] /t twonai
+[7/9/2022 23:39:40] /ghost
+[7/9/2022 23:39:41] /t
+[7/9/2022 23:41:50] !givecombo1
+[7/9/2022 23:41:53] /r all
+[8/9/2022 0:26:50] /goto noob
+[8/9/2022 0:26:51] /t
+[8/9/2022 0:27:0] /goto fenix
+[8/9/2022 0:27:3] /t
+[8/9/2022 0:27:11] /goto comando voador
+[8/9/2022 1:10:40] /ghost
+[8/9/2022 1:14:12] /i backpack
+[8/9/2022 1:15:3] /spy
+[8/9/2022 15:40:57] /goto pato malo
+[8/9/2022 15:40:58] /t
+[8/9/2022 15:41:3] !givecombo1
+[8/9/2022 15:41:5] /goto shimaricat
+[8/9/2022 15:41:36] /ghost
+[8/9/2022 15:43:7] /c shimaricat
+[8/9/2022 15:43:25] /spy
+[8/9/2022 15:43:57] /t
+[8/9/2022 15:43:58] /ghost
+[8/9/2022 15:44:10] /goto tri
+[8/9/2022 15:44:17] /ghost
+[8/9/2022 15:44:35] /t
+[8/9/2022 15:44:38] /goto king
+[8/9/2022 15:44:39] /t
+[8/9/2022 15:44:47] /ghost
+[8/9/2022 15:44:52] /goto okinah
+[8/9/2022 15:45:23] /i 6541
+[8/9/2022 15:45:23] /i 6542
+[8/9/2022 15:45:24] /i 6543
+[8/9/2022 15:45:25] /i 6544
+[8/9/2022 15:45:26] /i 6545
+[8/9/2022 15:45:26] /i 6546
+[8/9/2022 15:45:29] /i 2328
+[8/9/2022 15:45:31] /i addon doll
+[8/9/2022 15:45:33] /i 3954
+[8/9/2022 15:46:17] /i backpack
+[8/9/2022 15:46:22] /ghost
+[8/9/2022 15:47:4] /ghost
+[8/9/2022 15:47:47] /c okinah
+[8/9/2022 15:48:5] /a 2
+[8/9/2022 15:48:18] /i 12599
+[8/9/2022 15:48:19] /i 8300
+[8/9/2022 15:48:20] /i 8300
+[8/9/2022 15:48:20] /i 8300
+[8/9/2022 15:48:21] /i 8300
+[8/9/2022 15:49:0] /t
+[8/9/2022 15:49:2] /goto comando voador
+[8/9/2022 15:49:9] /n boss token
+[8/9/2022 15:49:25] /n event seller
+[8/9/2022 15:50:4] /ghost
+[8/9/2022 15:52:23] /t
+[8/9/2022 17:42:48] /ghost
+[8/9/2022 17:48:27] /t
+[8/9/2022 17:48:31] /goto shimaricat
+[8/9/2022 17:55:11] /t
+[8/9/2022 18:7:41] !givecombo1
+[8/9/2022 18:8:44] /reload talkactions
+[8/9/2022 18:9:11] /attr health 9999999999
+[8/9/2022 18:15:30] /t
+[8/9/2022 18:38:7] /goto goku~
+[8/9/2022 18:38:11] /i 6541
+[8/9/2022 18:38:12] /i 6542
+[8/9/2022 18:38:12] /i 6543
+[8/9/2022 18:38:13] /i 6544
+[8/9/2022 18:38:14] /i 6545
+[8/9/2022 18:38:17] /i 2328
+[8/9/2022 18:38:19] /i 12599
+[8/9/2022 18:38:20] /i 8300
+[8/9/2022 18:38:21] /i 8300
+[8/9/2022 18:38:22] /i 8300
+[8/9/2022 18:38:23] /i 3954
+[8/9/2022 18:38:29] /t
+[8/9/2022 18:38:33] /ghost
+[8/9/2022 23:18:31] /ghost
+[8/9/2022 23:20:2] /goto maccdeath
+[8/9/2022 23:20:6] /goto mac~
+[8/9/2022 23:20:7] /t
+[8/9/2022 23:21:19] /up 3
+[8/9/2022 23:21:22] /c lord kinder
+[8/9/2022 23:21:23] /i backpack
+[8/9/2022 23:21:26] /i 6541
+[8/9/2022 23:21:27] /i 6542
+[8/9/2022 23:21:28] /i 6543
+[8/9/2022 23:21:28] /i 6544
+[8/9/2022 23:21:29] /i 6545
+[8/9/2022 23:21:31] /i 2328
+[8/9/2022 23:21:34] /i 12599
+[8/9/2022 23:21:36] /i 8300
+[8/9/2022 23:21:37] /i 8300
+[8/9/2022 23:21:37] /i 8300
+[8/9/2022 23:21:37] /i 8300
+[8/9/2022 23:21:39] /i 3954
+[8/9/2022 23:21:52] /t lord kinder
+[8/9/2022 23:21:54] /t
+[8/9/2022 23:23:38] /i backpack
+[8/9/2022 23:23:48] /i soulwar crossbow
+[8/9/2022 23:23:57] /tempitem 12748, 100
+[8/9/2022 23:25:15] /tempitem 12748, 100
+[8/9/2022 23:25:40] /i real staff
+[8/9/2022 23:25:51] /giveitem lord kinder, 7410, 1
+[8/9/2022 23:34:6] /spy
+[8/9/2022 23:34:37] /m supremo cafetao
+[8/9/2022 23:35:5] /r
+[8/9/2022 23:38:12] /tempitem 12748, 100
+[8/9/2022 23:38:35] /tempitem 12748, 100
+[8/9/2022 23:47:37] /i addon doll
+[8/9/2022 23:47:48] /i addon doll
+[8/9/2022 23:47:56] /i real knife
+[8/9/2022 23:48:54] /i addon doll
+[9/9/2022 13:58:18] /goto okinah
+[9/9/2022 13:58:32] /ghost
+[9/9/2022 13:58:46] /goto rip´curl
+[9/9/2022 13:58:50] /goto ripcurl
+[9/9/2022 13:58:53] /t
+[9/9/2022 13:58:59] /goto twonai
+[9/9/2022 13:59:10] /goto fenix
+[9/9/2022 13:59:11] /t
+[9/9/2022 13:59:14] /ghost
+[9/9/2022 15:23:29] /goto 2297, 1041, 7
+[9/9/2022 15:23:31] /up
+[9/9/2022 15:23:35] /a 2
+[9/9/2022 15:24:42] /goto 2297, 1041, 7
+[9/9/2022 15:24:45] /up
+[9/9/2022 15:25:23] /up
+[9/9/2022 15:27:26] /goto 2276, 966, 7
+[9/9/2022 15:27:46] /goto 2317, 1006, 7
+[9/9/2022 15:28:0] /up
+[9/9/2022 15:31:44] /goto 114, 532, 5
+[9/9/2022 16:29:4] /dailychange
+[9/9/2022 16:29:10] /dailychange
+[9/9/2022 21:49:48] /a 2
+[9/9/2022 21:49:49] /a 2
+[9/9/2022 23:5:2] /a 2
+[10/9/2022 2:6:40] /goto Ladyizinha
+[11/9/2022 21:41:58] !givecombo1
+[11/9/2022 21:42:5] /ghost
+[12/9/2022 13:17:16] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:17] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:17] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:18] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:18] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:19] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:19] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:20] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:21] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:21] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:22] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:23] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:17:23] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:18:43] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:18:44] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:18:44] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:18:45] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:18:45] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:18:45] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:18:46] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:18:46] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:18:47] /bc blue [Reset]: O servidor será resetado hoje e voltará na quarta feira com novidades e atualizações, aproveitem para criar conta e chamar seu team para começar novamente.
+[12/9/2022 13:19:30] /save
+[12/9/2022 13:19:35] /closeserver
+[16/9/2022 16:48:10] /i backpack
+[16/9/2022 16:48:16] /i gold ingot
+[16/9/2022 16:59:21] /reload globalevents
+[16/9/2022 17:0:21] /reload globalevents
+[16/9/2022 17:2:32] /reload globalevents
+[16/9/2022 17:2:59] /reload globalevents
+[16/9/2022 17:3:39] /i soulwar staff
+[16/9/2022 18:26:39] /ghost
+[16/9/2022 18:30:0] /openserver
+[16/9/2022 18:30:11] /ghost
+[16/9/2022 18:31:11] /c billy jack
+[16/9/2022 18:32:16] /r
+[16/9/2022 18:32:19] /r
+[16/9/2022 18:32:21] /r
+[16/9/2022 18:32:27] /r
+[16/9/2022 18:32:28] /r
+[16/9/2022 18:32:29] /r
+[16/9/2022 18:32:35] /i 10438
+[16/9/2022 18:32:44] /r
+[16/9/2022 18:32:45] /r
+[16/9/2022 18:32:46] /r
+[16/9/2022 18:32:46] /r
+[16/9/2022 18:32:47] /r
+[16/9/2022 18:32:49] /r
+[16/9/2022 18:32:49] /r
+[16/9/2022 18:33:3] /r
+[16/9/2022 18:33:4] /r
+[16/9/2022 18:33:5] /r
+[16/9/2022 18:33:9] /r
+[16/9/2022 18:33:10] /r
+[16/9/2022 18:33:10] /r
+[16/9/2022 18:33:12] /r
+[16/9/2022 18:33:14] /r
+[16/9/2022 18:33:15] /r
+[16/9/2022 18:33:19] /r
+[16/9/2022 18:33:24] /ghost
+[16/9/2022 18:33:25] /t
+[16/9/2022 18:33:31] /ghost
+[16/9/2022 18:34:54] /addskill [adm] king, level, 1000
+[16/9/2022 18:40:4] /addpoints Callango, 420
+[16/9/2022 18:41:43] /bc blue [BACKUP]: Todos os backups de pontos serão feitos através do WhatsAPP.
+[16/9/2022 18:43:2] /addpoints Coffe, 100
+[16/9/2022 18:44:42] /addpoints Off Time, 150
+[16/9/2022 18:45:28] /addpoints Duma, 310
+[16/9/2022 18:47:4] /addpoints Pally Maldito, 80
+[16/9/2022 18:48:4] /spy
+[16/9/2022 18:48:22] /c pikadin
+[16/9/2022 18:48:27] /spy
+[16/9/2022 18:51:52] /bc blue [Combos]: O servidor dará combos de exp quando batermos 20, 30, 40, 50, 60, 70 players online.
+[16/9/2022 18:57:32] /addpoints Shimaricat Retorn, 200
+[16/9/2022 18:58:21] /goto pai do nenem
+[16/9/2022 18:58:22] /t
+[16/9/2022 18:59:4] /ghost
+[16/9/2022 18:59:5] /goto duma
+[16/9/2022 18:59:22] /t
+[16/9/2022 18:59:25] /ghost
+[16/9/2022 19:0:33] /mc
+[16/9/2022 19:6:50] /goto paulao probrema
+[16/9/2022 19:6:58] /save
+[16/9/2022 19:7:6] /goto paulao probrema
+[16/9/2022 19:8:47] /ghost
+[16/9/2022 19:8:50] /goto paulao~
+[16/9/2022 19:8:57] /c testando
+[16/9/2022 19:9:9] /ghost
+[16/9/2022 19:9:19] /addskill Paulao Pobrema, level, 4000
+[16/9/2022 19:9:24] /addskill Paulao Pobrema, level, 2000
+[16/9/2022 19:10:18] /addskill Paulao Pobrema, level, 1000
+[16/9/2022 19:12:1] /addskill paulao probrema, level, 16500
+[16/9/2022 19:12:12] /addskill Paulao Pobrema, level, 16000
+[16/9/2022 19:13:21] /addskill paulao probrema, level, 20000
+[16/9/2022 19:13:30] /addskill Paulao Pobrema, level, 20000
+[16/9/2022 19:13:35] /ghost
+[16/9/2022 19:13:49] /ghost
+[16/9/2022 19:13:58] /info duma
+[16/9/2022 19:14:21] /goto paulao probrema
+[16/9/2022 19:14:25] /goto Paulao Pobrema
+[16/9/2022 19:14:46] /t
+[16/9/2022 19:14:48] /goto piakdin
+[16/9/2022 19:14:50] /goto pikadin
+[16/9/2022 19:14:57] /t
+[16/9/2022 19:17:55] /ghost
+[16/9/2022 19:30:54] /addpoints 120, King Of Pally
+[16/9/2022 19:39:27] /t
+[16/9/2022 20:6:13] /goto coffe
+[16/9/2022 20:6:38] /up
+[16/9/2022 20:6:48] /goto coffe
+[16/9/2022 20:7:19] /t
+[16/9/2022 20:7:40] !givecombo1
+[16/9/2022 21:7:7] /goto blayd loot
+[16/9/2022 21:7:54] /save
+[16/9/2022 21:8:42] /openserver
+[16/9/2022 21:9:8] /ghost
+[16/9/2022 21:9:41] !givecombo1
+[16/9/2022 21:10:7] /addskill Blayd Loot, level, 10000
+[16/9/2022 21:12:9] /r
+[16/9/2022 21:12:49] /ghost
+[16/9/2022 21:15:11] /goto Comando Voador
+[16/9/2022 21:19:27] !givecombo1
+[16/9/2022 21:20:31] /goto blayd loot
+[16/9/2022 21:21:6] /t
+[17/9/2022 1:38:19] !givecombo1
+[17/9/2022 1:38:44] /ghost
+[17/9/2022 1:40:27] /a 2
+[17/9/2022 1:40:33] /a 10
+[17/9/2022 1:41:8] /up
+[17/9/2022 1:41:44] /down
+[17/9/2022 1:43:2] /attr health -9999999999
+[17/9/2022 1:43:24] /goto gladi
+[17/9/2022 1:43:30] /t
+[17/9/2022 1:44:2] /a 2
+[17/9/2022 1:46:8] /save
+[17/9/2022 1:46:10] /reload actions
+[17/9/2022 1:46:16] /c kxns
+[17/9/2022 1:48:42] /reload actions
+[17/9/2022 1:49:11] /r
+[17/9/2022 1:49:13] /i real knife
+[17/9/2022 1:50:5] /reload actions
+[17/9/2022 1:50:27] /c gladi
+[17/9/2022 1:52:46] /reload actions
+[17/9/2022 1:53:52] /a 10
+[17/9/2022 1:55:0] /attr health -9999999999
+[17/9/2022 2:1:11] /bc blue [MC'S]: O nosso servidor não conta com bloqueio de MC'S, podem abrir mc's a vontade, apenas na war ou castelos que tem proibição de +3 mcs.
+[17/9/2022 2:1:35] /ghost
+[17/9/2022 2:1:37] /goto comando voador
+[17/9/2022 2:1:42] /ghost
+[17/9/2022 2:2:25] /m survival holy
+[17/9/2022 2:2:42] /r
+[17/9/2022 2:3:50] /t
+[17/9/2022 2:3:55] /goto duma
+[17/9/2022 2:7:41] /t
+[17/9/2022 2:14:55] /goto lord eld
+[17/9/2022 2:16:26] /goto messi love
+[17/9/2022 2:17:56] /t
+[17/9/2022 2:25:10] /bc blue [ServerSave]: O servidor será reiniciado para correção de bugs e aumento da velocidade da distro (dash e ataques mais lisos).. O servidor será reiniciado ás 02:30.
+[17/9/2022 2:25:24] /bc blue [ServerSave]: O servidor será reiniciado para correção de bugs e aumento da velocidade da distro (dash e ataques mais lisos).. O servidor será reiniciado ás 02:30.
+[17/9/2022 2:25:50] /addpoints lord eld, 120
+[17/9/2022 2:25:54] /goto milim
+[17/9/2022 2:26:10] /t
+[17/9/2022 2:26:24] /goto duma
+[17/9/2022 2:27:11] /goto duma
+[17/9/2022 2:27:29] /bc blue [ServerSave]: O servidor será reiniciado para correção de bugs e aumento da velocidade da distro (dash e ataques mais lisos).. O servidor será reiniciado ás 02:30.
+[17/9/2022 2:27:41] /bc blue [ServerSave]: O servidor será reiniciado para correção de bugs e aumento da velocidade da distro (dash e ataques mais lisos).. O servidor será reiniciado ás 02:30.
+[17/9/2022 2:27:43] /t
+[17/9/2022 2:27:50] /bc blue [ServerSave]: O servidor será reiniciado para correção de bugs e aumento da velocidade da distro (dash e ataques mais lisos).. O servidor será reiniciado ás 02:30. (HAVERÁ COMBO APÓS REINICIAR).
+[17/9/2022 2:28:22] /bc blue [ServerSave]: O servidor será reiniciado para correção de bugs e aumento da velocidade da distro (dash e ataques mais lisos).. O servidor será reiniciado ás 02:30. (HAVERÁ COMBO APÓS REINICIAR).
+[17/9/2022 2:29:0] /bc blue [ServerSave]: O servidor será reiniciado para correção de bugs e aumento da velocidade da distro (dash e ataques mais lisos).. O servidor será reiniciado ás 02:30. (HAVERÁ COMBO APÓS REINICIAR).
+[17/9/2022 2:30:23] /bc blue [ServerSave]: O servidor será reiniciado para correção de bugs e aumento da velocidade da distro (dash e ataques mais lisos).. O servidor será reiniciado ás 02:30. (HAVERÁ COMBO APÓS REINICIAR).
+[17/9/2022 2:30:25] /save
+[17/9/2022 2:30:27] /shutdown
+[17/9/2022 2:31:30] /openserver
+[17/9/2022 2:32:6] /goto shimari~
+[17/9/2022 2:32:9] /c duma
+[17/9/2022 2:32:12] /t
+[17/9/2022 2:34:10] !givecombo1
+[17/9/2022 2:41:45] /goto knsx
+[17/9/2022 2:41:47] /goto kxns
+[17/9/2022 2:41:51] /c milim
+[17/9/2022 2:42:5] /t
+[17/9/2022 2:42:6] /goto duma
+[17/9/2022 2:43:30] /goto duma
+[17/9/2022 2:43:33] /save
+[17/9/2022 2:43:35] /shutdown
+[17/9/2022 2:44:11] /openserver
+[17/9/2022 2:44:16] /r
+[17/9/2022 2:44:20] /r
+[17/9/2022 2:44:22] /r
+[17/9/2022 2:44:51] /t
+[17/9/2022 2:45:45] /c milim
+[17/9/2022 2:46:2] /goto pavo
+[17/9/2022 2:46:11] /c milim
+[17/9/2022 2:46:13] /c kxns
+[17/9/2022 2:46:14] /r
+[17/9/2022 2:46:15] /r
+[17/9/2022 2:46:16] /r
+[17/9/2022 2:48:46] /goto kxns
+[17/9/2022 2:48:58] /t
+[17/9/2022 2:49:9] !givecombo1
+[17/9/2022 2:49:32] /t
+[17/9/2022 2:49:36] /ghost
+[17/9/2022 2:55:10] /goto kxns
+[17/9/2022 2:55:13] /c milim
+[17/9/2022 2:55:15] /c milim
+[17/9/2022 2:55:20] /goto comando voador
+[17/9/2022 2:55:38] /t
+[17/9/2022 2:55:55] /goto shimaricat
+[17/9/2022 2:55:58] /goto shima~
+[17/9/2022 2:57:7] /save
+[17/9/2022 2:57:10] /shutdown
+[17/9/2022 2:57:49] /openserver
+[17/9/2022 2:57:53] /r
+[17/9/2022 3:0:9] /bc blue Agora pronto, não vou mexer mais, perdão pelos b.o, tentei melhorar um negócio mas piorou, vou mandar combo.
+[17/9/2022 3:0:18] /r
+[17/9/2022 3:0:44] /goto escanor
+[17/9/2022 3:0:53] /addskill escanor, level, 100
+[17/9/2022 3:0:57] !givecombo1
+[17/9/2022 3:1:7] /goto pro attacksz
+[17/9/2022 3:1:13] /goto shimaricat~
+[17/9/2022 3:1:30] /t
+[17/9/2022 3:1:32] /goto pally maldito
+[17/9/2022 3:2:37] /ghost
+[17/9/2022 3:3:12] /ghost
+[17/9/2022 14:7:35] /goto pally maldito
+[17/9/2022 14:7:38] /spy
+[17/9/2022 14:7:52] /spy
+[17/9/2022 14:8:20] /i bag
+[17/9/2022 14:8:25] !givecombo1
+[17/9/2022 14:47:27] /goto yuri return
+[17/9/2022 14:47:37] /c yuri return
+[17/9/2022 19:43:46] !givecombo1
+[17/9/2022 19:45:45] /t
+[17/9/2022 19:47:58] /goto duma
+[17/9/2022 19:48:0] /t
+[18/9/2022 4:9:14] /goto Olivia Palito
+[18/9/2022 4:9:26] /t
+[18/9/2022 4:10:46] /goto khatsuki
+[18/9/2022 4:12:4] /t
+[18/9/2022 4:13:25] /t
+[18/9/2022 15:26:15] !givecombo1
+[18/9/2022 15:27:48] /ghost
+[18/9/2022 15:27:54] /goto jukes
+[18/9/2022 15:27:56] /t
+[18/9/2022 15:28:3] /goto bushd
+[18/9/2022 15:28:4] /t
+[18/9/2022 17:11:36] !givecombo1
+[18/9/2022 17:11:40] /ghost
+[18/9/2022 18:35:38] /t
+[18/9/2022 18:36:15] /promote Nolanggz
+[18/9/2022 18:36:16] /promote Nolanggz
+[18/9/2022 18:36:17] /promote Nolanggz
+[18/9/2022 18:36:17] /promote Nolanggz
+[18/9/2022 18:36:18] /promote Nolanggz
+[18/9/2022 18:36:23] /kick Nolanggz
+[18/9/2022 18:36:26] /r
+[18/9/2022 18:39:41] !givecombo1
+[18/9/2022 18:39:48] /t
+[18/9/2022 18:41:4] /dailychange
+[18/9/2022 18:41:8] /dailychange
+[18/9/2022 18:41:36] /goto psycho peverso
+[18/9/2022 18:42:53] /t
+[18/9/2022 18:43:24] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:31] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:32] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:39] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:39] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:40] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:40] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:41] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:41] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:42] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:42] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:43] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:43] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:44] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:44] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:50] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:51] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:51] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:52] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:53] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e melhoria do lag, o servidor volta em 2 minutos.
+[18/9/2022 18:43:59] /save
+[18/9/2022 18:44:2] /shutdown
+[18/9/2022 18:46:1] /openserver
+[18/9/2022 18:50:26] /t
+[18/9/2022 18:50:44] !givecombo1
+[18/9/2022 18:51:21] /goto pro attacksz
+[18/9/2022 18:51:26] /goto Pro Attacksz
+[18/9/2022 18:51:27] /t
+[18/9/2022 18:51:29] /goto blady loot
+[18/9/2022 18:51:30] /t
+[18/9/2022 18:59:14] /t
+[19/9/2022 11:28:52] /openserver
+[19/9/2022 11:33:51] !givecombo1
+[19/9/2022 14:34:45] /goto opressor de hunts
+[19/9/2022 14:35:50] /i bag
+[19/9/2022 14:35:52] /i backpack
+[19/9/2022 14:35:53] /up 3
+[19/9/2022 14:35:59] /i backpack
+[19/9/2022 14:36:13] /i hyper staff
+[19/9/2022 14:36:18] /i hyper sword
+[19/9/2022 14:36:26] /i king mage boots
+[19/9/2022 14:36:30] /i king warrior boots
+[19/9/2022 14:37:3] /tempitem 7424, 30000
+[19/9/2022 14:37:9] /tempitem 7424, 300000
+[19/9/2022 14:37:16] /tempitem 7424, 250000
+[19/9/2022 14:37:21] /tempitem 7424, 260000
+[19/9/2022 14:37:35] /tempitem 7424, 260000
+[19/9/2022 14:37:36] /tempitem 7424, 260000
+[19/9/2022 14:37:36] /tempitem 7424, 260000
+[19/9/2022 14:37:37] /tempitem 7424, 260000
+[19/9/2022 14:37:37] /tempitem 7424, 260000
+[19/9/2022 14:37:38] /tempitem 7424, 260000
+[19/9/2022 14:37:39] /tempitem 7424, 260000
+[19/9/2022 14:37:46] /tempitem 8931, 260000
+[19/9/2022 14:37:59] /tempitem 2646, 260000
+[19/9/2022 14:38:12] /tempitem 7892, 260000
+[19/9/2022 14:38:18] /i 6541
+[19/9/2022 14:38:19] /i 6542
+[19/9/2022 14:38:20] /i 6543
+[19/9/2022 14:38:21] /i 6544
+[19/9/2022 14:38:22] /i 6545
+[19/9/2022 14:38:22] /i 6546
+[19/9/2022 14:38:25] /i 2328
+[19/9/2022 14:38:28] /i 8300
+[19/9/2022 14:38:28] /i 8300
+[19/9/2022 14:38:29] /i 8300
+[19/9/2022 14:38:29] /i 8300
+[19/9/2022 14:38:33] /i 8300
+[19/9/2022 14:38:56] /r all
+[19/9/2022 14:38:57] /r all
+[19/9/2022 14:38:58] /r all
+[19/9/2022 14:38:58] /r all
+[19/9/2022 14:39:0] /r all
+[19/9/2022 14:39:1] /r all
+[19/9/2022 14:39:2] /r all
+[19/9/2022 14:39:3] /t
+[19/9/2022 14:39:8] /goto opressor de hunts
+[19/9/2022 14:44:58] /ghost
+[19/9/2022 14:46:50] /c Gundyr
+[19/9/2022 14:47:10] /i 3954
+[19/9/2022 14:47:24] /name Gundyr, [TUTOR] Gundyr
+[19/9/2022 14:48:9] /promote [TUTOR] Gundyr
+[19/9/2022 14:48:10] /promote [TUTOR] Gundyr
+[19/9/2022 14:48:20] /newtype 75, [TUTOR] Gundyr
+[19/9/2022 14:48:49] /promote [TUTOR] Gundyr
+[19/9/2022 14:48:51] /kick [TUTOR] Gundyr
+[19/9/2022 14:49:2] /c 
+[19/9/2022 14:49:5] /b
+[19/9/2022 14:49:55] /ghost
+[19/9/2022 14:49:56] /up 3
+[19/9/2022 14:50:0] /c opressor~
+[19/9/2022 14:50:15] /addskill Opressor De Hunts, level, 1000
+[19/9/2022 14:50:27] /i 3954
+[19/9/2022 14:50:34] /r
+[19/9/2022 14:50:38] /ghost
+[19/9/2022 14:50:49] /i 3954
+[19/9/2022 14:52:39] /t Opressor De Hunts
+[19/9/2022 14:52:46] /t
+[19/9/2022 14:53:28] /ghost
+[19/9/2022 15:29:59] /goto mage off dead
+[19/9/2022 15:30:25] /c mage off dead
+[19/9/2022 15:30:39] /c mage off dead
+[19/9/2022 15:30:49] /t
+[19/9/2022 15:30:57] /i bag
+[19/9/2022 15:30:59] !givecombo1
+[19/9/2022 15:33:47] /goto magezinho full
+[19/9/2022 15:33:51] /goto magezinho full
+[19/9/2022 15:35:14] /t
+[19/9/2022 15:35:18] /goto magezinho full
+[19/9/2022 15:35:28] /addskill Magezinho Full, level, 20000
+[19/9/2022 15:35:40] /t
+[19/9/2022 15:54:33] /goto magezinho full
+[19/9/2022 15:57:0] /goto pro attacksz
+[19/9/2022 15:57:3] /t
+[19/9/2022 15:57:5] /ghost
+[19/9/2022 16:0:42] /newtype 302
+[19/9/2022 16:9:55] /spy
+[19/9/2022 16:10:4] /goto Morghulis
+[19/9/2022 16:10:6] /ghost
+[19/9/2022 16:10:37] /spy
+[19/9/2022 16:10:49] /spy
+[19/9/2022 16:11:43] /save
+[19/9/2022 17:18:20] /addskill [TUTOR] Gundyr, level, 1000
+[19/9/2022 17:18:44] /addskill [TUTOR] Gundyr, level, 10000
+[19/9/2022 17:19:1] /clean
+[19/9/2022 17:19:2] /save
+[19/9/2022 20:21:56] /clean
+[19/9/2022 20:22:32] /spy
+[19/9/2022 20:22:54] /spy
+[19/9/2022 20:23:4] /spy
+[19/9/2022 20:23:8] /spy
+[19/9/2022 20:26:1] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:2] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:2] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:2] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:3] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:3] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:4] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:4] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:9] /bc blue [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:18] /bc red [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:19] /bc red [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:19] /bc red [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:20] /bc red [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:20] /bc red [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:21] /bc red [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:21] /bc red [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:28] /bc greem [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:34] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:35] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:36] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:36] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:36] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:37] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:37] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:38] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:39] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:39] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:39] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:40] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:40] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:41] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:41] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:42] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:42] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:43] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:43] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:43] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:44] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:44] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:45] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:45] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:46] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:46] /bc green [ServerSave]: O servidor será reiniciado para limpeza de cache e possível lag, o servidor volta em 2minutos.
+[19/9/2022 20:26:49] /save
+[19/9/2022 20:27:2] /shutdown
+[19/9/2022 20:29:26] /openserver
+[19/9/2022 20:30:55] !givecombo1
+[19/9/2022 20:31:7] /r all
+[20/9/2022 15:56:33] /r all
+[20/9/2022 15:56:35] /r all
+[20/9/2022 15:56:39] /r 
+[20/9/2022 15:56:39] /r 
+[20/9/2022 15:56:40] /r 
+[20/9/2022 15:56:42] /r 
+[20/9/2022 15:56:43] /r 
+[20/9/2022 15:56:43] /r 
+[20/9/2022 15:56:44] /r 
+[20/9/2022 16:6:56] /ghost
+[20/9/2022 16:7:27] /goto mage off dead
+[20/9/2022 16:7:29] /goto mage off dead
+[20/9/2022 16:7:31] /goto mage off dead
+[20/9/2022 16:7:54] /owner nobody
+[20/9/2022 16:21:22] /c boobek
+[20/9/2022 16:21:24] /c bobek
+[20/9/2022 16:21:32] /i 3954
+[20/9/2022 16:22:18] /c bobek
+[20/9/2022 16:22:39] /addskill bobek, level, 5000
+[20/9/2022 16:26:5] /t
+[20/9/2022 16:28:20] /i bag
+[20/9/2022 16:28:22] !givecombo1
+[20/9/2022 17:44:49] /clean
+[20/9/2022 17:44:49] /save
+[20/9/2022 17:47:23] /dailychange
+[20/9/2022 17:47:27] /i bag
+[20/9/2022 17:47:40] !givecombo1
+[20/9/2022 18:4:53] !givecombo1
+[20/9/2022 18:4:59] /i bag
+[20/9/2022 18:37:59] /newtype 11, Mage Off Dead
+[20/9/2022 18:38:5] /newtype 21, Mage Off Dead
+[20/9/2022 18:38:13] /newtype 24, Mage Off Dead
+[20/9/2022 18:38:18] /newtype 301, Mage Off Dead
+[20/9/2022 18:38:25] /newtype 312, Mage Off Dead
+[20/9/2022 18:38:30] /newtype 313, Mage Off Dead
+[20/9/2022 18:39:34] /newtype 112, Mage Off Dead
+[20/9/2022 18:39:49] /newtype 124, Mage Off Dead
+[20/9/2022 18:39:55] /newtype 11, Mage Off Dead
+[20/9/2022 18:39:59] /newtype 12, Mage Off Dead
+[20/9/2022 18:40:4] /newtype 123, Mage Off Dead
+[20/9/2022 18:40:10] /newtype 124, Mage Off Dead
+[20/9/2022 18:40:15] /newtype 125, Mage Off Dead
+[20/9/2022 18:40:19] /newtype 112, Mage Off Dead
+[20/9/2022 18:40:25] /newtype 127, Mage Off Dead
+[20/9/2022 18:40:26] /ghost
+[20/9/2022 18:40:46] /ghost
+[20/9/2022 19:8:44] /i king backpack
+[20/9/2022 19:8:54] /i fusion sd
+[20/9/2022 19:8:59] /i king ring
+[20/9/2022 19:9:2] /i stamina infinita
+[20/9/2022 19:9:27] /giveitem Shimaricat Retorn, 10000, 1
+[20/9/2022 19:9:56] /spy
+[20/9/2022 19:10:11] /giveitem Shimaricat Retorn, 10000, 1
+[20/9/2022 19:10:12] /spy
+[20/9/2022 19:10:22] /up 3
+[20/9/2022 19:10:23] /c Shimaricat Retorn
+[20/9/2022 19:10:27] /spy
+[20/9/2022 19:10:48] /dailychange
+[20/9/2022 19:10:50] /r
+[20/9/2022 19:10:59] /t Shimaricat Retorn
+[20/9/2022 19:11:0] /ghost
+[20/9/2022 19:11:1] /t
+[20/9/2022 19:11:14] /giveitem Shimaricat Retorn, 10309, 1
+[20/9/2022 19:11:24] /giveitem Shimaricat Retorn, 11237, 1
+[20/9/2022 19:11:31] /giveitem Shimaricat Retorn, 2263, 1
+[20/9/2022 19:12:9] /ghost
+[20/9/2022 19:18:37] !givecombo1
+[21/9/2022 13:41:4] /ghost
+[21/9/2022 13:42:10] /ghost
+[21/9/2022 13:44:13] /addpoints Madaminuss, 300
+[21/9/2022 13:46:27] /reload spells
+[21/9/2022 13:47:9] /save
+[21/9/2022 13:47:23] /reload spells
+[21/9/2022 13:48:16] /bc blue [Spells]: A cura do paladin recebeu um buff de 3%.
+[21/9/2022 13:50:26] /ghost
+[21/9/2022 13:50:28] /goto king of pally
+[21/9/2022 13:50:29] /goto king of pally
+[21/9/2022 13:50:32] /goto king of pally
+[21/9/2022 13:50:33] /goto king of pally
+[21/9/2022 13:52:19] /ghost
+[21/9/2022 22:32:1] /ghost
+[21/9/2022 22:32:2] /up
+[21/9/2022 22:32:12] /clean
+[21/9/2022 22:32:13] /save
+[21/9/2022 22:32:16] /goto psico~
+[21/9/2022 22:32:41] /addskill [ADM] King, level, 15000
+[21/9/2022 22:32:49] /addskill [ADM] King, level, 15000
+[21/9/2022 22:33:43] /addskill [ADM] King, level, 20000
+[21/9/2022 22:37:53] /t
+[21/9/2022 22:37:53] /up 3
+[21/9/2022 22:37:56] /c psico~
+[21/9/2022 22:37:58] /r
+[21/9/2022 22:38:6] /r
+[21/9/2022 22:40:18] /ghost
+[21/9/2022 22:40:25] /ghost
+[21/9/2022 22:41:51] /t psico~
+[21/9/2022 22:41:52] /t
+[21/9/2022 22:42:46] /c psico~
+[21/9/2022 22:42:48] /c psico~
+[21/9/2022 22:44:29] /addskill [ADM] King, level, 20000
+[21/9/2022 22:45:20] /i bag
+[21/9/2022 23:13:37] /i stone
+[21/9/2022 23:13:45] /t
+[22/9/2022 10:40:3] /openserver
+[22/9/2022 14:7:49] !givecombo1
+[22/9/2022 14:9:3] /goto pally maldito
+[22/9/2022 14:9:4] /t
+[22/9/2022 14:9:7] /goto shima~
+[22/9/2022 14:9:9] /t
+[22/9/2022 14:11:52] /ghost
+[22/9/2022 14:50:47] /i bag
+[22/9/2022 14:50:52] /i 6541
+[22/9/2022 14:50:53] /i 6542
+[22/9/2022 14:50:54] /i 6543
+[22/9/2022 14:50:54] /i 6544
+[22/9/2022 14:50:55] /i 6545
+[22/9/2022 14:50:56] /i 6546
+[22/9/2022 14:50:58] /i 2328
+[22/9/2022 14:51:1] /i 8300
+[22/9/2022 14:51:3] /i 12599
+[22/9/2022 14:51:26] /addskill Chupa Kabra, level, 500
+[22/9/2022 14:52:20] /addskill Chupa Kabra, level, 2000
+[22/9/2022 14:52:34] /t
+[22/9/2022 14:52:38] /c Chupa Kabra
+[22/9/2022 14:53:31] /m claptomaniaco
+[22/9/2022 14:53:55] /t
+[22/9/2022 16:27:59] /ghost
+[22/9/2022 16:28:10] /goto Pally Off Dead
+[22/9/2022 21:33:2] /spy
+[22/9/2022 21:34:5] /t
+[22/9/2022 21:34:9] /clean
+[22/9/2022 21:41:1] /save
+[22/9/2022 21:41:17] /reload creaturescripts
+[22/9/2022 21:42:52] /reload creaturescripts
+[22/9/2022 21:51:56] /t
+[22/9/2022 21:55:42] /goto psico~
+[22/9/2022 21:57:40] /down
+[22/9/2022 21:57:57] /t
+[23/9/2022 16:11:37] /goto Callango
+[23/9/2022 16:11:46] /t
+[23/9/2022 20:30:45] /bc blue [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:45] /bc blue [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:45] /bc blue [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:46] /bc blue [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:46] /bc blue [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:47] /bc blue [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:47] /bc blue [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:47] /bc blue [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:48] /bc blue [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:51] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:52] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:52] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:52] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:53] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:53] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:54] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:54] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:54] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:55] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:55] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:55] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:56] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:57] /bc green [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:30:59] /bc red [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:0] /bc red [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:1] /bc red [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:1] /bc red [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:3] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:4] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:5] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:5] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:6] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:6] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:7] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:7] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:7] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:8] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:8] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:8] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:9] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:9] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:10] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:10] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:11] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:11] /bc  [ServerSave]: O servidor será reiniciado para o server save e correções de erros, o server volta em 1 minuto.
+[23/9/2022 20:31:13] /save
+[23/9/2022 20:31:14] /shutdown
+[23/9/2022 20:32:26] /openserver
+[23/9/2022 20:38:46] !givecombo1
+[23/9/2022 20:41:37] /i 3954
+[23/9/2022 20:42:48] /n event seller
+[23/9/2022 21:24:46] /spy
+[24/9/2022 10:13:11] /openserver
+[24/9/2022 10:13:32] /dailychange
+[24/9/2022 10:13:56] /dailychange
+[24/9/2022 10:14:12] /dailychange
+[24/9/2022 10:14:26] /dailychange
+[24/9/2022 10:14:53] /dailychange
+[24/9/2022 13:44:31] /openserver
+[24/9/2022 17:47:9] /openserver
+[26/9/2022 19:56:50] /openserver
+[29/9/2022 13:42:43] /t
+[29/9/2022 13:42:52] /t

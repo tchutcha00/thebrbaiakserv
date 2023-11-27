@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Supremo Hellfire Fighter" nameDescription="a supremo hellfire fighter" race="fire" experience="0" speed="2000" manacost="0">
+	<health now="850000000" max="850000000"/>
+	<look type="243" corpse="6324"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag ignorespawnboost="1"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="900" skill="1" attack="6150000"/>
+		<attack name="fire" interval="900" chance="40" range="5" length="8" spread="3" min="-6150000" max="-7150000">
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="melee" interval="800" chance="35" range="7" radius="3" target="0" min="-6150000" max="-7150000">
+			<attribute key="areaEffect" value="explosionarea"/>
+		</attack>
+	</attacks>
+	<elements>
+		<element firePercent="100"/>
+		<element energyPercent="40"/>
+		<element physicalPercent="24"/>
+		<element deathPercent="22"/>
+		<element icePercent="-20"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+</monster>

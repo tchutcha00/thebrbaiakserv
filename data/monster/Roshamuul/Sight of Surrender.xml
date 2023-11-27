@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Sight of Surrender" nameDescription="a sight of surrender" race="blood" experience="940000000" speed="600" manacost="250">
+	<health now="7000000" max="7000000"/>
+	<look type="217" corpse="6306"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="0"/>
+		<flag illusionable="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="25"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-500000" max="-650000"/>
+	</attacks>
+	<defenses armor="2" defense="6"/>
+	<immunities>
+		<immunity invisible="1"/>
+	</immunities>
+	<loot>
+	<item id="2160" countmax="35" chance="5500"/>
+	</loot>
+</monster>

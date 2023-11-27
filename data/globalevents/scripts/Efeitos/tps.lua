@@ -1,0 +1,141 @@
+local positions = {
+
+	-- Quests
+	["Falcon"]    = {pos = {x = 810, y = 1071, z = 5}, color = {215, 215}, effect = {}},
+	["Cursed"]    = {pos = {x = 805, y = 1071, z = 5}, color = {215, 215}, effect = {}},
+    ["Buff 02"]        = {pos = {x = 799, y = 1077, z = 5}, color = {215, 215}, effect = {}},
+	["Attack 1"]    = {pos = {x = 806, y = 1066, z = 4}, color = {215, 215}, effect = {}},	
+	["Attack 2"]    = {pos = {x = 810, y = 1066, z = 4}, color = {215, 215}, effect = {}},
+	["Attack 3"]    = {pos = {x = 806, y = 1071, z = 4}, color = {215, 215}, effect = {}},	
+	["King SD"]    = {pos = {x = 811, y = 1059, z = 4}, color = {215, 215}, effect = {}},	
+	["Magia 30RR"]    = {pos = {x = 816, y = 1064, z = 4}, color = {215, 215}, effect = {}},
+	["Magia 40RR"]    = {pos = {x = 816, y = 1069, z = 4}, color = {215, 215}, effect = {}},		
+	["Bless Full"]    = {pos = {x = 805, y = 1059, z = 4}, color = {215, 215}, effect = {}},	
+	["Food 3x"]        = {pos = {x = 816, y = 1077, z = 5}, color = {215, 215}, effect = {}},	
+	["Food 4x"]        = {pos = {x = 816, y = 1082, z = 5}, color = {215, 215}, effect = {}},	
+	["Food 10x"]        = {pos = {x = 816, y = 1087, z = 5}, color = {215, 215}, effect = {}},	
+	["Amuleto "]        = {pos = {x = 808, y = 1063, z = 3}, color = {215, 215}, effect = {}},	
+	["Kingdom  "]        = {pos = {x = 804, y = 1060, z = 3}, color = {215, 215}, effect = {}},	
+	["SuperVIP  "]        = {pos = {x = 812, y = 1060, z = 3}, color = {215, 215}, effect = {}},	
+	["Backpack 2 "]        = {pos = {x = 800, y = 1069, z = 4}, color = {215, 215}, effect = {}},
+	["King  "]        = {pos = {x = 815, y = 1046, z = 3}, color = {215, 215}, effect = {}},
+	["Hyper  "]        = {pos = {x = 808, y = 1044, z = 3}, color = {215, 215}, effect = {}},
+    ["Armas"]        = {pos = {x = 815, y = 1047, z = 3}, color = {215, 215}, effect = {}},
+	["Starlix"]        = {pos = {x = 816, y = 1051, z = 3}, color = {215, 215}, effect = {}},
+	["Armas "]        = {pos = {x = 816, y = 1052, z = 3}, color = {215, 215}, effect = {}},
+	["Real    "]        = {pos = {x = 815, y = 1056, z = 3}, color = {215, 215}, effect = {}},
+	["Armas  "]        = {pos = {x = 815, y = 1057, z = 3}, color = {215, 215}, effect = {}},
+	["Revol"]        = {pos = {x = 801, y = 1046, z = 3}, color = {215, 215}, effect = {}},
+	["SET"]        = {pos = {x = 801, y = 1047, z = 3}, color = {215, 215}, effect = {}},
+	["Real "]        = {pos = {x = 800, y = 1051, z = 3}, color = {215, 215}, effect = {}},
+	["SET "]        = {pos = {x = 800, y = 1052, z = 3}, color = {215, 215}, effect = {}},
+	["Hyper"]        = {pos = {x = 801, y = 1056, z = 3}, color = {215, 215}, effect = {}},
+	["SET  "]        = {pos = {x = 801, y = 1057, z = 3}, color = {215, 215}, effect = {}},
+	["Food Full"]        = {pos = {x = 800, y = 1064, z = 4}, color = {215, 215}, effect = {}},
+	["Real Ring"]        = {pos = {x = 799, y = 1082, z = 5}, color = {215, 215}, effect = {}},
+	["L. Helmet"]        = {pos = {x = 802, y = 1087, z = 6}, color = {215, 215}, effect = {}},
+	["L. Armor"]        = {pos = {x = 802, y = 1082, z = 6}, color = {215, 215}, effect = {}},
+	["L. Legs"]        = {pos = {x = 802, y = 1077, z = 6}, color = {215, 215}, effect = {}},
+	["R. Boots"]        = {pos = {x = 799, y = 1087, z = 5}, color = {215, 215}, effect = {}},
+	["L. Shield"]        = {pos = {x = 810, y = 1074, z = 6}, color = {215, 215}, effect = {}},
+	["L. Ring"]        = {pos = {x = 813, y = 1077, z = 6}, color = {215, 215}, effect = {}},
+	["F. Boots"]        = {pos = {x = 805, y = 1090, z = 6}, color = {215, 215}, effect = {}},
+	["Backpack"]        = {pos = {x = 810, y = 1090, z = 6}, color = {215, 215}, effect = {}},
+    ["Aura"]        = {pos = {x = 813, y = 1082, z = 6}, color = {215, 215}, effect = {}},
+	["Roshamuul "]        = {pos = {x = 805, y = 1093, z = 5}, color = {215, 215}, effect = {}},
+	["Oramond  "]        = {pos = {x = 810, y = 1093, z = 5}, color = {215, 215}, effect = {}},
+	["Promotion "]        = {pos = {x = 813, y = 1087, z = 6}, color = {215, 215}, effect = {}},
+
+		-- Caves
+	["01"]    = {pos = {x = 2330, y = 2337, z = 7}, color = {215, 215}, effect = {}},
+	["02"]    = {pos = {x = 2330, y = 2339, z = 7}, color = {215, 215}, effect = {}},
+	["03"]    = {pos = {x = 2330, y = 2341, z = 7}, color = {215, 215}, effect = {}},
+	["04"]    = {pos = {x = 2330, y = 2343, z = 7}, color = {215, 215}, effect = {}},
+	["05"]    = {pos = {x = 2330, y = 2345, z = 7}, color = {215, 215}, effect = {}},
+	["06"]    = {pos = {x = 2330, y = 2347, z = 7}, color = {215, 215}, effect = {}},
+	["07"]    = {pos = {x = 2339, y = 2337, z = 7}, color = {215, 215}, effect = {}},
+	["08"]    = {pos = {x = 2339, y = 2339, z = 7}, color = {215, 215}, effect = {}},
+	["09"]    = {pos = {x = 2339, y = 2341, z = 7}, color = {215, 215}, effect = {}},
+	["10"]    = {pos = {x = 2339, y = 2343, z = 7}, color = {215, 215}, effect = {}},
+	["11"]    = {pos = {x = 2339, y = 2345, z = 7}, color = {215, 215}, effect = {}},
+	["12"]    = {pos = {x = 2339, y = 2347, z = 7}, color = {215, 215}, effect = {}},
+	["13"]    = {pos = {x = 2330, y = 2337, z = 6}, color = {215, 215}, effect = {}},
+	["14"]    = {pos = {x = 2330, y = 2339, z = 6}, color = {215, 215}, effect = {}},
+	["15"]    = {pos = {x = 2330, y = 2341, z = 6}, color = {215, 215}, effect = {}},
+	["16"]    = {pos = {x = 2330, y = 2343, z = 6}, color = {215, 215}, effect = {}},
+	["17"]    = {pos = {x = 2330, y = 2345, z = 6}, color = {215, 215}, effect = {}},
+	["18"]    = {pos = {x = 2330, y = 2347, z = 6}, color = {215, 215}, effect = {}},
+	["19"]    = {pos = {x = 2339, y = 2337, z = 6}, color = {215, 215}, effect = {}},
+	["20"]    = {pos = {x = 2339, y = 2339, z = 6}, color = {215, 215}, effect = {}},
+	["21"]    = {pos = {x = 2339, y = 2341, z = 6}, color = {215, 215}, effect = {}},
+	["22"]    = {pos = {x = 2339, y = 2343, z = 6}, color = {215, 215}, effect = {}},
+	["23"]    = {pos = {x = 2339, y = 2345, z = 6}, color = {215, 215}, effect = {}},
+	["24"]    = {pos = {x = 2339, y = 2347, z = 6}, color = {215, 215}, effect = {}},
+	
+
+	-- Templo Free
+	["SuperUP "]    = {pos = {x = 111, y = 79, z = 7}, color = {215, 215}, effect = {}},
+	["Gold"]    = {pos = {x = 119, y = 76, z = 7}, color = {215, 215}, effect = {}},
+	["SoulWar"]    = {pos = {x = 107, y = 76, z = 7}, color = {215, 215}, effect = {}},
+	["Gaz'Boss"]    = {pos = {x = 99, y = 78, z = 7}, color = {215, 215}, effect = {}},
+	["Nether"]    = {pos = {x = 122, y = 79, z = 7}, color = {215, 215}, effect = {}},
+	["Oramond "]    = {pos = {x = 124, y = 79, z = 7}, color = {215, 215}, effect = {}},
+	["Roshamuul"]    = {pos = {x = 126, y = 79, z = 7}, color = {215, 215}, effect = {}},
+	["Quests"]    = {pos = {x = 110, y = 79, z = 7}, color = {215, 215}, effect = {}},
+	["Arena"]    = {pos = {x = 99, y = 73, z = 7}, color = {215, 215}, effect = {}},
+	["Hunts"]        = {pos = {x = 115, y = 79, z = 7}, color = {215,215}, effect = {}},
+	["Treiners"]    = {pos = {x = 116, y = 79, z = 7}, color = {215, 215}, effect = {}},
+	["NPCS"]    = {pos = {x = 99, y = 75, z = 7}, color = {215, 215}, effect = {}},
+	["/eventos"]    = {pos = {x = 129, y = 74, z = 7}, color = {204, 204}, effect = {}},
+	["EVENTO BP"]    = {pos = {x = 104, y = 76, z = 7}, color = {204, 204}, effect = {}},
+	["CLICK UP"]    = {pos = {x = 104, y = 77, z = 7}, color = {204, 204}, effect = {}},
+	["SURVIVAL"]    = {pos = {x = 104, y = 79, z = 7}, color = {204, 204}, effect = {}},
+    ["EVENT EXP"]    = {pos = {x = 104, y = 80, z = 7}, color = {204, 204}, effect = {}},
+	["Minerar"]    = {pos = {x = 125, y = 77, z = 7}, color = {215, 215}, effect = {}},
+	["/minerar"]    = {pos = {x = 16288, y = 17124, z = 7}, color = {215, 215}, effect = {}},
+	["WARCastle"]    = {pos = {x = 125, y = 85, z = 7}, color = {215, 215}, effect = {}},
+	["Castle24H"]    = {pos = {x = 120, y = 85, z = 7}, color = {215, 215}, effect = {}},
+	["A"]    = {pos = {x = 119, y = 85, z = 7}, color = {210, 210}, effect = {}},
+	["B"]    = {pos = {x = 121, y = 85, z = 7}, color = {210, 210}, effect = {}},
+	["Ver Cast"] = {pos = {x = 110, y = 85, z = 7}, color = {204, 204}, effect = {3}},
+	["Tutorial"]        = {pos = {x = 117, y = 85, z = 7}, color = {215, 215}, effect = {}},
+	["Roleta"]        = {pos = {x = 123, y = 77, z = 7}, color = {215, 215}, effect = {}},
+	["BEM-VINDO"]        = {pos = {x = 113, y = 83, z = 7}, color = {215, 215}, effect = {}},
+	["120KK"]        = {pos = {x = 103, y = 85, z = 7}, color = {215, 215}, effect = {}},
+	["300KK"]        = {pos = {x = 104, y = 85, z = 7}, color = {215, 215}, effect = {}},
+	["200KK"]        = {pos = {x = 105, y = 85, z = 7}, color = {215, 215}, effect = {}},
+	["150KK"]        = {pos = {x = 106, y = 85, z = 7}, color = {215, 215}, effect = {}},
+	["150KK "]        = {pos = {x = 107, y = 85, z = 7}, color = {215, 215}, effect = {}},
+	["100KK  "]        = {pos = {x = 108, y = 85, z = 7}, color = {215, 215}, effect = {}},
+	["1KKK"]        = {pos = {x = 113, y = 77, z = 7}, color = {215, 215}, effect = {}},
+	
+	["150KK   "]        = {pos = {x = 100, y = 69, z = 7}, color = {215, 215}, effect = {}},
+	["200KK  "]        = {pos = {x = 102, y = 69, z = 7}, color = {215, 215}, effect = {}},
+	["250KK"]        = {pos = {x = 104, y = 69, z = 7}, color = {215, 215}, effect = {}},
+	["300KK  "]        = {pos = {x = 106, y = 69, z = 7}, color = {215, 215}, effect = {}},
+	["350KK"]        = {pos = {x = 108, y = 69, z = 7}, color = {215, 215}, effect = {}},
+	
+	--area vip
+	["DONATE"]    = {pos = {x = 113, y = 71, z = 7}, color = {204, 204}, effect = {}},
+	["Ilhas"]    = {pos = {x = 125, y = 69, z = 7}, color = {204, 204}, effect = {}},
+	["Kingdom"]    = {pos = {x = 166, y = 11726, z = 6}, color = {204, 204}, effect = {}},
+	["The King"]    = {pos = {x = 118, y = 71, z = 7}, color = {204, 204}, effect = {}},
+	["Hunts "]    = {pos = {x = 175, y = 11726, z = 6}, color = {204, 204}, effect = {}},
+	["Templo  "]    = {pos = {x = 179, y = 11726, z = 6}, color = {204, 204}, effect = {}}, 
+	["Treiners "]    = {pos = {x = 179, y = 11719, z = 6}, color = {204, 204}, effect = {}},
+
+
+
+}
+
+function onThink(cid, interval, lastExecution)
+    for t, pos in pairs(positions) do
+        for _, effect in ipairs(pos.effect) do
+            if(#pos.effect > 0) then
+                doSendMagicEffect(pos.pos, effect)
+            end
+        end
+        doSendAnimatedText(pos.pos, t, #pos.color > 0 and pos.color[math.random(#pos.color)] or 215)
+    end
+    return true
+end

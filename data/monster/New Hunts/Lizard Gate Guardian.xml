@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lizard Gate Guardian" nameDescription="a lizard gate guardian" race="venom" experience="65000000" speed="1000" manacost="0">
+<health now="1500000" max="1500000"/>
+<look type="362" corpse="8593"/>
+<targetchange interval="5000" chance="12"/>
+<strategy attack="100" defense="0"/>
+<flags>
+<flag summonable="0"/>
+<flag attackable="1"/>
+<flag hostile="1"/>
+<flag illusionable="0"/>
+<flag convinceable="0"/>
+<flag pushable="0"/>
+<flag canpushitems="1"/>
+<flag canpushcreatures="1"/>
+<flag targetdistance="1"/>
+<flag staticattack="90"/>
+<flag runonhealth="0"/>
+</flags>
+<attacks>
+<attack name="melee" interval="1500" min="-19000" max="-19100"/>
+        <attack name="holy" interval="3000" chance="100" range="7" min="-19000" max="-19100">
+        <attribute key="shootEffect" value="smallholy"/>
+	  <attribute key="areaEffect" value="holydamage"/>
+          </attack>
+<attack name="death" interval="2000" chance="100" range="7" min="-19000" max="-19100">
+        <attribute key="shootEffect" value="suddendeath"/>
+	  <attribute key="areaEffect" value="mortarea"/>
+        </attack>
+<attack name="melee" interval="2000" skill="30" attack="36"/>
+<attack name="poison" interval="1000" chance="12" range="1" radius="1" target="1" min="-5" max="-15">
+<attribute key="areaEffect" value="poison"/>
+</attack>
+</attacks>
+<defenses armor="16" defense="19"/>
+<elements>
+<element physicalPercent="1"/>
+<element holyPercent="1"/>
+<element deathPercent="10"/>
+<element firePercent="-1"/>
+<element energyPercent="-1"/>
+<element icePercent="15"/>
+<element earthPercent="1"/>
+</elements>
+<immunities>
+<immunity invisible="1"/>
+</immunities>
+<voices interval="5000" chance="10">
+<voice sentence="Me coji a tu jefa wey"/>
+</voices>
+<loot>
+<item id="2160" countmax="3" chance="3000"/><!-- crystal coin -->
+</loot>
+</monster>

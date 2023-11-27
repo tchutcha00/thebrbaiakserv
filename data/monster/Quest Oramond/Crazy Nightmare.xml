@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Crazy Nightmare" nameDescription="a crazy nightmare" race="blood" experience="2300" speed="2000" manacost="0">
+  <health now="1800000000" max="1800000000"/>
+  <look type="245" corpse="6340"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="500"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="800" attack="1" skill="4150000"/>
+
+    <attack name="death" interval="750" chance="17" range="7" target="1" min="-4150000" max="-4450000">
+      <attribute key="shootEffect" value="suddendeath"/>
+      <attribute key="areaEffect" value="mortarea"/>
+    </attack>
+
+    <attack name="earth" interval="850" chance="35" range="7" radius="4" target="1" min="-4150000" max="-4450000">
+      <attribute key="shootEffect" value="poison"/>
+      <attribute key="areaEffect" value="poison"/>
+    </attack>
+
+  </attacks>
+  <defenses armor="25" defense="30">
+    <defense name="healing" interval="3000" chance="18" min="200" max="395">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+    <defense name="speed" interval="2000" chance="20" speedchange="560" duration="80000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+    <elements>
+		<element energyPercent="20"/>
+		<element icePercent="10"/>
+		<element holyPercent="-25"/>
+		<element firePercent="25"/>
+	</elements>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="0"/>
+    <immunity fire="0"/>
+    <immunity death="1"/>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="1"/>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="5000" chance="10">
+    <voice sentence="Close your eyes... I want to show you something!"/>
+    <voice sentence="I will haunt you forever!"/>
+    <voice sentence="I will make you scream!"/>
+  </voices>
+ 
+</monster>

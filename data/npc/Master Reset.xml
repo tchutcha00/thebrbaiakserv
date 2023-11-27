@@ -1,0 +1,8 @@
+<npc name="[NPC] MASTER RESET" script="data/npc/scripts/Master Reset.lua" floorchange="0" walkinterval="0" level="1" maglevel="1" direction="1">
+	<health now="150" max="150"/>
+	<look type="128" head="114" body="94" legs="97" feet="114" addons="2"/>
+	<parameters>
+        <parameter key="module_travel" value="1"/>
+	<parameter key="message_greet" value="Olá |PLAYERNAME|! Eu já aguardava a sua visita! Diga {MASTER RESET} pra que eu possa te dar algumas instruções sobre esse sistema. " />
+	</parameters>
+</npc>

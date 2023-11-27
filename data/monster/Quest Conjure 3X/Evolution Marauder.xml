@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Evolution Marauder" nameDescription="a evolution marauder" race="blood" experience="0" speed="3000" manacost="0">
+	<health now="300000000" max="300000000"/>
+	<look type="342" corpse="11245"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="490"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag ignorespawnboost="1"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="600" skill="1" attack="4150000"/>
+		<attack name="physical" interval="600" chance="60" range="7" min="-4150000" max="-4250000">
+			<attribute key="shootEffect" value="arrow"/>
+		</attack>
+	</attacks>
+	<defenses armor="20" defense="45">
+		<defense name="speed" interval="2000" chance="7" speedchange="350" duration="4000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element energyPercent="20"/>
+		<element holyPercent="10"/>
+		<element earthPercent="-10"/>
+		<element deathPercent="-10"/>
+	</elements>
+	<immunities>
+		<immunity invisible="1"/>
+ 		<immunity energy="1"/>
+    	<immunity fire="1"/>
+    	<immunity poison="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="Grrrrrr"/>
+	</voices>
+</monster>

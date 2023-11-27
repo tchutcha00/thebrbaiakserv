@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="King Protector" nameDescription="a Protector" race="blood" experience="4000" speed="9000" manacost="0">
+  <health now="4000000" max="4000000"/>
+  <look type="332" head="94" body="77" legs="96" feet="0" addons="3" corpse="3058"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="60" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="60"/>
+    <flag runonhealth="0"/>
+    <flag ignorespawnboost="1"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1200" min="-150000" max="-170000"/>
+    <attack name="physical" interval="2500" chance="17" range="7" min="-100000" max="-110000">
+		<attribute key="shootEffect" value="throwingstar"/>
+    </attack>
+	<attack name="melee" interval="1000" chance="15" range="7" radius="6" target="0" min="-120000" max="-135000">
+		<attribute key="areaEffect" value="blackspark"/>
+	</attack>
+	<attack name="melee" interval="1500" chance="30" length="8" spread="0" min="-110000" max="-120000">
+		<attribute key="areaEffect" value="redspark"/>
+    </attack>
+    <attack name="physical" interval="1000" chance="25" range="7" min="-150000" max="-180000">
+		<attribute key="shootEffect" value="snowball"/>
+		<attribute key="areaEffect" value="poff"/>
+    </attack>
+  </attacks>
+  <defenses armor="250" defense="80">
+    <defense name="healing" interval="1000" chance="25" min="180" max="290">
+		<attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+	<element firePercent="100"/>
+	<element icePercent="40"/>
+	<element holyPercent="40"/>
+	<element deathPercent="-20"/>
+	<element energyPercent="-20"/>
+	<element earthPercent="-15"/>
+	<element physicalPercent="-10"/>
+  </elements>
+  <immunities>
+    <immunity paralyze="1"/>
+	<immunity invisible="1"/>
+  </immunities>
+
+  <loot>
+  </loot>
+</monster>

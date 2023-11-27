@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="[Donate] Overlord" nameDescription="a overlord" race="blood" experience="950000000" speed="2000" manacost="0">
+	<health now="2000000" max="2000000"/>
+	<look type="55" head="0" body="0" legs="0" feet="0" corpse="5999"/>
+	<targetchange interval="10000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag staticattack="98"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="35"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-105" max="-110"/>
+		<attack name="melee" interval="1000" chance="40" range="5" radius="6" target="0" min="-21500" max="-22500">
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="melee" interval="1000" chance="34" range="5" radius="1" target="1" min="-19000" max="-21000">
+			<attribute key="shootEffect" value="whirlwindsword"/>
+			<attribute key="areaEffect" value="redspark"/>
+		</attack>
+		<attack name="manadrain" interval="3000" chance="80" radius="5" target="0" min="-500" max="-500">
+		</attack>
+	</attacks>
+	<defenses armor="55" defense="65">
+		<defense name="healing" interval="3000" chance="100" min="500" max="500">
+			 
+		</defense>
+		<defense name="speed" interval="4000" chance="80" speedchange="440" duration="6000">
+			 
+		</defense>
+	</defenses>
+	 <elements>
+	<element icePercent="-35"/>
+	<element energyPercent="5"/>
+  </elements>
+	<immunities>
+		<immunity invisible="1"/>
+	</immunities>
+	<summons maxSummons="0">
+		<summon name="Deathslicer" interval="4000" chance="20"/>
+	</summons>
+	<loot>
+		<item id="2160" countmin="1" countmax="10" chance="5000"/><!-- crystal coin -->
+		<item id="2393" chance="8000"/><!-- giant sword -->
+	</loot>
+</monster>

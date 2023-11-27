@@ -1,0 +1,17 @@
+[Mining Hotkeys]
+
+-----------------------------
+1- Hotkey para minerar os Muddy:
+
+auto 200 listas 'Mining King' | useongrounditem 3456 10870 |
+-----------------------------
+2- Hotkey para o char ficar rodando:
+
+auto 1 listas 'Anti-Idle' | turnw | wait 1 | turnn | wait 1 | turne | wait 1 | turns
+-----------------------------
+
+3- Hotkey pro char relogar caso deslogue:
+
+auto 100 listas 'Re-Conect' | ifnot '$connected' reconnect | wait 6000
+-----------------------------
+

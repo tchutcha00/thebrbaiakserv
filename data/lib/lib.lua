@@ -1,0 +1,41 @@
+local files = {
+
+    'internal/000-constant.lua',
+    'internal/001-class.lua',
+	'501-events.lua',
+    'internal/002-wait.lua',
+    'internal/004-database.lua',
+    'internal/011-string.lua',
+    'internal/012-table.lua',
+    'internal/013-math.lua',
+    'internal/031-vocations.lua',
+    'internal/032-position.lua',
+    'internal/033-ip.lua',
+    'internal/034-exhaustion.lua',
+    'internal/050-function.lua',
+    'internal/100-shortcut.lua',
+    'internal/101-compat.lua',
+    'internal/100-compat.lua',
+    '101-war.lua',
+    '200-data.lua',
+    '500-killua\'s lib.lua',
+    '502-functions.lua',
+    'lib_exclusivecave.lua',
+    '882-Language_System_Talkactions.lua',
+	'reset.lua',
+    'daily_monster.lua',
+	'new-functions.lua',
+    'pedraSys.lua',
+    'events/zombie/lib.lua',
+    'castle_48h_lib.lua',
+    'lib-warsquare.lua',
+    'online_bonus.lua',
+    'exp_potion.lua',
+    'guild_level.lua',
+    'legendary_lever.lua',
+    'lib_mounts.lua', 
+}
+
+for _, file in ipairs(files) do
+    dofile(('data/lib/%s'):format(file))
+end

@@ -1,0 +1,8 @@
+﻿<npc name="[NPC] Hunts" script="data/npc/scripts/Hunt Exclusiva.lua" floorchange="0" walkinterval="0" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="146" head="114" body="94" legs="97" feet="114" addons="3"/>
+	<parameters>
+        <parameter key="module_travel" value="1"/>
+	<parameter key="message_greet" value="Olá |PLAYERNAME|! Possuindo 50 VIP COINS, você podera upar durante 5 horas. saiba que custa 50 VIP COINS e a alavanca possui uma chance de apenas 35% de sucesso de funcionar! Se não funcionar, você perde os 50 VIP COINS. Ainda está interessado em começar uma hunt: Diga: {sim} " />
+	</parameters>
+</npc>

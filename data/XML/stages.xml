@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stages>
+
+	<world id="0" multiplier="1">
+		<stage minlevel="1" maxlevel="1000" multiplier="6000"/>
+		<stage minlevel="1001" maxlevel="2000" multiplier="5000"/>
+		<stage minlevel="2001" maxlevel="3000" multiplier="4000"/>
+		<stage minlevel="3001" maxlevel="4000" multiplier="3000"/>
+		<stage minlevel="4001" maxlevel="5000" multiplier="2000"/>
+		<stage minlevel="5001" maxlevel="6000" multiplier="1000"/>
+        <stage minlevel="6001" maxlevel="7000" multiplier="900"/>
+        <stage minlevel="7001" maxlevel="8000" multiplier="500"/>
+        <stage minlevel="8001" maxlevel="9000" multiplier="300"/>
+        <stage minlevel="9001" maxlevel="10000" multiplier="200"/>
+		<stage minlevel="10001" maxlevel="15000" multiplier="100"/>
+	    <stage minlevel="15001" maxlevel="20000" multiplier="150"/>
+        <stage minlevel="20001" maxlevel="25000" multiplier="100"/>
+		<stage minlevel="25001" maxlevel="30000" multiplier="50"/>
+		<stage minlevel="30001" maxlevel="35000" multiplier="40"/>
+		<stage minlevel="35001" maxlevel="40000" multiplier="20"/>
+		<stage minlevel="40001" maxlevel="50000" multiplier="20"/>
+		<stage minlevel="50001" maxlevel="60000" multiplier="20"/>
+	    <stage minlevel="60001" maxlevel="70000" multiplier="10"/>
+		<stage minlevel="70001" maxlevel="80000" multiplier="5"/>
+		<stage minlevel="80001" maxlevel="90000" multiplier="3"/>
+		<stage minlevel="90001" maxlevel="100000" multiplier="2"/>
+		<stage minlevel="100001" maxlevel="110000" multiplier="2"/>
+		<stage minlevel="110001" maxlevel="120000" multiplier="2"/>
+		<stage minlevel="120001" maxlevel="130000" multiplier="2"/>
+		<stage minlevel="130001" maxlevel="140000" multiplier="2"/>																	
+		<stage minlevel="140001" maxlevel="150000" multiplier="2"/>
+	    <stage minlevel="150001" maxlevel="160000" multiplier="2"/>
+	    <stage minlevel="160001" maxlevel="170000" multiplier="2"/>
+	    <stage minlevel="170001" maxlevel="180000" multiplier="2"/>
+	    <stage minlevel="180001" maxlevel="190000" multiplier="2"/>
+		<stage minlevel="190001" maxlevel="200000" multiplier="2"/>
+	    <stage minlevel="200001" maxlevel="210000" multiplier="1"/>
+		<stage minlevel="210001" maxlevel="220000" multiplier="1"/>
+		<stage minlevel="220001" maxlevel="230000" multiplier="1"/>
+		<stage minlevel="230001" maxlevel="240000" multiplier="1"/>
+		<stage minlevel="240001" maxlevel="250000" multiplier="1"/>
+	    <stage minlevel="250001" multiplier="0.5"/>
+	</world>
+</stages>

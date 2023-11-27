@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="The King Boss" nameDescription="a The King Boss" race="blood" experience="500000" speed="350" manacost="0">
+	<health now="2000000000" max="2000000000"/>
+	<look type="332" head="150" body="255" legs="35" feet="90" addons="3" corpse="3058"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+	<attack name="fire" interval="1500" chance="140" range="7" radius="7" target="1" min="-3600000" max="-4000090">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="firefield" interval="1000" chance="15" range="7" radius="5" target="2">
+			<attribute key="shootEffect" value="fire"/>
+		</attack>
+		<attack name="melee" interval="2000" skill="120000" attack="3500000"/>
+		<attack name="physical" interval="2000" chance="90" range="7" min="-4000000" max="-5000005">
+			<attribute key="shootEffect" value="largerock"/>
+		</attack>
+	</attacks>
+	<elements>
+		<element earthPercent="80"/>
+		<element holyPercent="30"/>
+		<element firePercent="30"/>
+		<element energyPercent="10"/>
+		<element physicalPercent="10"/>
+		<element icePercent="-10"/>
+		<element deathPercent="45"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="3000" chance="20">
+		<voice sentence="Uma dimensao so para mim... que honra!"/>
+		<voice sentence="Veio me alimentar, humano insolente?"/>
+		<voice sentence="AAAAAAAAAAAAAAAAAAH QUEM ME ACORDOU?" yell="1"/>
+	</voices>
+	<loot>
+	<item id="6545" countmax="5" chance="5000"/>
+    <item id="6542" countmax="5" chance="5000"/>
+    <item id="6541" countmax="5" chance="5000"/>
+    <item id="2328" countmax="5" chance="5000"/>
+    <item id="6543" countmax="5" chance="5000"/>
+    <item id="6527" countmax="10" chance="14000"/>
+    <item id="9020" countmax="1" chance="10000"/>
+    <item id="12778" countmax="1" chance="1000"/>
+    <item id="11388" count="1" chance="200"/>
+</loot>
+<script>
+        <event name="lastHit"/>
+    </script>
+</monster>
+

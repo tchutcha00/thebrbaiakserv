@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Paiz the Pauperizer" nameDescription="a paiz the pauperizer" race="blood" experience="0" speed="2000" manacost="0">
+<health now="2000000000" max="2000000000"/>
+<look type="362" corpse="12570"/>
+<targetchange interval="5000" chance="10"/>
+<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="700" skill="1" attack="5850000"/>
+		<attack name="fire" interval="800" chance="30" length="4" spread="3" max="-40000">
+			<attribute key="shootEffect" value="explosion"/>
+			<attribute key="areaEffect" value="explosion"/>
+		</attack>
+		<attack name="fire" interval="700" chance="30" range="7" target="1" min="-5950000" max="-5950000">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="earth" interval="700" chance="25" radius="3">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+	</attacks>
+	<defenses armor="16" defense="19">
+		<defense name="healing" interval="2000" chance="15" min="510" max="600">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="15"/>
+		<element holyPercent="30"/>
+		<element deathPercent="30"/>
+		<element energyPercent="40"/>
+		<element icePercent="25"/>
+	</elements>
+	<immunities>
+		<immunity fire="1"/>
+		<immunity earth="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+</monster>

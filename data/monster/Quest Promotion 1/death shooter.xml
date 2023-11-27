@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Death Shooter" nameDescription="a Death Shooter" race="blood" experience="400000" speed="9999" manacost="0">
+	<health now="80000000" max="80000000"/>
+	<look type="342" head="0" body="114" legs="114" feet="0" addons="1" mount="373" corpse="6080"/>
+	<targetchange interval="1500" chance="10"/>
+	<strategy attack="100" defense="50"/>
+	<flags>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="95"/>
+		<flag runonhealth="0"/>
+		<flag ignorespawnboost="1"/>
+		<flag skull="red"/>
+		<flag emblem="red"/>
+	</flags>
+	<attacks>
+	<attack name="melee" interval="100" skill="8" attack="15"/>
+		<attack name="physical" interval="1000" chance="1000" range="7" target="1" min="-42000" max="-43000">
+			<attribute key="shootEffect" value="suddendeath"/>
+		</attack>
+		<attack name="physical" interval="1500" chance="100" min="-38000" max="-40000">
+			<attribute key="shootEffect" value="death"/>
+		</attack>
+		<attack name="haste" interval="1500" chance="100" range="9" min="-1" max="-1">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+	</attacks>
+	<defenses armor="25" defense="25">
+		<defense name="healing" interval="3500" chance="100" min="900" max="2000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="invisible" interval="1000000" chance="1" duration="4000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element earthPercent="+10"/>
+		<element physicalPercent="+10"/>
+		<element icePercent="+10"/>
+		<element holyPercent="+10"/>
+		<element deathPercent="+10"/>
+	</elements>
+	<immunities>
+		<immunity death="1"/>
+		<immunity energy="0"/>
+		<immunity fire="0"/>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="Nothing will remain but your scorched bones!"/>
+		<voice sentence="You Freeze!"/>
+		<voice sentence="It's cooking time!"/>
+		<voice sentence="Feel the heat of battle!"/>
+	</voices>
+	<loot>
+	</loot><script><event name="teleportVitor"/> </script>
+</monster>

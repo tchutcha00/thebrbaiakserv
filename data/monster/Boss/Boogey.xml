@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Boogey" nameDescription="boogey" race="blood" experience="9000000" speed="9999" manacost="0">
+<health now="9800000" max="9800000"/>
+<look type="364" corpse="5527"/>
+<targetchange interval="2000" chance="30"/>
+<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="70"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1400" min="-91000" max="-93000"/>
+		<attack name="energy" interval="1000" chance="30" length="4" spread="3" min="-95000" max="-98000">
+			<attribute key="shootEffect" value="energy"/>
+			<attribute key="areaEffect" value="energyarea"/>
+		</attack>
+		<attack name="holy" interval="1000" chance="5" radius="5" target="0" min="-93000" max="-96000">
+			<attribute key="areaEffect" value="yellowenergy"/>
+		</attack>
+		<attack name="melee" interval="1000" chance="73" range="7" radius="3" target="0" min="-93000" max="-98000">
+  			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+	</attacks>
+	<defenses armor="16" defense="19">
+		<defense name="healing" interval="2000" chance="15" min="1650" max="3100">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="20"/>
+		<element holyPercent="-5"/>
+		<element energyPercent="-5"/>
+		<element icePercent="5"/>
+	</elements>
+	<immunities>
+		<immunity invisible="1"/>
+		<immunity paralyze="1"/>
+	</immunities>
+	<loot>
+	<item id="2157" count="3" chance="2500"/>
+	<item id="9020" countmax="1" chance="100"/>	
+    <item id="1987" chance="1">	
+	</item>
+ </loot>
+	<script> <event name="boogey"/> </script> 
+</monster>

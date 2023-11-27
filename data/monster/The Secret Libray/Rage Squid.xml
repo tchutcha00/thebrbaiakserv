@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Rage Squid" nameDescription="a rage squid" race="undead" experience="2000000000" speed="215">
+	<health now="17000" max="17000"/>
+	<look type="368" head="94" body="78" legs="78" feet="0" corpse="32486"/>
+	<targetchange interval="5000" chance="8"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" min="0" max="-500"/>
+		<attack name="fire" interval="1000" chance="15" range="7" min="-200" max="-280">
+			<attribute key="shootEffect" value="flammingarrow"/>
+			<attribute key="areaEffect" value="fire"/>
+		</attack>
+		<attack name="fire" interval="2000" chance="10" range="7" min="-200" max="-380">
+			<attribute key="shootEffect" value="fire"/>
+		</attack>
+		<attack name="lifedrain" interval="2000" chance="10" length="5" spread="0" min="-175" max="-200">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="fire" interval="2000" chance="12" radius="3" min="-200" max="-475">
+			<attribute key="areaEffect" value="fire"/>
+		</attack>
+		<attack name="fire" interval="2000" chance="10" radius="2" min="-200" max="-475">
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+	</attacks>
+	<defenses armor="78" defense="78"/>
+	<elements>
+		<element icePercent="-15"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+		<immunity fire="1"/>
+	</immunities>
+	<loot>
+	</loot>
+</monster>

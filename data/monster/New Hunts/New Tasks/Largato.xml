@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Largato" nameDescription="a largato" race="blood" experience="65000000" speed="1000" manacost="0">
+	<health now="1500000" max="1500000"/>
+	<look type="113" corpse="4251"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1400" skill="5" attack="22000"/>
+	</attacks>
+	<defenses armor="16" defense="19"/>
+	<elements>
+		<element earthPercent="100"/>
+		<element energyPercent="20"/>
+		<element icePercent="10"/>
+		<element firePercent="-10"/>
+	</elements>
+	<voices interval="5000" chance="10">
+		<voice sentence="Hissss!"/>
+	</voices>
+	<loot>
+		<item id="2160" countmax="5" chance="3000"/><!-- crystal coin -->
+		<item id="2472" chance="3000"/><!-- mpa -->
+	</loot>
+</monster>

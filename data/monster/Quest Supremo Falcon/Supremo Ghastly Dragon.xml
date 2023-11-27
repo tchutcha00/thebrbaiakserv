@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Supremo Ghastly Dragon" nameDescription="a Supremo Ghastly Dragon" race="undead" experience="17300" speed="2000" manacost="0">
+  <health now="170000000" max="170000000"/>
+  <look type="351" corpse="7349"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+	<flag summonable="0"/>
+	<flag attackable="1"/>
+	<flag hostile="1"/>
+	<flag illusionable="1"/>
+	<flag convinceable="0"/>	
+	<flag pushable="0"/>
+	<flag canpushitems="1"/>
+	<flag canpushcreatures="1"/>
+	<flag targetdistance="1"/>
+	<flag staticattack="90"/>	
+	<flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="700" skill="1" attack="3350000"/>
+    <attack name="energy" interval="750" chance="35" range="7" min="-3350000" max="-3550000">
+      <attribute key="shootEffect" value="energy"/>
+    </attack>
+	<attack name="fire" interval="700" chance="35" range="7" min="-3350000" max="-3550000">
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+	 <attack name="melee" interval="750" chance="35" range="7" min="-3350000" max="-3550000">
+      <attribute key="shootEffect" value="smallstone"/>
+    </attack>
+	<attack name="outfit" interval="2000" chance="15" range="7" target="1" radius="3" item="2551" duration="6000">
+      <attribute key="areaEffect" value="greenshimmer"/>
+    </attack>
+  </attacks>
+  <defenses armor="40" defense="59">
+    <defense name="healing" interval="1000" chance="53" min="350" max="850">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+  <element deathPercent="5"/>
+  </elements>
+  <immunities>
+    <immunity invisible="1"/>
+  </immunities>
+   
+</monster>
+

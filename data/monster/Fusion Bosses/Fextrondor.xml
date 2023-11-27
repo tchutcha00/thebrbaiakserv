@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Fextrondor" nameDescription="fextrondor" race="undead" experience="5000000" speed="0" manacost="0">
+	<health now="400000000" max="400000000"/>
+	<look type="12" head="0" body="94" legs="79" feet="79" corpse="6068"/>
+	<targetchange interval="10000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag staticattack="98"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" skill="340" attack="350"/>
+		<attack name="fire" interval="1000" chance="70" range="7" radius="7" target="1" min="-95000" max="-96000">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="physical" interval="2000" chance="75" length="8" spread="0" min="-83000" max="-86000">
+			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+		<attack name="speed" interval="2000" chance="75" range="7" speedchange="-850" duration="50000">
+			<attribute key="areaEffect" value="whitenote"/>
+		</attack>
+		<attack name="physical" interval="2000" chance="70" target="0" radius="7" min="-92500" max="-94500">
+			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+	</attacks>
+	<defenses armor="55" defense="65">
+		<defense name="healing" interval="10000" chance="100" min="33000" max="40000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="speed" interval="2000" chance="10" speedchange="908" duration="6000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element energyPercent="10"/>
+		<element deathPercent="60"/>
+		<element physicalPercent="1"/>
+		<element icePercent="-5"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+		<immunity fire="1"/>
+		<immunity earth="1"/>
+	</immunities>
+	<voices interval="5000" chance="30">
+		<voice sentence="I AM MORGAROTH, LORD OF THE TRIANGLE... AND YOU ARE LOST!" yell="1"/>
+		<voice sentence="MY SEED IS FEAR AND MY HARVEST ARE YOUR SOULS!" yell="1"/>
+		<voice sentence="THE TRIANGLE OF TERROR WILL RISE!" yell="1"/>
+		<voice sentence="ZATHROTH! LOOK AT THE DESTRUCTION I AM CAUSING IN YOUR NAME!" yell="1"/>
+	</voices>
+	<loot>
+</loot>
+</monster>

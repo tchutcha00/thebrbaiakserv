@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="[Castle] Money" nameDescription="castle money" race="fire" experience="330000000" speed="1180" manacost="0">
+	<health now="1000000" max="1000000"/>
+<look type="12" head="77" body="116" legs="82" feet="79" corpse="6068"/>
+<targetchange interval="5000" chance="8"/>
+<strategy attack="100" defense="0"/>
+
+<flags>
+	<flag summonable="0"/>
+	<flag attackable="1"/>
+	<flag hostile="1"/>
+	<flag illusionable="0"/>
+	<flag convinceable="0"/>
+	<flag pushable="0"/>
+	<flag canpushitems="1"/>
+	<flag canpushcreatures="1"/>
+	<flag targetdistance="1"/>
+	<flag staticattack="85"/>
+	<flag runonhealth="0"/>
+</flags>
+
+<attacks>
+    <attack name="melee" interval="1000" min="-20000" max="-25000"/>
+	<attack name="energy" interval="2000" chance="20" range="4" radius="4" min="-21000" max="-24000">
+		<attribute key="areaEffect" value="energy"/>
+		<attribute key="shootEffect" value="energyball"/>
+	</attack>
+	<attack name="lifedrain" interval="3000" chance="17" range="4" radius="2" min="-300" max="-500">
+		<attribute key="areaEffect" value="redshimmer"/>
+		<attribute key="shootEffect" value="explosion"/>
+	</attack>
+</attacks>
+
+<defenses armor="40" defense="46"/>
+
+<elements>
+	<element icePercent="15"/>
+	<element deathPercent="-10"/>
+</elements>
+
+<immunities>
+	<immunity energy="1"/>
+	<immunity fire="1"/>
+	<immunity invisible="1"/>
+</immunities>
+
+<voices interval="3000" chance="5">
+	<voice sentence="I AM GOING TO PLAY WITH YOURSELF!" yell="1"/>
+</voices>
+
+<loot>
+      <item id="2160" countmax="10" chance1="100000" chancemax="0"/> -- Gold
+</loot>
+
+</monster>

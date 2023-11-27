@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Jacarelvis Guard" nameDescription="a Jacarelvis Guard" race="blood" experience="2200" speed="9999" manacost="0">
+<health now="45000000" max="45000000"/>
+<look type="344" corpse="11279"/>
+<targetchange interval="5000" chance="8"/>
+<strategy attack="100" defense="0"/>
+<flags>
+<flag summonable="0"/>
+<flag attackable="1"/>
+<flag hostile="1"/>
+<flag illusionable="1"/>
+<flag convinceable="0"/>
+<flag pushable="0"/>
+<flag canpushitems="1"/>
+<flag canpushcreatures="0"/>
+<flag targetdistance="1"/>
+<flag staticattack="90"/>
+<flag runonhealth="50"/>
+<flag ignorespawnboost="1"/>
+</flags>
+<attacks>
+	<attack name="melee" interval="900" skill="1" attack="500000"/>
+<attack name="poison" interval="900" chance="35" length="8" spread="3" min="-500000" max="-550000">
+<attribute key="areaEffect" value="poison"/>
+</attack>
+</attacks>
+<defenses armor="16" defense="19"/>
+<elements>
+<element energyPercent="-20"/>
+<element icePercent="-10"/>
+<element firePercent="-10"/>
+</elements>
+<immunities>
+<immunity earth="1"/>
+<immunity invisible="1"/>
+</immunities>
+<voices interval="5000" chance="10">
+<voice sentence="Grzzzzzzz!"/>
+</voices>
+<loot>
+<item id="2148" countmax="224" chance="10000"/>
+<item id="11319" chance="900"/>
+<item id="11318" chance="1100"/>
+<item id="5876" countmax="1" chance="1800"/>
+<item id="1987" chance="100000">
+<inside>
+<item id="11320" chance="400"/>
+<item id="12629" chance="3950" />
+<item id="3963" chance="533"/>
+<item id="5881" countmax="1" chance="900"/>
+</inside>
+</item>
+</loot>
+</monster>

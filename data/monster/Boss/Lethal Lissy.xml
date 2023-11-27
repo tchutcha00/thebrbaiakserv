@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lethal Lissy" nameDescription="lethal lissy" race="blood" experience="500" speed="9999" manacost="0">
+	<health now="9800000" max="9800000"/>
+	<look type="155" head="77" body="0" legs="76" feet="132" addons="3" corpse="6081"/>
+	<targetchange interval="60000" chance="0"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag staticattack="50"/>
+		<flag lightlevel="0"/>
+		<flag lightcolor="0"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-91000" max="-10000"/>
+	</attacks>
+	<defenses armor="35" defense="50">
+		<defense name="healing" interval="6000" chance="65" min="200" max="250">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<immunities>
+		<immunity invisible="1"/>
+	</immunities>
+	<loot>
+	<item id="2157" count="3" chance="2500"/>
+	<item id="9020" countmax="1" chance="100"/>	
+    <item id="1987" chance="1">	
+	</item>
+ </loot>
+ <script> <event name="Lethal Lissy"/> </script> 
+</monster>

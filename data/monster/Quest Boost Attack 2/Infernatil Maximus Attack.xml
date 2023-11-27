@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Infernatil Maximus Attack" nameDescription="a infernatil maximus attack" race="fire" experience="1000000" speed="9999" manacost="10000">
+  <health now="890000000" max="890000000"/>
+  <look type="35" corpse="5995"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="90" defense="10"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="600" skill="1" attack="10000000"/>
+    <attack name="manadrain" interval="2000" chance="1000" range="7" min="-2700" max="-3820"/>
+    <attack name="fire" interval="1000" chance="60" range="7" radius="7" target="1" min="-750000" max="-950000">
+		<attribute key="shootEffect" value="fire"/>
+		<attribute key="areaEffect" value="firearea"/>
+	</attack>
+    <attack name="fire" interval="1000" chance="1000" range="7" radius="1" target="1">
+		<attribute key="shootEffect" value="fire"/>
+	</attack>
+    <attack name="lifedrain" interval="1000" chance="1000" length="8" spread="0" min="-3300" max="-4567">
+		<attribute key="areaEffect" value="purpleenergy"/>
+	</attack>
+	<attack name="speed" interval="2000" chance="15" target="1" speedchange="-750" duration="30000">
+		<attribute key="shootEffect" value="suddendeath"/>
+	</attack>
+	<attack name="energy" interval="1300" chance="50" range="1" target="1" min="-750000" max="-850000">
+		<attribute key="areaEffect" value="purpleenergy"/>
+	</attack>
+  </attacks>
+  <defenses armor="55" defense="55">
+    <defense name="healing" interval="4000" chance="15" min="15000" max="20000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+	<defense name="speed" interval="1000" chance="8" speedchange="290" duration="5000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+	<elements>
+		<element physicalPercent="3"/>
+		<element energyPercent="5"/>
+		<element earthPercent="2"/>
+		<element icePercent="-15"/>
+		<element holyPercent="-5"/>
+		<element deathPercent="2"/>
+	</elements>
+  <immunities>
+    <immunity fire="1"/>
+    <immunity drown="1"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <summons maxSummons="1">
+    <summon name="fire elemental" interval="1000" chance="12"/>
+  </summons>
+  <voices interval="5000" chance="10">
+    <voice sentence="MUHAHAHAHA!" yell="1"/>
+    <voice sentence="I SMELL FEEEEEAAAR!" yell="1"/>
+    <voice sentence="CHAMEK ATH UTHUL ARAK!" yell="1"/>
+    <voice sentence="Your resistance is futile!"/>
+    <voice sentence="Your soul will be mine!" yell="0"/>
+  </voices>
+  <loot>
+	</loot> <script>  <event name="teleportVitor"/> </script> 
+</monster>

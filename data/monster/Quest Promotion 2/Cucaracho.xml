@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  <monster name="Cucaracho" nameDescription="a Cucaracho" race="fire" experience="0" speed="8000" manacost="0">
+    <health now="25000000" max="25000000"/>
+    <look type="284" head="0" body="0" legs="0" feet="0" />
+    <targetchange interval="60000" chance="0"/>
+    <strategy attack="65" defense="5"/>
+    <flags>
+      <flag summonable="0"/>
+      <flag attackable="1"/>
+      <flag hostile="1"/>
+      <flag illusionable="0"/>
+      <flag convinceable="0"/>
+      <flag pushable="0"/>
+      <flag canpushitems="1"/>
+      <flag canpushcreatures="1"/>
+      <flag targetdistance="1"/>
+      <flag staticattack="90"/>
+      <flag runonhealth="0"/>
+    </flags>
+    <attacks>
+      <attack name="melee" interval="1000" skill="1" attack="253343" poison="500000"/>
+      <attack name="lifedrain" interval="1000" chance="13" radius="8" target="0" min="-1310" max="-2550">
+        <attribute key="areaEffect" value="mortarea"/>
+      </attack>
+      <attack name="speed" interval="1000" chance="12" radius="6" target="0" speedchange="-850" duration="60000">
+        <attribute key="areaEffect" value="poison"/>
+      </attack>
+      <attack name="strength" interval="1000" chance="12" radius="3" target="0">
+        <attribute key="areaEffect" value="blackspark"/>
+      </attack>
+      <attack name="death" interval="1000" chance="34" range="7" radius="7" target="1" min="-230000" max="-250000">
+        <attribute key="areaEffect" value="mortarea"/>
+      </attack>
+      <attack name="manadrain" interval="1000" chance="7" length="0" spread="3" min="-880" max="-1500">
+        <attribute key="areaEffect" value="energyarea"/>
+      </attack>
+      <attack name="physical" interval="1000" chance="25" length="8" spread="3" min="-230000" max="-250000"/>
+      <attack name="energy" interval="1000" chance="25" length="8" spread="0" min="-220000" max="-230000">
+        <attribute key="areaEffect" value="redshimmer"/>
+      </attack>
+      <attack name="lifedrain" interval="1000" chance="15" length="8" spread="0" min="-1000" max="-1200">
+        <attribute key="areaEffect" value="redshimmer"/>
+      </attack>
+    </attacks>
+    <defenses armor="200" defense="165">
+      <defense name="healing" interval="1000" chance="15" min="700" max="2000">
+        <attribute key="areaEffect" value="blueshimmer"/>
+      </defense>
+      <defense name="speed" interval="2000" chance="8" speedchange="360" duration="6000">
+        <attribute key="areaEffect" value="redshimmer"/>
+      </defense>
+    </defenses>
+    <immunities>
+      <immunity physical="0"/>
+      <immunity energy="1"/>
+      <immunity fire="1"/>
+      <immunity poison="1"/>
+      <immunity lifedrain="1"/>
+      <immunity paralyze="1"/>
+      <immunity outfit="1"/>
+      <immunity drunk="1"/>
+      <immunity invisible="1"/>
+    </immunities>
+    <voices interval="1000" chance="10">
+      <voice sentence="Hago gritar mas a tu novia que tu!" yell="1"/>
+      <voice sentence="Jejeje te asuste?" yell="1"/>
+      <voice sentence="Hay te voy,perra" yell="1"/>
+      <voice sentence="Te toco la cucaracha" yell="1"/>
+    </voices>
+  </monster>

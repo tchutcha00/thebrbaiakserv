@@ -1,0 +1,49 @@
+[Elfbot hotkeys]
+
+-----------------------------
+1- Full attack speed:
+
+auto 1 attack target
+-----------------------------
+2- Hotkey de EXP POTION (abra a bp)
+
+auto 60000 useitem 6541 | useitem 6542 | useitem 6543 | useitem 6544 | useitem 6545 | useitem 3215 | useitem 11682 | useitem 942
+-----------------------------
+
+3- Hotkey De Mana Rune
+
+auto 10  setcolor 2 225 100 | listas 'Mana Rune' | if [$mppc< 95] useoncreature 3163 self
+-----------------------------
+
+4- Hotkey De Fusion SD
+
+auto 10  setcolor 4 777 700 | listas 'Fusion SD' | useoncreature 3150 target
+-----------------------------
+5- Utamo vita (sem cair pra life)
+
+ auto 30000 say "utamo vita"
+-----------------------------
+6- Strong Haste
+
+auto 200 listas 'Auto Strong Haste' | if [$mp >= 100 && $inpz==0] stronghaste 
+-----------------------------
+7- Auto dance
+
+auto 5 listas 'Psy Trance' | wait 5 |turnn| wait 5 |turnw| wait 5 |turns| wait 5|turne
+-----------------------------
+8- PAUSAR ELFBOT
+
+if [$targetingon || $caveboton] {statusmessage 'ElfBot NG - CaveBot Paused' | stopattack | settargeting off | setcavebot off | wait 400 | end} | if [$targetingon == 0 || $caveboton == 0] {statusmessage 'ElfBot NG - CaveBot Resumed' | settargeting on | setcavebot on | wait 400}
+-----------------------------
+9- [Auto Re-Conect] reconecta automaticamnete e abre backpack e usa !bless
+
+auto 1000 listas 'BY EXTREME :: Re-Conect' | setcolor 051 204 000 | if [$ss != 1] {if [$sstime != 0] set $ss 1} | if [$connected != 1 && $ss == 1] {wait (20 * 60 * 1000) | reconnect | wait 2000 | openbpitem | set $ss 0} | if [$connected != 1 && $ss != 1] {reconnect | wait 2000 | openbpitem | wait 2000 | say "!bless"}
+
+10 - Ative essas duas hotkeys para minerar:
+auto 1 listas 'MineSystem' | setcolor 255 215 0 | useongrounditem 3456 10870
+---------------------------------------------------------
+auto 5 listas 'Psy Trance' | wait 5 |turnn| wait 5 |turnw| wait 5 |turns| wait 5|turne 
+
+11 - Hotkey De Desbugar SQM (Quando seu char fica travado e ele não anda)
+
+auto 200 if [$standtime >- 1*1000] {movee | moven | moves | movew | movene | movenw | movese | movesw}

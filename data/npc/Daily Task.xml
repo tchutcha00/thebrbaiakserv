@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<npc name="[VIP] Daily Task" script="data/npc/scripts/Daily Task.lua" walkinterval="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="144" head="58" body="120" legs="95" feet="132" addons="3"/>
+<parameters>
+<parameter key="message_greet" value="|PLAYERNAME|, diga-me {daily task} para você começar uma task diária ou diga {report} para saber quantos bixos faltam, cada task diária que você termina você ganha EXP Potions, os bixos vem aleatoriamente!" />
+</parameters>
+</npc>

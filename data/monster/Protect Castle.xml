@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Protect Castle" nameDescription="a Protect Castle" race="undead" experience="2500" speed="0" manacost="0">
+  <health now="105000000" max="105000000"/>
+  <look typeex="9786"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="7"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="10"/>
+	<flag hidename="1"/>
+	<flag ignorespawnboost="1"/>
+  </flags>
+	<attacks>
+		<attack name="energy" interval="1200" chance="75" target="3" range="7" min="-5000" max="-6010">
+			<attribute key="areaEffect" value="teleport"/>		
+			<attribute key="shootEffect" value="energyball"/>
+		</attack>
+		<attack name="fire" interval="1300" chance="75" target="3" range="7" min="-5000" max="-6010">
+			<attribute key="areaEffect" value="fireattack"/>		
+			<attribute key="shootEffect" value="energyball"/>
+		</attack>
+	</attacks>
+  	<defenses armor="50" defense="50">
+	    <defense name="outfit" interval="1200" chance="90" typeex="9786" head="94" body="5" legs="7" feet="2" duration="1000"> 
+        <attribute key="areaEffect" value="greenshimmer"/>        
+        </defense>
+		 <defense name="outfit" interval="1300" chance="80" typeex="9784" head="94" body="5" legs="7" feet="2" duration="1000"> 
+        <attribute key="areaEffect" value="greenshimmer"/>        
+        </defense>		 
+		<defense name="outfit" interval="1400" chance="70" typeex="9787" head="114" body="114" legs="7" feet="2" duration="1000"> 
+        <attribute key="areaEffect" value="greenshimmer"/>        
+        </defense>
+		<defense name="outfit" interval="1500" chance="60" typeex="9785" head="97" body="122" legs="7" feet="2" duration="1000"> 
+        <attribute key="areaEffect" value="greenshimmer"/>        
+        </defense>
+		<defense name="invisible" interval="3500000" chance="0" duration="8000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+  <elements>
+	<element icePercent="+50"/>
+	<element firePercent="+50"/>
+	<element holyPercent="+50"/>
+	<element deathPercent="+50"/>
+	<element physicalPercent="+50"/>
+	<element earthpercent="+50"/>
+	<element energyPercent="+50"/>
+  </elements>
+  <immunities>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="1"/>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="5000" chance="10">
+  </voices>
+  <loot>
+  </loot>
+</monster>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Prince Drazzak" nameDescription="Prince Drazzak" race="fire" experience="55000000" speed="2000" manacost="0">
+	<health now="1500000" max="1500000"/>
+	<look type="300" head="77" body="78" legs="94" feet="54" addons="0" corpse="8955"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="10"/>
+	<flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1200" skill="1" attack="3500"/>
+		
+		<attack name="death" interval="1000" chance="18" length="8" spread="0" min="-5400" max="-5600">
+			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+	</attacks>
+	<defenses armor="55" defense="65">
+		<defense name="healing" interval="2000" chance="15" min="1500" max="3000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+		</defenses>
+	<elements>
+		<element firePercent="30"/>
+		<element earthPercent="30"/>
+		<element deathPercent="30"/>
+		<element icePercent="30"/>
+		<element energyPercent="30"/>
+		<element holyPercent="30"/>
+		<element physicalPercent="30"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+		<immunity lifedrain="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="2000" chance="5">
+		<voice sentence="EVEN WITH ALL THAT TIME IN THE PRISON THAT WEAKEND ME, YOU ARE NO MATCH TO ME!" yell="1"/>
+		<voice sentence="VARIPHOR WILL RULE!" yell="1"/>
+		<voice sentence="THEY WILL ALL PAY!" yell="1"/>
+		<voice sentence="NOT EVEN AEONS OF IMPRISONMENT WILL STOP ME!" yell="1"/>
+		<voice sentence="They used you fools to escape and they left ME behind!!??"/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

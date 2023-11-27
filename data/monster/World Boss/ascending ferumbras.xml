@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Ascending Ferumbras" nameDescription="Ascending Ferumbras" race="blood" experience="0" speed="360" manacost="0">
+	<health now="1900000000" max="1900000000"/>
+	<look type="229" corpse="0"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<script>
+		<event name="AsceFerumbras"/>
+	</script>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="3"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="2500"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1200" min="-610000" max="-715000"/>
+		<attack name="manadrain" interval="2000" chance="20" range="7" min="-100" max="-300">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="poison" interval="1300" chance="20" radius="6" target="0" min="-610000" max="-715000">
+			<attribute key="areaEffect" value="poison"/>
+		</attack>
+		<attack name="energy" interval="2000" chance="18" radius="6" target="0" min="-610000" max="-715000">
+			<attribute key="areaEffect" value="energy"/>
+		</attack>
+		<attack name="manadrain" interval="2000" chance="16" radius="6" target="0" min="-425" max="-875">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="lifedrain" interval="2000" chance="21" radius="6" target="0" min="-200" max="-400">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="effect" interval="3000" chance="20" radius="5" target="0" min="-400" max="-900">
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="firecondition" interval="1200" chance="30" range="7" radius="7" target="1" min="-610000" max="-715000">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="lifedrain" interval="2000" chance="25" length="8" spread="0" min="-150" max="-500">
+			<attribute key="areaEffect" value="greenspark"/>
+		</attack>
+	</attacks>
+	<defenses armor="100" defense="120">
+		<defense name="speed" interval="10000" chance="30" speedchange="440" duration="7000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="invisible" interval="10000" chance="20" duration="2000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element firePercent="90"/>
+	</elements>
+	<immunities>
+		<immunity lifedrain="1"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="20">
+		<voice sentence="ARGH!" yell="1"/>
+		<voice sentence="Witness my rise to godhood you fools!" yell="1"/>
+	</voices>
+</monster>

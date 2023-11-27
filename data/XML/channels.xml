@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+	<channel id="1" name="Party"/>
+	<channel id="2" name="Staff" access="1"/>
+	<channel id="3" name="Rule Violations" logged="yes"/>
+	<channel id="4" name="Counselor" access="1"/>
+	<channel id="5" name="Game-Chat" level="2"/>
+	<channel id="6" name="Trade" level="100" muted="120" conditionId="5" conditionMessage="You may only place one offer in two minutes.">
+		<vocation id="1-12"/>
+	</channel>
+	<channel id="7" name="Trade-Rookgaard" level="2" muted="120" conditionId="3" conditionMessage="You may only place one offer in two minutes.">
+		<vocation id="0"/>
+	</channel>
+	<channel id="8" name="RL-Chat" level="2"/>
+	<channel id="9" name="Help" level="1000" muted="120" conditionId="4" conditionMessage="Aguarde antes de mandar outra mensagem aqui." logged="yes"/>
+	<channel id="10" name="Mortes" active="no" logged="yes" level="10000"/>
+	<channel id="11" name="Brigas" conditionId="6" muted="15" conditionMessage="Só pode chingar a cada 15 segundos."/>
+	<channel id="13" name="Quests" muted="40" conditionId="7" conditionMessage="Só pode falar a cada 40 segundos."/>
+	
+	<!-- não mude esses IDs -->
+	<channel id="75" name="Default Copy" access="3"/>
+	<channel id="76" name="Private Copy" access="3"/>
+	
+	<channel id="240" name="Players Muted" access="5" logged="yes"/>
+	<channel id="65535" name="Private Chat Channel"/>
+</channels>

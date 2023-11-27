@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="[NPC] Boss Token" nameDescription="boss token" script="coin base.lua" walkinterval="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="229" head="0" body="29" legs="29" feet="0" addons="2"/>
+	<parameters>
+		<parameter key="coinId" value="6527" />
+		<parameter key="message_greet" value="Olá |PLAYERNAME|. Eu vendo alguns itens interessantes por {event coins}, diga {trade} para ver o que tenho a lhe oferecer."/>
+		<parameter key="message_sendtrade" value="Aqui está! Algo que lhe interessa?" />
+		<parameter key="message_farewell" value="Até mais, |PLAYERNAME|." />
+		<parameter key="message_idletimeout" value="Até mais, |PLAYERNAME|." />
+		<parameter key="message_walkaway" value="Até mais, |PLAYERNAME|." />
+		<parameter key="message_walkaway_male" value="Até mais, |PLAYERNAME|." />
+		<parameter key="message_walkaway_female" value="Até mais, |PLAYERNAME|." />
+	</parameters>
+</npc>

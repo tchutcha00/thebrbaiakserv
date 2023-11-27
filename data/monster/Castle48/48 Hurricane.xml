@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="[CastleWAR] Hurricane" nameDescription="a hurricane" race="fire" experience="990000000" speed="9000" manacost="0">
+<health now="4000000" max="4000000"/>
+<look type="123" corpse="6049"/>
+<targetchange interval="10000" chance="5"/>
+<strategy attack="5000" defense="0"/>
+<flags>
+<flag summonable="0"/>
+<flag attackable="1"/>
+<flag hostile="1"/>
+<flag illusionable="0"/>
+<flag convinceable="0"/>
+<flag pushable="0"/>
+<flag canpushitems="1"/>
+<flag canpushcreatures="1"/>
+<flag staticattack="85"/>
+<flag targetdistance="1"/>
+<flag runonhealth="0"/>
+</flags>
+<attacks>
+<attack name="melee" interval="1300" skill="1" attack="300000"/>
+<attack name="fire" interval="1200" chance="13" range="7" radius="8" target="1" min="-265000" max="-285000">
+<attribute key="shootEffect" value="fire"/>
+<attribute key="areaEffect" value="firearea"/>
+</attack>
+<attack name="lifedrain" interval="3000" chance="18" radius="8" target="0" min="-6500" max="-8900">
+<attribute key="areaEffect" value="rednote"/>
+</attack>
+<attack name="death" interval="1430" chance="15" radius="8" target="0" min="-235000" max="-248600">
+<attribute key="areaEffect" value="mortarea"/>
+</attack>
+<attack name="death" interval="1100" chance="16" length="8" spread="0" min="-245000" max="-285000">
+<attribute key="areaEffect" value="mortarea"/>
+</attack>
+<attack name="speed" interval="3000" chance="25" target="1" speedchange="-800" duration="4000">
+<attribute key="areaEffect" value="redshimmer"/>
+</attack>
+</attacks>
+<defenses armor="70" defense="70">
+<defense name="healing" interval="1000" chance="18" min="3000" max="7000">
+<attribute key="areaEffect" value="blueshimmer"/>
+</defense>
+</defenses>
+<elements>
+<element physicalPercent="20"/>
+<element icePercent="-20"/>
+<element deathPercent="35"/>
+</elements>
+<immunities>
+<immunity energy="1"/>
+<immunity fire="1"/>
+<immunity poison="1"/>
+<immunity lifedrain="1"/>
+<immunity paralyze="1"/>
+<immunity invisible="1"/>
+</immunities>
+<summons maxSummons="0">
+</summons>
+<voices interval="5000" chance="10">
+</voices>
+<loot>
+<item id="2160" countmin="15" countmax="25" chance="5500"/>
+</loot>
+
+</monster>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="The Destroyer" nameDescription="a the destroyer" race="blood" experience="2500" speed="9000" manacost="0">
+	<health now="97000000" max="97000000"/>
+	<look type="236" corpse="6320"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag ignorespawnboost="1"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" skill="1" attack="760000"/>
+		<attack name="physical" interval="1000" chance="15" range="7" min="-680000" max="-850000">
+			<attribute key="shootEffect" value="smallstone"/>
+		</attack>
+	</attacks>
+	<defenses armor="30" defense="35">
+		<defense name="speed" interval="1000" chance="7" speedchange="380" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="25"/>
+		<element deathPercent="20"/>
+		<element firePercent="30"/>
+		<element earthPercent="20"/>
+		<element holyPercent="-3"/>
+		<element icePercent="-15"/>
+	</elements>
+	<immunities>
+		<immunity energy="1"/>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="10">
+		<voice sentence="COME HERE AND DIE!"/>
+		<voice sentence="Destructiooooon!"/>
+		<voice sentence="It's a good day to destroy!"/>
+	</voices>
+</monster>

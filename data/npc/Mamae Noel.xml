@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mamae Noel" script="data/npc/scripts/Mamae Noel.lua" walkinterval="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="252" head="0" body="94" legs="94" feet="0" addons="2"/>
+<parameters>
+<parameter key="message_greet" value="Ho Ho Ho! Feliz natal |PLAYERNAME|! Eu posso trocar {christmas surprise bag} por exp potions aleatorio."/>
+</parameters>
+</npc>

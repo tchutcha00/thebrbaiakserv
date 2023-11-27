@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Man In The Cave" nameDescription="man in the cave" race="blood" experience="65000000" speed="9999" manacost="0">
+	<health now="1500000" max="1500000" />                                                     
+	<look type="231" head="77" body="59" legs="20" feet="116" addons="1" corpse="6068" />
+	<targetchange interval="5000" chance="8" />
+	<flags>
+		<flag summonable="0" />
+		<flag attackable="1" />
+		<flag hostile="1" />
+		<flag illusionable="0" />
+		<flag convinceable="0" />
+		<flag pushable="0" />
+		<flag canpushitems="1" />
+		<flag canpushcreatures="0" />
+		<flag targetdistance="1" />
+		<flag staticattack="90" />
+		<flag runonhealth="50" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-4999" max="-5235" />
+		<attack name="physical" interval="1300" chance="20" range="7" min="-3450" max="-3600">
+			<attribute key="shootEffect" value="smallstone" />
+		</attack>
+	</attacks>
+	<defenses armor="15" defense="15">
+		<defense name="speed" interval="1200" chance="12" speedchange="250" duration="4000">
+			<attribute key="areaEffect" value="redshimmer" />
+		</defense>
+		<defense name="healing" interval="2000" chance="25" min="10" max="50">
+			<attribute key="areaEffect" value="blueshimmer" />
+		</defense>
+	</defenses>
+	<immunities>
+		<immunity invisible="1" />
+	</immunities>
+	<voices interval="2000" chance="5">
+		<voice sentence="THE MONKS ARE MINE" yell="1" />
+		<voice sentence="I will rope you up! All of you!" />
+		<voice sentence="You have been roped up!" />
+		<voice sentence="A MIC to rule them all!" />
+	</voices>
+	<summons maxSummons="0">
+		<summon name="Monk" interval="2000" chance="20" />
+	</summons>
+	<loot>
+	</loot>
+</monster>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="King Of The Hell" nameDescription="a king of the hell" race="fire" experience="65000000" speed="1000" manacost="0">
+  <health now="1500000" max="1500000"/>
+  <look type="332" corpse="5995"/>
+  <targetchange interval="5000" chance="20"/>
+  <strategy attack="65" defense="5"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1500" skill="1" attack="19000"/>
+    <attack name="death" interval="1000" chance="50" target="1" range="1" min="-19000" max="-19100">
+	  <attribute key="shootEffect" value="suddendeath"/>
+    </attack>
+    <attack name="speed" interval="1000" chance="12" radius="6" target="0" speedchange="-350" duration="60000">
+      <attribute key="areaEffect" value="poison"/>
+    </attack>
+    <attack name="fire" interval="1000" chance="99" range="7" target="1" min="-19000" max="-19100">
+      <attribute key="shootEffect" value="fire"/>
+      <attribute key="areaEffect" value="firearea"/>
+    </attack>
+    <attack name="manadrain" interval="1000" chance="8" radius="10" target="0" min="-19000" max="-14100">
+      <attribute key="areaEffect" value="energyarea"/>
+    </attack>
+    <attack name="energy" interval="1000" chance="9" length="8" spread="0" min="-19000" max="-19100">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </attack>
+    <attack name="poisoncondition" interval="1000" chance="18" length="0" spread="0" min="-19000" max="-19100">
+      <attribute key="areaEffect" value="greenspark"/>
+    </attack>
+    <attack name="lifedrain" interval="1000" chance="6" radius="14" target="0" min="-420" max="-452">
+      <attribute key="areaEffect" value="greenshimmer"/>
+    </attack>
+  </attacks>
+  <defenses armor="188" defense="145">
+    <defense name="healing" interval="1000" chance="15" min="100" max="3000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+    <defense name="speed" interval="2000" chance="8" speedchange="480" duration="6000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="1"/>
+    <immunity fire="1"/>
+    <immunity poison="1"/>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="1"/>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+	<loot>
+		<item id="2472" chance="3000"/><!-- magic plate armor -->
+		<item id="2160" countmax="3" chance="3000"/>
+	</loot>
+</monster>

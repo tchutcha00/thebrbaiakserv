@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="The Dark Torturer" nameDescription="a the dark torturer" race="blood" experience="4650" speed="9000" manacost="0">
+	<health now="97000000" max="97000000"/>
+	<look type="234" corpse="6328"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag ignorespawnboost="1"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" skill="1" attack="560000"/>
+		<attack name="physical" interval="1100" chance="45" range="7" min="-660000" max="-850000">
+			<attribute key="shootEffect" value="throwingknife"/>
+		</attack>
+		<attack name="physical" interval="900" chance="40" length="4" spread="3" min="-760000" max="-860000">
+			<attribute key="areaEffect" value="purplenote"/>
+		</attack>
+	</attacks>
+	<defenses armor="25" defense="35">
+		<defense name="healing" interval="1000" chance="50" min="75" max="125">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element earthPercent="90"/>
+		<element energyPercent="30"/>
+		<element deathPercent="10"/>
+		<element icePercent="-10"/>
+		<element holyPercent="-10"/>
+	</elements>
+	<immunities>
+		<immunity fire="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="3000" chance="30">
+		<voice sentence="You like it, don't you?"/>
+		<voice sentence="IahaEhheAie!"/>
+		<voice sentence="It's party time!"/>
+		<voice sentence="Harrr, Harrr!"/>
+		<voice sentence="The torturer is in!"/>
+	</voices>
+</monster>

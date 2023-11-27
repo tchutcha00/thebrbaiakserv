@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<npc name="Dodge/Critical" script="data/npc/scripts/default.lua" walkinterval="2000">
+	<health now="100" max="100"/>
+<look type="152" head="0" body="114" legs="0" feet="0" addons="3"/>
+
+	<parameters>
+
+		<parameter key="module_shop" value="1"/> 
+		<parameter key="shop_buyable" value="dodge stone,12372,150000000;critical feather,12601,150000000"/>
+
+	</parameters>
+
+
+</npc>

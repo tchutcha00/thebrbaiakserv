@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Mage Jungle" nameDescription="a mage jungle" race="blood" experience="65000000" speed="1000" manacost="0">
+  <health now="1500000" max="1500000"/>
+  <look type="117" corpse="6044"/>
+  <targetchange interval="5000" chance="20"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="10"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1000" skill="2" attack="19000"/>
+  </attacks>
+  <defenses armor="18" defense="14">
+    <defense name="speed" interval="1000" chance="7" speedchange="260" duration="3000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+      <elements>
+	<element firePercent="20"/>
+	<element holyPercent="20"/>
+	<element energyPercent="20"/>
+	<element icePercent="20"/>
+	<element deathPercent="20"/>
+  </elements>
+  <immunities>
+  <immunity paralyze="1"/>
+  <immunity invisible="1"/>
+  </immunities>
+  <voices interval="5000" chance="10">
+    <voice sentence="Hugah!"/>
+    <voice sentence="Ungh! Ungh!"/>
+    <voice sentence="Huaauaauaauaa!"/>
+  </voices>
+  <loot>
+ 		<item id="2498" chance="3000"/><!-- blue robe -->
+		<item id="2160" countmax="5" chance="3000"/><!-- crystal coin -->
+  </loot>
+</monster>

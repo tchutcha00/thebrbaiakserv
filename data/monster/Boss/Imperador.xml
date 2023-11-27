@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Imperador" nameDescription="a imperador" race="fire" experience="8550000" speed="9999" manacost="0">
+	<health now="9800000" max="9800000"/>
+	<look type="12" corpse="5995"/>
+	<targetchange interval="1500" chance="8"/>
+	<strategy attack="100" defense="40"/>
+	<flags>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="40"/>
+		<flag runonhealth="0"/>
+		<flag targetdistance="1"/>
+		<flag skull="5"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="500" skill="1" attack="130"/>
+		<attack name="manadrain" interval="10000" chance="13" range="7" min="-0" max="-0"/>
+		<attack name="fire" interval="1000" chance="1100" range="7" radius="7" target="1" min="-92000" max="-93000">
+			<attribute key="shootEffect" value="ice"/>
+		</attack>
+			<attack name="fire" interval="1000" chance="1000" range="7" radius="7" target="1" min="-0" max="-0">
+			<attribute key="shootEffect" value="fire"/>
+		</attack>
+			<attack name="ice" interval="1000" chance="1200" range="7" radius="7" target="1" min="-0" max="-0">
+			<attribute key="shootEffect" value="suddendeath"/>
+		</attack>
+			<attack name="fire" interval="1800" chance="15" range="5" radius="7" target="1" min="-96000" max="-98000">
+			<attribute key="shootEffect" value="fire"/>
+		</attack>
+		<attack name="firefield" interval="800" chance="15" range="7" radius="1" target="1">
+			<attribute key="shootEffect" value="fire"/>
+		</attack>
+		<attack name="energy" interval="100000" chance="0" length="8" spread="0" min="-90000" max="-91000">
+			<attribute key="areaEffect" value="energy"/>
+		</attack>
+	</attacks>
+	<elements>
+		<element firePercent="100"/>
+		<element physicalPercent="25"/>
+		<element earthpercent="25"/>
+		<element energyPercent="25"/>
+		<element deathPercent="25"/>
+		<element icePercent="25"/>
+		<element holyPercent="25"/>
+	</elements>
+	<immunities>
+		<immunity lifedrain="1"/>
+		<immunity drown="1"/>
+		<immunity paralyze="1"/>
+		<immunity invisible="1"/>
+		<immunity energy="1"/>
+		<immunity fire="1"/>
+		<immunity manadrain="1"/>
+	</immunities>
+	<loot>
+	<item id="2157" count="3" chance="2500"/>
+	<item id="9020" countmax="1" chance="100"/>	
+    <item id="1987" chance="1">	
+	</item>
+ </loot>
+	<script> <event name="imperador"/> </script> 
+</monster>

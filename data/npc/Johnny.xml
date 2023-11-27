@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Johnny Promotion" script="data/npc/scripts/promotion.lua" walkinterval="2000" floorchange="0">
+	<mana now="800" max="800"/>
+	<health now="200" max="200"/>
+	<look type="332" head="20" body="39" legs="45" feet="7" addons="0"/>
+</npc>

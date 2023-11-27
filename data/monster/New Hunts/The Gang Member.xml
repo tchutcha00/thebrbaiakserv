@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="The Gang Member" nameDescription="a the gang member" race="blood" experience="65000000" speed="1000" manacost="420">
+	<health now="1500000" max="1500000"/>
+	<look type="151" head="114" body="19" legs="42" feet="20" corpse="3058"/>
+	<targetchange interval="2000" chance="0"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag staticattack="90"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="45"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1300" skill="1" attack="18000"/>
+	</attacks>
+	<defenses armor="14" defense="16"/>
+	<elements>
+		<element deathPercent="-10"/>
+	</elements>
+	<voices interval="5000" chance="10">
+		<voice sentence="This is our territory!"/>
+		<voice sentence="Help me guys!"/>
+		<voice sentence="I don't like the way you look!"/>
+		<voice sentence="You're wearing the wrong colours!"/>
+	</voices>
+	<loot>
+	<item id="2498" chance="3000" /> -- royal helmet
+	<item id="2160" countmax="3" chance="3000"/><!-- crystal coin -->
+	</loot>
+</monster>

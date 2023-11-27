@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Viajante" script="data/npc/scripts/supervip.lua" walkinterval="0" floorchange="0" emblem="3">
+<health now="100" max="100"/>
+<look type="152" head="21" body="1" legs="76" feet="25" addons="3"/>
+	<parameters>
+	<parameter key="message_greet" value="Ola, voce gostaria de {viajar} para ilha super vip?" />
+	</parameters>
+</npc>

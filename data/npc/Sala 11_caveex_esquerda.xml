@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Sala 11" script="esquerda_caveex.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="355"/>
+<voices>
+<voice text="SOULEATER!!!" interval2="2000" margin="1" yell="no"/>
+<voice text="COMPRE POTIONS E RUNAS AQUI!" interval2="3000" margin="1" yell="no"/>
+</voices>
+</npc>

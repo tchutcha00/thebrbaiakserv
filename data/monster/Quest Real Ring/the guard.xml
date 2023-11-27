@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="The Guard" nameDescription="a the guard" race="venom" experience="5000" speed="99999" manacost="420">
+  <health now="15000000" max="15000000"/>
+  <look type="70" head="20" body="30" legs="40" feet="50" corpse="7349"/>
+  <targetchange interval="50" chance="0"/>
+  <strategy attack="80" defense="20"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="1"/>
+    <flag pushable="1"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="8"/>
+    <flag ignorespawnboost="1"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1200" skill="2" attack="85000"/>
+    <attack name="physical" interval="1100" chance="15" range="7" min="-80000" max="-90000">
+      <attribute key="shootEffect" value="largerock"/>
+    </attack>
+    <attack name="fire" interval="1300" chance="3000" range="7" min="-83000" max="-92000">
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+    <attack name="death" interval="1400" chance="50" range="7" min="-86000" max="-89000">
+      <attribute key="shootEffect" value="suddendeath"/>
+      <attribute key="areaEffect" value="mortarea"/>
+    </attack>
+    <attack name="poison" interval="2500" chance="2500" range="7" min="-93000" max="-96000">
+      <attribute key="shootEffect" value="poison"/>
+    </attack>
+    <attack name="lifedrain" interval="9700" chance="9700" range="7" min="-1700" max="-1750">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </attack>
+    <attack name="manadrain" interval="9700" chance="9700" range="7" min="-1750" max="-1800">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </attack>
+  </attacks>
+  <defenses armor="1" defense="4"/>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="0"/>
+    <immunity fire="1"/>
+    <immunity poison="1"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="0"/>
+    <immunity outfit="0"/>
+    <immunity drunk="0"/>
+    <immunity invisible="1"/>
+    <immunity death="1"/>
+  </immunities>
+    <voices interval="20" chance="5">
+      <voice sentence="IM AN ARCHER AND DRUID!!!"/>
+      <voice sentence="KISS MY ASS!"/>
+      <voice sentence="You follow ARCHDRUID then you die TOO!"/>
+    </voices> 
+</monster>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Fallen Mooh'tah Master Ghar" nameDescription="fallen mooh'tah master ghar" race="blood" experience="9999" speed="9999">
+	<health now="35000000" max="35000000"/>
+	<look type="29" corpse="7349"/>
+	<targetchange interval="2000" chance="5"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag staticattack="78"/>
+		<flag ignorespawnboost="1"/>
+	</flags>
+<attacks>
+   <attack name="melee" interval="2000" skill="130" attack="335"/>
+   <attack name="manadrain" interval="2000" chance="48" radius="8" target="0" min="-157000" max="-158000">
+      <attribute key="areaEffect" value="bluebubble"/>
+   </attack>
+   <attack name="physical" interval="2000" chance="100" range="4" target="1" radius="4" min="-150000" max="-155000">
+      <attribute key="areaEffect" value="teleport"/>
+   </attack>
+   <attack name="physical" interval="2000" chance="60" range="2" target="1" min="-155000" max="-158000">
+      <attribute key="shootEffect" value="whirlwindsword"/>
+   </attack>
+   <attack name="death" interval="2000" chance="55" length="8" spread="0" min="-156000" max="-15700">
+      <attribute key="areaEffect" value="mortarea"/>
+   </attack>
+   <attack name="ice" interval="2000" chance="58" radius="6" target="0" min="-152000" max="-153500">
+      <attribute key="areaEffect" value="bigplants"/>
+   </attack>
+    </attacks>
+	<defenses armor="30" defense="33"/>
+	<immunities>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="2000" chance="5">
+		<voice sentence="I will finish you!"/>
+		<voice sentence="You are no match for a master of the Mooh'Tha!"/>
+		<voice sentence="I might be fallen but you will fall before me!"/>
+	</voices>
+</monster>

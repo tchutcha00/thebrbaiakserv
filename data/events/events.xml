@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+	<!-- Player methods -->
+	<event file="Player" function="onGainExperience" enabled="1" />
+
+</events>

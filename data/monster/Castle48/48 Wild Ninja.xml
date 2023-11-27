@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="[CastleWAR] Wild Ninja" nameDescription="a wild ninja" race="fire" experience="990000000" speed="2000" manacost="10000">
+  <health now="2500000" max="2500000"/>
+    <look type="152" head="81" body="81" legs="81" feet="81" addons="3" corpse="6080"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="90" defense="10"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="1000" skill="1" attack="62000"/>
+    <attack name="manadrain" interval="2000" chance="13" range="7" min="15000" max="-16000"/>
+    <attack name="lifedrain" interval="1000" chance="12" length="8" spread="0" min="-15000" max="-16000">
+		<attribute key="areaEffect" value="purpleenergy"/>
+	</attack>
+	<attack name="speed" interval="2000" chance="15" target="1" speedchange="-750" duration="30000">
+		<attribute key="shootEffect" value="suddendeath"/>
+	</attack>
+	<attack name="energy" interval="1500" chance="10" range="1" target="1" min="-55000" max="-65000">
+		<attribute key="areaEffect" value="purpleenergy"/>
+	</attack>
+  </attacks>
+  <defenses armor="55" defense="55">
+    <defense name="healing" interval="2000" chance="15" min="130" max="240">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+	<defense name="speed" interval="1000" chance="8" speedchange="290" duration="5000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+	<elements>
+		<element physicalPercent="30"/>
+		<element energyPercent="50"/>
+		<element earthPercent="20"/>
+		<element icePercent="-15"/>
+		<element holyPercent="-15"/>
+		<element deathPercent="20"/>
+	</elements>
+  <immunities>
+    <immunity fire="1"/>
+    <immunity drown="1"/>
+    <immunity paralyze="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="5000" chance="10">
+    <voice sentence="MUHAHAHAHA!" yell="1"/>
+    <voice sentence="I SMELL FEEEEEAAAR!" yell="1"/>
+    <voice sentence="CHAMEK ATH UTHUL ARAK!" yell="1"/>
+    <voice sentence="Your resistance is futile!"/>
+    <voice sentence="Your soul will be mine!" yell="0"/>
+  </voices>
+  <loot>
+	<item id="2160" countmax="5" chance="5320" />
+</loot>
+</monster>

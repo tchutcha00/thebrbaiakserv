@@ -1,0 +1,1 @@
+dofile(getDataDir() .. "lib/internal/034-exhaustion.lua")

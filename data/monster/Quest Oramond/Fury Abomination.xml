@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Fury Abomination" nameDescription="a fury abomination" race="blood" experience="14900" speed="2000" manacost="0">
+  <health now="1000000000" max="1000000000"/>
+  <look type="149" head="94" body="77" legs="96" feet="0" addons="3" corpse="6081"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="800" skill="1" attack="2150000" fire="110"/>
+    <attack name="death" interval="900" chance="30" range="7" target="1" min="-2150000" max="-2350000">
+		<attribute key="shootEffect" value="suddendeath"/>
+	</attack>
+	<attack name="melee" interval="900" chance="30" radius="3" target="0" min="-2150000" max="-2350000">
+		<attribute key="areaEffect" value="blackspark"/>
+	</attack>
+	<attack name="death" interval="850" chance="35" length="8" spread="0" min="-2150000" max="-2250000">
+		<attribute key="areaEffect" value="redspark"/>
+	</attack>
+	<attack name="physical" interval="700" chance="30" range="7" radius="4" target="1" min="2150000" max="-2450000">
+		<attribute key="shootEffect" value="fire"/>
+      	<attribute key="areaEffect" value="redspark"/>
+   	</attack>
+    <attack name="fire" interval="850" chance="35" length="7" spread="3" min="-2150000" max="-2350000">
+      <attribute key="areaEffect" value="explosionarea"/>
+    </attack>
+  </attacks>
+  <defenses armor="35" defense="35"/>
+  <elements>
+		<element physicalPercent="-15"/>
+		<element energyPercent="-10"/>
+		<element earthPercent="-8"/>
+		<element icePercent="15"/>
+		<element holyPercent="10"/>
+		<element deathPercent="-10"/>
+	</elements>              
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="0"/>
+    <immunity fire="1"/>
+    <immunity poison="0"/>
+    <immunity lifedrain="1"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="1"/>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <voices interval="3000" chance="10">
+    <voice sentence="Fire hot!"/>
+    <voice sentence="Ahhhhrrrrr"/>
+    <voice sentence="Carnage!"/>
+  </voices>
+</monster>

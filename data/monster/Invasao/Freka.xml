@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Freka" nameDescription="a freka" race="undead" experience="1500" speed="450" manacost="0">
+	<health now="550000" max="550000"/>
+	<look type="131" head="0" body="0" legs="0" feet="0" addons="3" corpse="6080"/>
+	<targetchange interval="10000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag staticattack="98"/>
+		<flag targetdistance="1"/>
+		<flag runonhealth="10000"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1200" min="-3500" max="-3800"/>
+		<attack name="melee" interval="1200" chance="60" range="7" radius="1" target="0" min="-3000" max="-3200">
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="melee" interval="1200" chance="74" range="7" radius="1" target="1" min="-3500" max="-4800">
+			<attribute key="shootEffect" value="whirlwindsword"/>
+			<attribute key="areaEffect" value="redspark"/>
+		</attack>
+		<attack name="energy" interval="1200" chance="70" length="1" spread="0" min="-3200" max="-3500">
+			<attribute key="areaEffect" value="mortarea"/>
+		</attack>
+		<attack name="physical" interval="1200" chance="100" range="14" radius="1" target="0" min="-3800" max="-3800">
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="physical" interval="1200" chance="85" range="7" radius="1" target="0" min="-3300" max="-3900">
+			<attribute key="areaEffect" value="yellowspark"/>
+		</attack>
+	</attacks>
+	<defenses armor="55" defense="65">
+		<defense name="healing" interval="800" chance="100" min="1000" max="1500">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="speed" interval="4000" chance="100" speedchange="440" duration="6000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<immunities>
+		<immunity physical="0"/>
+		<immunity energy="1"/>
+		<immunity fire="0"/>
+		<immunity poison="1"/>
+		<immunity lifedrain="1"/>
+		<immunity paralyze="1"/>
+		<immunity outfit="0"/>
+		<immunity drunk="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="30">
+	</voices>
+	<loot>
+	</loot>
+</monster>
